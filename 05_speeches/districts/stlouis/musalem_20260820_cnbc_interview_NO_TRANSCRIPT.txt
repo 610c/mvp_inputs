@@ -1,0 +1,18 @@
+SOURCE: https://www.stlouisfed.org/from-the-president/remarks/2026/cnbc-interview-aug-20-2026
+SPEAKER: Alberto Musalem, President, Federal Reserve Bank of St. Louis
+DATE: 2026-08-20
+FORMAT: CNBC "Squawk on the Street" interview with Sara Eisen, Steve Liesman, Carl Quintanilla
+STATUS: Video only. No transcript published. See item 19.
+
+*** MATERIAL SIGNAL, from the page summary, verbatim: ***
+"On CNBC's 'Squawk on the Street,' St. Louis Fed President Alberto Musalem discussed why he
+supported an increase in the policy rate at the July FOMC meeting and noted he's keeping an
+open mind for the next meeting. During his Aug. 20 interview with Sara Eisen, Steve Liesman
+and Carl Quintanilla, he shared his views on the importance of bringing inflation down to 2%,
+the state of the labor market and what's moving the bond market."
+
+NOTE FOR SCORING: Musalem SUPPORTED A RATE INCREASE at the July 2026 meeting but does NOT
+appear in the July dissent list (Hammack, Kashkari, Logan). St. Louis is not a 2026 voting
+seat, so he could not dissent. The hawkish bloc is therefore larger than the 3-dissent count
+implies. Non-voting participants' policy preferences are invisible in the voting record and
+recoverable only from their own remarks.

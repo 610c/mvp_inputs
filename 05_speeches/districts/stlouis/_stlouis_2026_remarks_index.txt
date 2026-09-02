@@ -1,0 +1,19 @@
+St. Louis Fed / Alberto Musalem - 2026 remarks index
+Source: https://www.stlouisfed.org/from-the-president/remarks
+14 entries in 2026. Dates confirmed by fetching each page.
+IN WINDOW (18 Jun - 4 Sep):
+  2026-08-06  Speech "Monetary Policy and Productivity: Promoting Growth vs. Stabilizing
+              Prices", Centro de Debate de Politicas Publicas, Sao Paulo, Brazil + moderated Q&A
+  2026-08-20  CNBC "Squawk on the Street" interview (video only, no transcript)
+OUT OF WINDOW (checked, dates fall before 18 Jun):
+  2026-06-05  Kentucky/Indiana visit (tours + roundtable, no prepared text)
+  2026-06-01  Wentzville, Mo. visit (tour, no prepared text)
+  2026-05-28  Bloomberg interview        2026-05-06  Mississippi Bankers Assn Q&A
+  2026-05-xx  Reykjavik Economic Conference speech
+  2026-04-xx  Memphis visit              2026-04-01  AEI speech + moderated Q&A
+  2026-03-02  Chesterfield, Mo. roundtable
+  2026-02-xx  Missouri Athletic Club moderated discussion
+  2026-02-20  Fox Business interview     2026-01-xx  Univ. of Arkansas speech + Q&A
+  2026-01-13  MNI webcast
+IN-WINDOW COUNT: 2 (1 with prepared text, 1 video-only).
+NOTE: this index mixes speeches, TV interviews and site visits. Only some carry prepared text.

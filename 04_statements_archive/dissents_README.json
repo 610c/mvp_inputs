@@ -1,0 +1,8 @@
+{
+  "statements_captured_1999_2026": 231,
+  "meetings_with_named_vote_lines": 196,
+  "first_meeting_with_named_vote_lines": "2002-03-19",
+  "note": "The FOMC began publishing the vote roll call in the statement itself on 2002-03-19; that statement announces the change. Before that date statements contain NO voting information, so pre-2002 dissent data must come from the minutes.",
+  "meetings_with_dissent": 77,
+  "dissent_rate_of_vote_bearing_meetings": 0.393
+}

@@ -1,0 +1,126 @@
+SOURCE: https://www.stlouisfed.org/from-the-president/remarks/2026/monetary-policy-and-productivity-brazil
+SPEAKER: Alberto Musalem, President, Federal Reserve Bank of St. Louis
+DATE: 2026-08-06
+TITLE: Monetary Policy and Productivity: Promoting Growth vs. Stabilizing Prices
+VENUE: Centro de Debate de Politicas Publicas (Center for Public Policy Debate), Sao Paulo, Brazil
+NOTE: Followed by a Q&A moderated by Mario Mesquita, not included in the prepared text. See item 19.
+
+KEY TAKEAWAYS (as published)
+- It is crucial that monetary policy put a meaningful restraint on underlying inflation, rather than
+  tolerating somewhat higher inflation today to pursue productivity growth tomorrow. A central bank's
+  most valuable contribution to long-run growth is to supply the stable prices backdrop against which
+  firms can plan the investment and innovation that fuel economic growth.
+- I am an AI and productivity optimist, but I recently argued that the evidence does not yet justify
+  setting monetary policy on the expectation of higher productivity growth in the future. ... Today I
+  will focus on one aspect: the possibility that monetary policy does not merely respond to
+  productivity growth but helps to determine it.
+- There is a case for tolerating somewhat higher inflation in the short run in exchange for faster
+  long-run productivity growth. The argument says that gains from growth could compound year after
+  year and are potentially far larger than anything the smoothing of business cycles can deliver.
+  But, in my view, setting monetary policy easier than conditions would otherwise warrant in pursuit
+  of higher growth would be a mistake. The size of the eventual productivity gains is highly
+  uncertain, and the argument in favor of easier policy takes for granted the credibility of
+  monetary policy.
+
+FULL TEXT OF PREPARED REMARKS (as prepared for delivery)
+
+Good evening. I am delighted to be back in Brazil and to see friends and former colleagues. I would like to thank CDPP and Mario Mesquita for inviting me to address you today. I would like to thank Riccardo DiCecio and David Wheelock for assistance in preparing these remarks. Before I get started, let me stress that these are my views and not necessarily those of my Federal Open Market Committee colleagues.
+
+Few questions in economics today draw as much attention as what artificial intelligence (AI) will do to productivity and what that means for monetary policy. Firms are investing heavily in AI and other forms of automation. Many observers expect those investments to raise productivity growth durably, easing cost pressures and giving central banks room to keep interest rates lower than they would otherwise be.
+
+I am an AI and productivity optimist, but I recently argued that the evidence does not yet justify setting monetary policy on the expectation of higher productivity growth in the future. [See Musalem (2026).] In those remarks, I examined how faster productivity growth could affect inflation and interest rates, drawing on both economic theory and the historical record. Today I will focus on one aspect: the possibility that monetary policy does not merely respond to productivity growth but helps to determine it.
+
+Let me preview where I will land. There is a case for tolerating somewhat higher inflation in the short run in exchange for faster long-run productivity growth. The argument says that gains from growth could compound year after year and are potentially far larger than anything the smoothing of business cycles can deliver.
+
+But, in my view, setting monetary policy easier than conditions would otherwise warrant in pursuit of higher growth would be a mistake. The size of the eventual productivity gains is highly uncertain, and the argument in favor of easier policy takes for granted the credibility of monetary policy.
+
+The most valuable contribution to long-run growth that a central bank can make is to supply the stable prices backdrop against which firms can plan the investment and innovation that fuel economic growth. The job of fostering productivity growth is better suited to fiscal and regulatory policy.
+
+The Key Role of Productivity Growth
+
+When economists talk about the long-run prosperity of a country, the conversation almost always comes back to one variable: total factor productivity, or TFP. It captures how much output an economy generates from its combined inputs of labor and capital. When TFP rises, the same number of workers and the same stock of machines and buildings produce more output. TFP growth is the part of output growth that comes not from working longer hours or adding more equipment, but from better technology, smarter organization, and new ideas about how to combine capital and labor more effectively. [See Solow (1957), and, for a widely used utilization-adjusted measure, see Fernald (2014).]
+
+Because it cannot be observed directly, TFP growth is usually measured as a leftover: the share of output growth that remains after accounting for the growth in measured inputs. That residual matters enormously. Over decades, differences in TFP growth have been the main reason why some economies pull ahead in living standards while others stall. TFP growth matters for a central bank too. It helps set the economy's "speed limit," i.e., the pace at which output can expand without generating inflation. TFP growth also determines the level of interest rates consistent with stable prices.
+
+Luck and Productivity Growth
+
+Given TFP's central role, it may be surprising that most macroeconomic frameworks treat the TFP growth rate as something that happens to the economy rather than something economic policies can affect. In the real business cycle tradition, technology follows an external, random process. [See Kydland and Prescott (1982).] Productivity booms and slumps arrive as shocks from outside the economy, which simply reacts to them.
+
+The New Keynesian paradigm adds an assumption that prices are "sticky," so that monetary policy can influence the business cycle. [For a textbook exposition, see Gali (2015).] However, as with real business cycle thinking, the New Keynesian literature also assumes that technological change is exogenous. [The textbook New Keynesian model is deliberately stylized. The larger, estimated DSGE models used for policy analysis add capital accumulation, variable capacity utilization, wage rigidity and a rich menu of shocks, yet they generally continue to treat TFP as an exogenous process (e.g., Smets and Wouters, 2007). For an example maintained at a central bank, see Faria-e-Castro (2026).] A central bank can smooth output and inflation around the economy's productivity trend, but cannot influence that trend. Interest rates leave no lasting mark on the supply side of the economy. TFP growth is exogenous: a gift, or a setback, that monetary policymakers take as given.
+
+Investment Decisions and TFP
+
+AI's arrival is a good reason to revisit the assumption that productivity is exogenous. Consider activities that ultimately raise productivity: spending on research and development, adopting new tools, automating a task, launching a new firm or product, and so on. Those activities require investments that depend on the cost of financing them. That is precisely the lever a central bank pulls when it sets interest rates.
+
+If less expensive financing encourages more spending on innovation and automation, then monetary policy does not merely react to productivity, it can influence it. Economists call this "endogenous" TFP, meaning productivity growth is partly an outcome of economic conditions, including the monetary policy stance.
+
+Researchers have built the idea in several flavors. Some consider automation that shifts tasks from people to machines, others factor in the creation of new ideas and products, and some take into account the entry of new firms that widen the variety of goods. These approaches share a common feature: The pace of technical progress is a decision, not an accident. [On automation in task-based models, see Acemoglu and Restrepo (2018). On innovation-driven growth, see Romer (1990). On endogenous firm entry and product variety, see Bilbiie et al. (2012) and Okada (2022).]
+
+There is empirical support for the impact of monetary policy on productivity. Using U.S. data over several decades, at least one prominent study finds that tighter monetary policy can measurably reduce innovation, with long lags. [See Ma and Zimmermann (2023). While Ma and Zimmermann analyze U.S. data, studies analyzing other economies support their main finding that contractionary monetary policy significantly dampens innovation activity. See Majeed et al. (2025), Carvelli et al. (2024), and Elfsbacka-Schmoller et al. (2025).] The lost innovation shows up years later as lower output and lower TFP. [Ma and Zimmermann conclude that their findings do not necessarily imply that monetary policy should be more dovish to support innovation.] Interest rate decisions, in other words, can cast a long shadow over the supply side of the economy.
+
+Endogenous Productivity and Monetary Policy
+
+If productivity growth is partly endogenous, a central bank faces a novel trade-off absent in the textbook, exogenous-TFP setup. Leaning against inflation today may come at the cost of less innovation and slower TFP growth tomorrow. The tidy textbook result - that stabilizing inflation also stabilizes the real economy - no longer holds cleanly. Even demand-driven disturbances can leave lasting marks on supply.
+
+What does that imply for how monetary policy should be conducted? Economic research points in two directions.
+
+On one hand, when policy influences innovation, automation and firm entry, both fully optimal policy and simple interest rate rules tend to put more weight on stabilizing output. The reason is that supporting economic activity today helps encourage the investments that drive future productivity. This logic also makes episodes like the zero lower bound more costly than they would be if TFP were exogenous, [If an economic downturn is severe enough, the central bank would ideally cut interest rates to the point that they become negative. However, interest rates cannot fall much below zero. Hence, interest rate policy loses its ability to provide additional stimulus when the "zero lower bound" is encountered.] because a prolonged downturn drags down innovation and technological adoption. [See Bilbiie et al. (2014), Ikeda and Kurozumi (2019), Moran and Queralto (2018), and Anzoategui et al. (2019).]
+
+On the other hand, automation can flatten the Phillips curve, the relationship linking inflation to economic slack. Firms automate more when low interest rates make investing in automation more affordable. More automation raises productivity and lowers firms' marginal costs. With costs less sensitive to demand, inflation responds less to slack in economic activity. A flatter Phillips curve therefore calls for stronger and earlier action when inflation is too high or too low, because any given change in economic activity induced by monetary policy affects inflation less. [See Basso and Rachedi (2025) and Fueki et al. (2023).]
+
+So, considering the direct effects of monetary policy on TFP hands policymakers conflicting considerations, with some arguing for more attention to output and others arguing for more attention to inflation.
+
+How Big Is the Prize?
+
+How much any of this matters depends on the expected size of AI's economy-wide productivity gains. Estimates differ substantially. At the cautious end, one assessment considers only the tasks AI can currently perform and what they cost. It concludes that the technology will add only a fraction of a percent to TFP growth over a decade, barely a tenth of a percentage point per year. [At the cautious end, Acemoglu (2025) estimates a total TFP increase of about 0.66% over 10 years (roughly 0.53% after allowing for the fact that easier-to-automate tasks are adopted first), equivalent to less than a tenth of a percentage point per year.] Another analysis arrives at something closer to ten times that figure, on the order of two-thirds of a percentage point of additional TFP growth every year. [Using a task-based approach, Aghion and Bunel (2024) estimate roughly 0.68 percentage points of additional TFP growth per year. A complementary growth-accounting approach yields a still larger 0.8-1.3 percentage points.]
+
+Economic growth theory allows for an even more dramatic possibility. Suppose AI becomes capable enough to automate the research that generates new ideas, including the work of improving AI itself. The resulting feedback loop could tip the economy into a phase of accelerating growth. [Davidson et al. (2026) derive conditions under which automating research itself, including AI research, can push growth from steady to super-exponential.]
+
+What divides these views is differing answers to a few open questions: how many tasks AI will ultimately take on, how fast firms adopt it, and whether it accelerates innovation itself.
+
+Easy Monetary Policy to Foster Growth: Pros and Cons
+
+Put the pieces together and a seductive argument emerges. Suppose low interest rates can coax faster productivity growth, and that faster growth eventually relieves inflation by lowering production costs. Then accepting a little more inflation now might pay for itself later. The potential payoff could be sizeable.
+
+A long line of research holds that monetary policy's traditional task - smoothing the business cycle by steering aggregate demand - delivers only modest welfare gains because the cost to households of those fluctuations is surprisingly small. [Lucas (2003) puts the welfare gain from eliminating business cycle fluctuations at a small fraction of consumption, far below the gains from even modestly faster long-run growth.] In contrast, even slightly faster trend growth lifts future living standards by far more than smoothing the cycle ever could. Perhaps, then, the prize of even slightly faster growth is worth running some inflation risk to claim it.
+
+The trouble is that this reasoning takes the central bank's credibility for granted. The bargain only works because households, firms and investors keep expecting inflation to return to target. That expectation is what keeps borrowing costs, wage demands and prices anchored. A central bank seen to tolerate above-target inflation on the promise of a future productivity windfall can put that anchor at risk. Credibility, once lost, is expensive to rebuild. History suggests restoring it can take a long stretch of painfully high real interest rates, a high unemployment rate and lost output. Once those costs are weighed against the potential productivity gains, it is far from clear that a central bank should pursue monetary policy that is easier than warranted in order to foster productivity growth.
+
+A further reason for caution is that our dual mandate is written in terms of prices and employment. [The Federal Reserve Act, Section 2A, directs the FOMC to promote "maximum employment, stable prices, and moderate long-term interest rates." The Central Bank of Brazil's primary objective is price stability (Complementary Law No. 179 of 24 February 2021); financial stability, output and employment stabilization are subordinate objectives. Neither mandate targets the long-run rate of productivity growth.] It says nothing about raising the economy's long-run growth rate. A long tradition in economics holds that monetary policy cannot durably lift real growth, and that it does the most good by keeping inflation low and stable. [See Friedman (1968).] Fiscal and regulatory policy are the levers that reliably support productivity growth. Matching each instrument to the goal it is best suited to serve is an old principle. [The principle that policy needs as many instruments as it has independent targets, each matched to the goal it serves best, is due to Tinbergen (1952).]
+
+Conclusion
+
+To close my remarks, let me connect all of this to the current environment. The U.S. economy has been resilient in recent months. The labor market has stabilized with solid payroll growth and an unemployment rate close to its longer-run value. However, inflation is well above the FOMC's 2% target, and the balance of risks is tilted toward inflation remaining above target a year or more from now.
+
+Against this backdrop, it is crucial that monetary policy put a meaningful restraint on underlying inflation, rather than tolerating somewhat higher inflation today to pursue productivity growth tomorrow. A central bank's most valuable contribution to long-run growth is to supply the stable prices backdrop against which firms can plan the investment and innovation that fuel economic growth.
+
+Thank you.
+
+REFERENCES
+Acemoglu, Daron. "The Simple Macroeconomics of AI." Economic Policy, Vol. 40, Issue 121, January 2025, pp. 13-58.
+Acemoglu, Daron and Pascual Restrepo. "The Race between Man and Machine." American Economic Review, Vol. 108, No. 6, June 2018, pp. 1488-1542.
+Aghion, Philippe and Simon Bunel. "AI and Growth: Where Do We Stand?" College de France, unpublished manuscript, June 2024.
+Anzoategui, Diego, Diego Comin, Mark Gertler, and Joseba Martinez. "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence." AEJ: Macroeconomics, Vol. 11, No. 3, July 2019, pp. 67-110.
+Basso, Henrique S. and Omar Rachedi. "Robot Adoption and Inflation Dynamics." Journal of Monetary Economics, Vol. 156, December 2025, 103856.
+Bilbiie, Florin O., Ippei Fujiwara, and Fabio Ghironi. "Optimal Monetary Policy with Endogenous Entry and Product Variety." Journal of Monetary Economics, Vol. 64, May 2014, pp. 1-20.
+Bilbiie, Florin O., Fabio Ghironi, and Marc J. Melitz. "Endogenous Entry, Product Variety, and Business Cycles." Journal of Political Economy, Vol. 120, No. 2, April 2012, pp. 304-345.
+Carvelli, Gianni, Eleonora Bartoloni, and Maurizio Baussola. "Monetary Policy and Innovation in Europe: An SVAR Approach." Finance Research Letters, Vol. 66, August 2024, 105730.
+Davidson, Tom, Basil Halperin, Thomas Houlden, and Anton Korinek. "When Does Automating AI Research Produce Explosive Growth?" NBER Working Paper No. 35155, April 2026.
+Elfsbacka-Schmoller, Michaela, Olga Goldfayn-Frank, and Tobias Schmidt. "Beyond the Short Run: Monetary Policy and Innovation Investment." ECB Working Paper No. 3080, July 2025.
+Faria-e-Castro, Miguel. "The St. Louis Fed DSGE Model." FRB St. Louis Working Paper No. 2024-014D, June 2026.
+Fernald, John. "A Quarterly, Utilization-Adjusted Series on Total Factor Productivity." FRBSF Working Paper No. 2012-19, April 2014.
+Friedman, Milton. "The Role of Monetary Policy." American Economic Review, Vol. 58, No. 1, March 1968, pp. 1-17.
+Fueki, Takuji, Shinnosuke Katsuki, Ichiro Muto, and Yu Sugisaki. "Automation and Nominal Rigidities." Bank of Japan IMES Discussion Paper No. 2023-E-1, January 2023.
+Gali, Jordi. Monetary Policy, Inflation, and the Business Cycle, 2nd ed. Princeton University Press, 2015.
+Ikeda, Daisuke and Takushi Kurozumi. "Slow Post-financial Crisis Recovery and Monetary Policy." AEJ: Macroeconomics, Vol. 11, No. 4, October 2019, pp. 82-112.
+Kydland, Finn E. and Edward C. Prescott. "Time to Build and Aggregate Fluctuations." Econometrica, Vol. 50, No. 6, November 1982, pp. 1345-1370.
+Lucas, Robert E. Jr. "Macroeconomic Priorities." American Economic Review, Vol. 93, No. 1, March 2003, pp. 1-14.
+Ma, Yueran and Kaspar Zimmermann. "Monetary Policy and Innovation." NBER Working Paper No. 31698, September 2023.
+Majeed, Omer, Jonathan Hambur, and Robert Breunig. "Does Monetary Policy Impact Innovation? Evidence from Australian Administrative Data." Journal of Macroeconomics, Vol. 86, December 2025, 103706.
+Moran, Patrick and Albert Queralto. "Innovation, Productivity, and Monetary Policy." Journal of Monetary Economics, Vol. 93, January 2018, pp. 24-41.
+Musalem, Alberto G. "How Should the Promise of Higher Productivity Growth Change the Reality of Monetary Policy Today?" Reykjavik Economic Conference, May 28, 2026.
+Okada, Toshihiro. "Endogenous Technological Change and the New Keynesian Model." Review of Economics and Statistics, Vol. 104, Issue 6, November 2022, pp. 1224-1240.
+Romer, Paul M. "Endogenous Technological Change." Journal of Political Economy, Vol. 98, No. 5, Part 2, October 1990, pp. S71-S102.
+Smets, Frank and Rafael Wouters. "Shocks and Frictions in US Business Cycles: A Bayesian DSGE Approach." American Economic Review, Vol. 97, No. 3, June 2007, pp. 586-606.
+Solow, Robert M. "Technical Change and the Aggregate Production Function." Review of Economics and Statistics, Vol. 39, No. 3, August 1957, pp. 312-320.
+Tinbergen, Jan. On the Theory of Economic Policy. Amsterdam: North-Holland, 1952.

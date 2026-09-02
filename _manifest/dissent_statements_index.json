@@ -1,0 +1,12 @@
+{
+  "practice": "All three July 2026 dissenters published standalone dissent-explanation statements on their own district bank sites on 2026-07-31, two days after the meeting. The same three (plus Miran) did so after the April meeting. This is a recurring, per-participant, first-person source of dissent reasoning that does NOT appear on federalreserve.gov.",
+  "why_it_matters": "It supplies named per-participant policy reasoning at meeting+2 days, versus meeting+3 weeks for the minutes. For a near-real-time MVP this is the fastest attributable signal available after the format change.",
+  "statements": [
+    {"participant":"Beth M. Hammack","bank":"Cleveland","meeting":"2026-07-28/29","date":"2026-07-31","preferred":"raise 25bp","url":"https://www.clevelandfed.org/collections/speeches/sp-20260731-statement-regarding-july-fomc-meeting-vote","captured":true},
+    {"participant":"Neel Kashkari","bank":"Minneapolis","meeting":"2026-07-28/29","date":"2026-07-31","preferred":"raise 25bp","url":"https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent","captured":true},
+    {"participant":"Lorie K. Logan","bank":"Dallas","meeting":"2026-07-28/29","date":"2026-07-31","preferred":"raise 25bp","url":"https://www.dallasfed.org/news/releases/2026/nr260731dissent","captured":true},
+    {"participant":"Beth M. Hammack","bank":"Cleveland","meeting":"2026-04-28/29","date":"2026-05-01","preferred":"no easing bias","url":"https://www.clevelandfed.org/collections/speeches/sp-20260501-statement-regarding-april-fomc-meeting-vote","captured":false},
+    {"participant":"Lorie K. Logan","bank":"Dallas","meeting":"2026-04-28/29","date":"2026-05-01","preferred":"no easing bias","url":"https://www.dallasfed.org/news/releases/2026/nr260501dissent","captured":false},
+    {"participant":"Neel Kashkari","bank":"Minneapolis","meeting":"2026-04-28/29","date":"2026-05-01","preferred":"no easing bias","url":"https://www.minneapolisfed.org/article/2026/why-i-dissented","captured":false,"url_unverified":true}
+  ]
+}

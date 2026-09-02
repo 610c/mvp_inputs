@@ -1,0 +1,36 @@
+# Domains needed for the data_mvp corpus download.
+# Add these to the session egress allowlist, then re-run fetch_all.sh.
+
+# --- Board of Governors (items 1-15, 22-23, 29) ---
+federalreserve.gov
+www.federalreserve.gov
+
+# --- All twelve district banks (items 16-21, 24-25) ---
+newyorkfed.org
+philadelphiafed.org
+clevelandfed.org
+dallasfed.org
+minneapolisfed.org
+richmondfed.org
+frbsf.org
+chicagofed.org
+bostonfed.org
+stlouisfed.org
+kansascityfed.org
+atlantafed.org
+
+# --- Structural / clout inputs (items 22-25) ---
+crsreports.congress.gov
+
+# --- Warsh pre-Fed writings (item 13) ---
+hoover.org
+bankofengland.co.uk
+
+# --- Testimony (item 11) ---
+banking.senate.gov
+financialservices.house.gov
+
+# --- Macro + market context (items 26-28) ---
+bls.gov
+bea.gov
+cmegroup.com

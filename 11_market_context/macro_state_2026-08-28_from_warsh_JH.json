@@ -1,0 +1,41 @@
+{
+  "as_of": "2026-08-28",
+  "source": "Warsh Jackson Hole keynote 'In Our Time', federalreserve.gov/newsevents/speech/warsh20260828a.htm",
+  "note": "Figures as characterized by the Chairman. Verify against primary BLS/BEA releases (item 26) before scoring.",
+  "policy": {
+    "target_range_pct": "3.50-3.75",
+    "held_since": "2025-12",
+    "last_change": null,
+    "reserves_policy": "maintaining ample reserves in the banking system"
+  },
+  "inflation": {
+    "pce_headline_12m_pct": 3.7,
+    "pce_headline_6m_annualized_pct": 4.1,
+    "target_pct": 2.0,
+    "target_measure": "PCE price index",
+    "months_of_sustained_elevated_inflation": 65,
+    "pce_basket_share_above_3pct_12m": 0.54,
+    "pce_basket_share_above_3pct_6m": 0.49,
+    "pce_basket_share_above_3pct_postpandemic_high": 0.77,
+    "pce_basket_share_above_3pct_pre_pandemic_2decade_avg": 0.32,
+    "pce_components_count": 199
+  },
+  "labor": {
+    "unemployment_rate_pct": 4.1,
+    "assessment": "consistent with full employment",
+    "claims_4wk_avg": "near lowest level in decades"
+  },
+  "activity": {
+    "equipment_intangibles_investment_4q_pct": 9.0,
+    "sp500_profit_growth_1y_pct": 20.0,
+    "real_consumer_spending_4q_pct": 2.0,
+    "pdfp_cy_pace_pct": 3.0,
+    "financial_conditions": "not restrictive; credit spreads near low end of historical range"
+  },
+  "chair_signal": {
+    "predominant_focus": "prices",
+    "standard": "must be confident underlying inflation is moving to objective, clearly and at sufficient speed",
+    "forward_guidance_stance": "deprecated as regular practice; 'committed to a discipline, not to a decision'",
+    "reaction_function": "explicitly declines to commit to one; rejects mechanical Taylor-rule reliance"
+  }
+}

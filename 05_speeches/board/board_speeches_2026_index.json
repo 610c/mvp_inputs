@@ -1,0 +1,401 @@
+[
+  {
+    "speaker": "barr",
+    "date": "2026-09-01",
+    "title": "Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "warsh",
+    "date": "2026-08-28",
+    "title": "In Our Time",
+    "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "cook",
+    "date": "2026-08-05",
+    "title": "Outlook for the U.S. and Alaskan Economies",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "jefferson",
+    "date": "2026-07-16",
+    "title": "Navigating Economic Shocks: A Monetary Policymaker's Perspective",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "cook",
+    "date": "2026-07-15",
+    "title": "Economic Outlook",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-07-14",
+    "title": "Responsible Innovation and Financial Inclusion",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-07-14",
+    "title": "Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-07-13",
+    "title": "Monetary Policy at a Crossroads",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-07-13",
+    "title": "Modernizing Financial Regulation",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-07-07",
+    "title": "Opening Remarks on Sound Practices for Artificial Intelligence",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260707a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-07-06",
+    "title": "Two Thoughts on the Transmission of Monetary Policy",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "cook",
+    "date": "2026-06-24",
+    "title": "Welcome Remarks",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260624a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-06-22",
+    "title": "Welcoming Remarks on the International Role of the U.S. Dollar",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm",
+    "in_window_0618_0904": true
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-06-06",
+    "title": "Deregulating in a Financial Boom: What Could Go Wrong?",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260606a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "powell",
+    "date": "2026-05-31",
+    "title": "Acceptance Remarks",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20260531a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-05-29",
+    "title": "A Framework for Practical Monetary Policy Decision Making",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "jefferson",
+    "date": "2026-05-27",
+    "title": "Global Economic Developments and the U.S. Economy",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "cook",
+    "date": "2026-05-27",
+    "title": "The Opportunities and Risks AI Presents for the Economy and Financial System",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-05-22",
+    "title": "Policy Risks Have Changed",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-05-20",
+    "title": "Measuring Financial Health",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260520a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-05-14",
+    "title": "Efficient and Effective Central Banking: Beyond the Balance Sheet",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-05-14",
+    "title": "Opening Remarks",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260514a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-05-08",
+    "title": "When Regulation Reshapes Markets: The Migration of Corporate Lending",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260508a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-05-08",
+    "title": "Update On Federal Reserve Bank Operations",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260508a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "cook",
+    "date": "2026-05-08",
+    "title": "Perspectives on Tokenization and Implications for the Financial System",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260508a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-05-05",
+    "title": "A Coordinated Approach to Consumer Fraud Protection",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260505a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-05-01",
+    "title": "Artificial Intelligence in the Financial System",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-04-21",
+    "title": "Modernizing Federal Reserve Operations in the 21st Century",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260421a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-04-17",
+    "title": "One Transitory Shock After Another",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-04-14",
+    "title": "Rural Communities: Worth the Investment",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260414a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "jefferson",
+    "date": "2026-04-07",
+    "title": "Economic Outlook and the Labor Market",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-03-31",
+    "title": "Supporting Small Businesses",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260331a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-03-31",
+    "title": "Brief Remarks on Stablecoins",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260331a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-03-26",
+    "title": "Brief Remarks on the Economic Outlook and Monetary Policy",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260326a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "jefferson",
+    "date": "2026-03-26",
+    "title": "Economic Outlook and Energy Effects",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260326a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "miran",
+    "date": "2026-03-26",
+    "title": "Prospects for Shrinking the Fed's Balance Sheet",
+    "url": "https://www.federalreserve.gov/newsevents/speech/miran20260326a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "cook",
+    "date": "2026-03-26",
+    "title": "Reflections on Financial Stability",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260326a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-03-24",
+    "title": "Developing Communities through Public-private Partnerships",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260324a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "powell",
+    "date": "2026-03-21",
+    "title": "Acceptance Remarks",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20260321a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-03-12",
+    "title": "Capital Rules for the Real Economy",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-03-03",
+    "title": "Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-02-26",
+    "title": "Supervision and Regulation",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260226a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "cook",
+    "date": "2026-02-24",
+    "title": "Opening Remarks for the \"AI and Productivity across the Economy\" Panel",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260224a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-02-24",
+    "title": "Operationalizing AI at the Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260224a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-02-23",
+    "title": "Labor Market Data: Signal or Noise?",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-02-19",
+    "title": "Opening Remarks",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260219a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "barr",
+    "date": "2026-02-17",
+    "title": "What Will Artificial Intelligence Mean for the Labor Market and the Economy?",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20260217a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-02-16",
+    "title": "Revitalizing Bank Mortgage Lending, One Step with Basel",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260216a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "jefferson",
+    "date": "2026-02-06",
+    "title": "Economic Outlook and Supply-Side (Dis)Inflation Dynamics",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260206a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "cook",
+    "date": "2026-02-04",
+    "title": "Economic Outlook",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260204a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-01-30",
+    "title": "Outlook for the Economy and Monetary Policy",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260130a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "waller",
+    "date": "2026-01-30",
+    "title": "Statement by Governor Christopher J. Waller",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260130a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "jefferson",
+    "date": "2026-01-16",
+    "title": "Economic Outlook and Monetary Policy Implementation",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260116a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-01-16",
+    "title": "Outlook for the Economy and Monetary Policy",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "miran",
+    "date": "2026-01-14",
+    "title": "Regulations, the Supply Side, and Monetary Policy",
+    "url": "https://www.federalreserve.gov/newsevents/speech/miran20260114a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "powell",
+    "date": "2026-01-11",
+    "title": "Statement from Federal Reserve Chair Jerome H. Powell",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
+    "in_window_0618_0904": false
+  },
+  {
+    "speaker": "bowman",
+    "date": "2026-01-07",
+    "title": "Modernizing Supervision and Regulation: 2025 and the Path Ahead",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260107a.htm",
+    "in_window_0618_0904": false
+  }
+]

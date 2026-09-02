@@ -1,0 +1,19 @@
+Chicago Fed / Austan Goolsbee - 2026 speaking engagements
+Source: https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+All 14 listed 2026 engagements:
+  feb-19-joint-conference-financial-crises
+  feb-24-nabe-economic-policy-conference
+  mar-5-foreign-policy-association-financial-services-dinner
+  mar-31-economic-mobility-project
+  apr-7-detroit-economic-club
+  apr-14-semafor-world-economy
+  may-6-milken-institute
+  may-8-hoover-institution-monetary-policy
+  may-12-greater-rockford-chamber-commerce-luncheon
+  may-27-bank-of-japan
+  june-25-chicago-council            <-- IN WINDOW
+  jul-14-kenosha-business-alliance   <-- IN WINDOW
+  sept-21-omfif                      <-- future, after 4 Sep
+  sept-30-norc                       <-- future, after 4 Sep
+IN-WINDOW COUNT (18 Jun - 4 Sep): 2, neither with a transcript.
+GAP: no engagements between 14 Jul and 21 Sep (10 weeks).

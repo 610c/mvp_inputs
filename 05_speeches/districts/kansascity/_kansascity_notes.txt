@@ -1,0 +1,15 @@
+KC Fed structure note:
+- /speeches/ lists BOTH president speeches (as /speeches/<slug>/ pages with full text)
+  and STAFF ECONOMIST presentations (as /documents/<id>/<file>.pdf, usually slide decks).
+- President Schmid in-window speeches (18 Jun - 4 Sep 2026):
+    2026-07-16  The Federal Reserve, Economic Outlook and Monetary Policy (Grand Island, NE)  [CAPTURED]
+    2026-08-04  Agriculture, the Economy, and the Kansas City Fed (Omaha, NE)                 [NOT YET CAPTURED, 15,834 chars]
+- Staff presentations in window (PDF slide decks, item 17 denominator):
+    2026-08-20  Nate Kauffman   - Update on U.S. Economy and Agriculture (ASFMRA webinar)
+    2026-08-19  Cortney Cowley  - U.S. and Oklahoma Economic Outlook (BancFirst)
+    2026-08-18  Nick Sly        - U.S. Economic Developments and Outlook (Commercial Receivers Assn)
+    2026-08-06  Megan Williams  - U.S. and Oklahoma Economic Outlook (RMA Tulsa)
+    2026-08-04  Megan Williams  - U.S. and Oklahoma Economic Outlook (RMA OKC)
+    2026-07-14  Nick Sly        - U.S. Economic Developments and Outlook (FOX Family Office, Denver)
+    2026-07-14  Jeremy Hill     - 2026 Wichita Economic Forum
+- ITEM 21: Jackson Hole 2026 program at /research/jackson-hole-economic-symposium/2026/

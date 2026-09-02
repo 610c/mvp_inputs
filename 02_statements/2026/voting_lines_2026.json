@@ -1,0 +1,122 @@
+{
+  "2026-01-28": {
+    "chair": "Powell",
+    "format": "legacy_named_roster",
+    "tally": null,
+    "voting_for": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams, Vice Chair; Michael S. Barr; Michelle W. Bowman; Lisa D. Cook; Beth M. Hammack; Philip N. Jefferson; Neel Kashkari; Lorie K. Logan; and Anna Paulson.",
+    "voting_against": "Voting against this action were Stephen I. Miran and Christopher J. Waller, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+    "dissenters": [
+      "Stephen I. Miran",
+      "Christopher J. Waller"
+    ],
+    "dissent_direction": "easier",
+    "n_for": 10,
+    "n_against": 2,
+    "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm"
+  },
+  "2026-03-18": {
+    "chair": "Powell",
+    "format": "legacy_named_roster",
+    "tally": null,
+    "voting_for": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams, Vice Chair; Michael S. Barr; Michelle W. Bowman; Lisa D. Cook; Beth M. Hammack; Philip N. Jefferson; Neel Kashkari; Lorie K. Logan; Anna Paulson; and Christopher J. Waller.",
+    "voting_against": "Voting against this action was Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+    "dissenters": [
+      "Stephen I. Miran"
+    ],
+    "dissent_direction": "easier",
+    "n_for": 11,
+    "n_against": 1,
+    "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm"
+  },
+  "2026-04-29": {
+    "chair": "Powell",
+    "format": "legacy_named_roster",
+    "tally": null,
+    "voting_for": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams, Vice Chair; Michael S. Barr; Michelle W. Bowman; Lisa D. Cook; Philip N. Jefferson; Anna Paulson; and Christopher J. Waller.",
+    "voting_against": "Voting against this action were Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting; and Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who supported maintaining the target range for the federal funds rate but did not support inclusion of an easing bias in the statement at this time.",
+    "dissenters": [
+      "Stephen I. Miran",
+      "Beth M. Hammack",
+      "Neel Kashkari",
+      "Lorie K. Logan"
+    ],
+    "dissent_direction": "mixed (Miran easier; Hammack/Kashkari/Logan against easing bias)",
+    "n_for": 8,
+    "n_against": 4,
+    "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
+  },
+  "2026-06-17": {
+    "chair": "Warsh",
+    "format": "NEW_aggregate_tally_only",
+    "tally": "12 - 0",
+    "voting_for": null,
+    "voting_against": null,
+    "dissenters": [],
+    "dissent_direction": null,
+    "n_for": 12,
+    "n_against": 0,
+    "note": "Statement gives only '12 - 0 vote' with no names. FULL NAMED ROSTER IS RECOVERABLE FROM THE MINUTES.",
+    "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+    "minutes_voting_for": "Voting for this action: Kevin Warsh, John C. Williams, Michael S. Barr, Michelle W. Bowman, Lisa D. Cook, Beth M. Hammack, Philip N. Jefferson, Neel Kashkari, Lorie K. Logan, Anna Paulson, Jerome H. Powell, and Christopher J. Waller.",
+    "minutes_voting_against": "Voting against this action: None.",
+    "roster_for": [
+      "Kevin Warsh",
+      "John C. Williams",
+      "Michael S. Barr",
+      "Michelle W. Bowman",
+      "Lisa D. Cook",
+      "Beth M. Hammack",
+      "Philip N. Jefferson",
+      "Neel Kashkari",
+      "Lorie K. Logan",
+      "Anna Paulson",
+      "Jerome H. Powell",
+      "Christopher J. Waller"
+    ],
+    "roster_against": [],
+    "minutes_source": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm"
+  },
+  "2026-07-29": {
+    "chair": "Warsh",
+    "format": "NEW_aggregate_tally_plus_named_dissents",
+    "tally": "9 - 3",
+    "voting_for": null,
+    "voting_against": "Voting against the monetary policy action were Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+    "dissenters": [
+      "Beth M. Hammack",
+      "Neel Kashkari",
+      "Lorie K. Logan"
+    ],
+    "dissent_direction": "tighter",
+    "n_for": 9,
+    "n_against": 3,
+    "note": "Statement gives '9 - 3 vote' plus named dissenters only. FULL NAMED ROSTER IS RECOVERABLE FROM THE MINUTES.",
+    "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+    "minutes_voting_for": "Voting for this action: Kevin Warsh, John C. Williams, Michael S. Barr, Michelle W. Bowman, Lisa D. Cook, Philip N. Jefferson, Anna Paulson, Jerome H. Powell, and Christopher J. Waller.",
+    "minutes_voting_against": "Voting against this action: Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+    "roster_for": [
+      "Kevin Warsh",
+      "John C. Williams",
+      "Michael S. Barr",
+      "Michelle W. Bowman",
+      "Lisa D. Cook",
+      "Philip N. Jefferson",
+      "Anna Paulson",
+      "Jerome H. Powell",
+      "Christopher J. Waller"
+    ],
+    "roster_against": [
+      "Beth M. Hammack",
+      "Neel Kashkari",
+      "Lorie K. Logan"
+    ],
+    "minutes_source": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+    "iorb_pct": 3.65,
+    "primary_credit_rate_pct": 3.75
+  },
+  "_parsing_guidance": {
+    "statements_through_2026-04-29": "Parse named 'Voting for/against' from the STATEMENT.",
+    "statements_from_2026-06-17": "Statement carries an aggregate tally only. Parse the named roster from the MINUTES: regex 'Voting (for|against) this action:'.",
+    "implication": "Per-participant vote attribution is NOT lost after the format change; the source moves from statement to minutes (3-week publication lag)."
+  }
+}
