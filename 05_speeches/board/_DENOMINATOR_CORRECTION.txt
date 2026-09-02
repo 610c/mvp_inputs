@@ -1,0 +1,114 @@
+CORRECTION TO THE IN-WINDOW BOARD SPEECH DENOMINATOR
+Supersedes the counts in board_speeches_2026_index.json / .csv
+
+WHAT WAS WRONG
+An earlier count used the Board SPEECHES INDEX (/newsevents/speech/2026-speeches.htm) as the
+denominator and reported 13 in-window Board appearances, with Warsh at ONE for the whole year.
+That was wrong. The speeches index lists only events the Board publishes as a "Speech" with a
+prepared text. The MONTHLY CALENDAR PAGES (item 20) list a second category - "Discussion" -
+which the index omits entirely. These are real public appearances by governors, on the record,
+often on monetary policy, with no prepared text and therefore no index entry.
+
+APPEARANCES IN WINDOW (18 Jun - 4 Sep 2026) MISSING FROM THE SPEECHES INDEX
+  2026-06-25  Bowman   Discussion, "Small Bank Supervision and Regulation",
+                       Massachusetts Bankers Assn Executive Officers Conference, Harwich, Mass.
+  2026-07-01  WARSH    Discussion, "Policy Panel Discussion",
+                       ECB Forum on Central Banking 2026, Sintra, Portugal
+  2026-07-14  Cook     Discussion, "Consumers, Artificial Intelligence, and Financial Inclusion",
+                       FRB Annual Financial Inclusion Conference
+  2026-07-14  Barr     Discussion, "Fireside Chat on Artificial Intelligence and Financial
+                       Inclusion", FRB Annual Financial Inclusion Conference
+  2026-08-08  Bowman   Discussion, "Fireside Chat", 2026 CEO & Senior Management Summit (Virtual)
+  2026-09-03  Waller   Speech, "Economic Outlook", Reuters NEXT Newsmaker Interview (Virtual)
+                       [scheduled; had not occurred as of capture on 2026-09-01]
+
+CORRECTED IN-WINDOW COUNTS (appearances, not documents)
+  speaker      indexed speeches   calendar-only   TOTAL in-window
+  Bowman              3                2                5
+  Cook                3                1                4
+  Waller              3                1*               4   (*Sep 3, scheduled)
+  Barr                2                1                3
+  WARSH               1                1                2
+  Jefferson           1                0                1
+  Powell              0                0                0
+  Miran               0                0                0
+  TOTAL              13                6               19
+
+WHAT THIS CHANGES
+1. WARSH MADE TWO IN-WINDOW APPEARANCES, NOT ONE. The 1 July ECB Sintra policy panel is a
+   Chairman-level monetary-policy appearance six weeks before Jackson Hole. The earlier
+   claim that he "gave exactly one speech all year" was an artefact of the index, not a fact
+   about his behaviour.
+2. THE INDEX SYSTEMATICALLY UNDERCOUNTS, AND NOT AT RANDOM. It drops exactly the format that
+   produces no prepared text. So a text-based corpus and an appearance-based denominator
+   diverge, and they diverge MOST for participants who favour conversational formats.
+   This is the same bias already documented for Goolsbee at the Chicago Fed, where all
+   in-window appearances are fireside chats with no transcript.
+3. THE CORRECT DENOMINATOR IS THE CALENDAR, NOT THE SPEECH INDEX. This is precisely what
+   item 20 was for. Any salience or volume measure should be built on the monthly calendar
+   pages (12_calendars/) and treat the speech index as the *numerator* - documents available -
+   rather than as the universe of appearances.
+
+SOURCE FILES
+  12_calendars/fed_calendar_2026-06.txt ... 2026-09.txt   (item 20, verbatim)
+  05_speeches/board/board_speeches_2026_index.json         (index-derived, now superseded
+                                                            as a denominator)
+
+
+================================================================
+UPDATE 2026-09-02 — indexed in-window Board speeches now COMPLETE
+================================================================
+All 13 indexed in-window Board speeches are captured. Files:
+
+  06-22  waller_20260622_international_role_of_the_dollar.txt
+  06-24  cook_20260624_welcome_remarks_small_business.txt
+  07-06  waller_20260706_transmission_of_monetary_policy.txt
+  07-07  bowman_20260707_sound_practices_for_ai.txt
+  07-13  waller_20260713_monetary_policy_at_a_crossroads.txt
+  07-13  bowman_20260713_modernizing_financial_regulation.txt        [NEW]
+  07-14  barr_20260714_ai_living_standards_or_inequality.txt         [NEW]
+  07-14  bowman_20260714_responsible_innovation_financial_inclusion.txt
+  07-15  cook_20260715_economic_outlook.txt
+  07-16  jefferson_20260716_navigating_economic_shocks.txt
+  08-05  cook_20260805_outlook_us_and_alaskan_economies.txt
+  08-28  (Warsh, Jackson Hole) -> ../../08_warsh/warsh20260828_jackson_hole_in_our_time.txt
+  09-01  barr_20260901_unlocking_opportunities_criminal_record.txt   [NEW]
+
+REVISION TO THE COUNTS ABOVE
+The 2026-09-01 Barr speech was published AFTER the earlier capture and was not
+in the original 13. The corrected table is:
+
+  speaker      indexed speeches   calendar-only   TOTAL in-window
+  Bowman              3                2                5
+  Barr                3                1                4
+  Cook                3                1                4
+  Waller              3                1*               4   (*Sep 3, scheduled)
+  WARSH               1                1                2
+  Jefferson           1                0                1
+  Powell              0                0                0
+  Miran               0                0                0
+  TOTAL              14                6               20
+
+THE POINT ABOUT TOPIC FILTERING, RESTATED WITH A CONCRETE CASE
+The 2026-09-01 Barr speech is titled "Unlocking Opportunities for Workers and
+Entrepreneurs with a Criminal Record" and is tagged to financial inclusion.
+Any pipeline that selects speeches by monetary-policy topic DISCARDS IT. Yet
+it contains the single most explicit pre-September policy commitment in the
+whole window:
+
+  "if inflation appears not to be moderating sufficiently, then I think we
+   should act decisively to raise rates."
+
+This is exactly what the instruction "every speech, not only monetary policy
+ones" was protecting against. The denominator argument and the numerator
+argument turn out to be the same argument: filter by topic and you lose both
+the count AND the content.
+
+THREE HAWKISH CONDITIONALS IN THE WINDOW (cross-file)
+  2026-08-04  Paulson (Philadelphia) — "more restrictive policy may be needed"
+  2026-08-25  Collins (Boston)       — "appropriate to tighten policy soon"
+  2026-09-01  Barr (Board)           — "act decisively to raise rates"
+All three are CONDITIONAL on inflation failing to moderate, and all three
+come from participants who supported the July hold. This clustering is the
+strongest dissent-direction signal in the corpus: the September risk is a
+HAWKISH dissent, not a dovish one.

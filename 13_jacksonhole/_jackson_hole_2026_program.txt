@@ -1,0 +1,147 @@
+2026 JACKSON HOLE ECONOMIC POLICY SYMPOSIUM — FULL PROGRAM (ITEM 21)
+Host:   Federal Reserve Bank of Kansas City
+Theme:  "Financial Innovation: Implications for Payments and Policy"
+Dates:  Thursday, August 27 – Saturday, August 29, 2026
+Place:  Jackson, Wyoming
+Source: https://www.kansascityfed.org/research/jackson-hole-economic-symposium/2026/
+Captured: 2026-09-02 (verbatim agenda text)
+All session times listed by the Bank are in Mountain Time.
+
+================================================================
+AGENDA
+================================================================
+
+DAY 1 — Thursday, August 27
+  Opening Reception and Dinner
+    Jeffrey Schmid | Host
+      President and Chief Executive Officer, Federal Reserve Bank of Kansas City
+
+DAY 2 — Friday, August 28
+  Friday Session
+    Kristin J. Forbes | Chair
+      Professor, Massachusetts Institute of Technology
+
+  Opening Remarks
+    Kevin Warsh | Keynote
+      Chairman, Board of Governors, Federal Reserve System
+      [Video Remarks — external]
+      [Written Remarks — external, hosted at federalreserve.gov]
+      -> CAPTURED: ../08_warsh/warsh20260828_jackson_hole_in_our_time.txt
+         (title "In Our Time")
+
+  Financial Innovation and the International Monetary System
+    Eswar Prasad | Author, Professor, Cornell University
+      Prasad Paper    -> /documents/18555/prasad.pdf
+      Prasad Handout  -> /documents/18553/prasad_handout.pdf
+    Catherine L. Mann | Discussant
+      External Member, Monetary Policy Committee, Bank of England
+      Mann Handout    -> /documents/18554/mann_handout.pdf
+    General Discussion
+
+  Innovation in Tokenized Finance
+    Darrell Duffie | Author, Professor, Stanford University
+      Duffie Paper    -> /documents/18556/duffie.pdf
+      Duffie Handout  -> /documents/18557/duffie_handout.pdf
+    Isabel Schnabel | Discussant
+      Member of the Executive Board, European Central Bank
+      Schnabel Handout -> /documents/18558/schnabel_handout.pdf
+    General Discussion
+
+  Panel: International Experience with Payments Innovation
+    Pablo Hernández de Cos | Panelist
+      General Manager, Bank for International Settlements
+      Hernández de Cos Handout -> /documents/18559/bis_handout.pdf
+      Remarks (external)
+    Stefano Scarpetta | Panelist
+      Chief Economist, Organisation for Economic Co-operation and Development
+      Remarks -> /documents/18670/scarpetta_speech.pdf
+    Kristalina Georgieva | Panelist
+      Managing Director, International Monetary Fund
+      Remarks (external)
+    General Discussion
+
+  Luncheon Address
+    Kenneth Rogoff | Speaker, Professor, Harvard University
+      [no posted materials]
+
+DAY 3 — Saturday, August 29
+  Saturday Session
+    Anil Kashyap | Chair, Professor, University of Chicago
+
+  Financial Innovation and the Future of Banking
+    Christine A. Parlour | Author, Professor, University of California, Berkeley
+      Parlour Paper   -> /documents/18592/parlour.pdf
+      Parlour Handout -> /documents/18593/parlour_handout.pdf
+    Itay Goldstein | Discussant, Professor, University of Pennsylvania
+      Goldstein Handout -> /documents/18594/goldstein_handout.pdf
+    General Discussion
+
+  Financing Innovation
+    Markus K. Brunnermeier | Author, Professor, Princeton University
+      Brunnermeier Paper   -> /documents/18595/brunnermeier.pdf
+      Brunnermeier Handout -> /documents/18597/brunnermeier_handout.pdf
+    Raghuram G. Rajan | Discussant, Professor, University of Chicago
+      Rajan Handout -> /documents/18596/rajan_handout.pdf
+    General Discussion
+
+  Panel: Financial Innovation: Considerations for Central Banking
+    Wenxin Du | Panelist, Professor, Harvard University
+      Remarks    -> /documents/18601/Du_JH_Panel_Remarks_to_Post.pdf
+      Du Handout -> /documents/18600/Du_JH_Panel_Slides.pdf
+    Arvind Krishnamurthy | Panelist, Professor, Stanford University
+      Krishnamurthy Handout -> /documents/18598/krishnamurthy_handout.pdf
+    Jesús Fernández-Villaverde | Panelist, Professor, University of Pennsylvania
+      Fernández-Villaverde Handout -> /documents/18599/villaverde_handout.pdf
+    General Discussion
+
+(All /documents/ paths are relative to https://www.kansascityfed.org)
+
+================================================================
+WHAT THE PROGRAM ITSELF TELLS YOU — read this before scoring
+================================================================
+
+1. EXACTLY TWO FOMC PARTICIPANTS APPEAR ON THE 2026 PROGRAM.
+   Warsh (keynote) and Schmid (host of the opening dinner, in his capacity
+   as the hosting Bank's president — a ceremonial slot, not a policy talk).
+   NO other governor and NO other Reserve Bank president has a speaking
+   role. Every author, discussant, chair and panelist is an academic or a
+   foreign/international official.
+
+   This matters for salience scoring in two ways:
+   (a) Jackson Hole is often treated as a high-weight venue. In 2026 it
+       contributes ONE monetary-policy communication from a US policymaker,
+       not a cluster of them. Do not inflate a district president's
+       salience score on the assumption they "spoke at Jackson Hole" —
+       attending is not speaking, and the program is the evidence.
+   (b) Warsh's keynote is therefore unusually load-bearing. It is the only
+       Fed policy statement made at the event, delivered on 2026-08-28,
+       six days before the corpus window closes and roughly three weeks
+       before the September FOMC meeting.
+
+2. THE 2026 THEME IS NOT ABOUT THE POLICY STANCE.
+   "Financial Innovation: Implications for Payments and Policy" — the
+   papers are on tokenized finance, the international monetary system,
+   the future of banking, and financing innovation. A researcher expecting
+   the usual Jackson Hole inflation/labour-market fare will find almost
+   none of it in the academic program. Warsh's keynote is where the
+   stance content is, and it is thematically separate from the rest of
+   the agenda.
+
+3. ATTENDANCE IS NOT PUBLISHED.
+   The Kansas City Fed publishes the PROGRAM, not the attendee list. Fed
+   presidents and governors who attended but did not speak leave no trace
+   in this source. Several gave media interviews from Jackson Hole that
+   are captured elsewhere in this corpus (see 05_speeches/districts/) —
+   those interviews, not the program, are the evidence of their presence.
+   Collins (Boston) confirms her own attendance in her 2026-08-25
+   Perspectives essay: "Before heading to the Federal Reserve's annual
+   symposium at Jackson Hole, Wyoming..."
+   (../05_speeches/districts/boston/collins_20260825_perspectives_on_the_economy.txt)
+
+4. "GENERAL DISCUSSION" SESSIONS ARE NOT TRANSCRIBED IN REAL TIME.
+   The agenda lists a General Discussion after every paper and panel.
+   These are published later, in the bound symposium proceedings volume,
+   typically months after the event. As of 2026-09-02 they are not
+   available. This is the same structural gap documented for item 19
+   (Q&A following posted speeches): the most revealing exchanges are the
+   ones that go unpublished within the scoring window.

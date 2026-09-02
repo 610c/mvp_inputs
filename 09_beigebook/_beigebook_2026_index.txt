@@ -1,0 +1,19 @@
+BEIGE BOOK 2026 - all editions published as of 2026-09-01 (item 14)
+Source index: https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm
+  2026-01-14  BeigeBook_20260114.pdf  /monetarypolicy/beigebook202601-summary.htm
+  2026-03-04  BeigeBook_20260304.pdf  /monetarypolicy/beigebook202602-summary.htm
+  2026-04-15  BeigeBook_20260415.pdf  /monetarypolicy/beigebook202604-summary.htm
+  2026-06-03  BeigeBook_20260603.pdf  /monetarypolicy/beigebook202605-summary.htm
+  2026-07-15  BeigeBook_20260715.pdf  /monetarypolicy/beigebook202607-summary.htm   [CAPTURED]
+The NEXT edition (~Sep 2, ahead of the Sep 15-16 FOMC) was NOT yet released at capture time.
+Only the July edition falls inside the 18 Jun - 4 Sep window.
+
+Per-district full pages for July 2026 (each ~8.4k chars), HTML:
+  /monetarypolicy/beigebook202607-boston.htm        -new-york.htm     -philadelphia.htm
+  /monetarypolicy/beigebook202607-cleveland.htm     -richmond.htm     -atlanta.htm
+  /monetarypolicy/beigebook202607-chicago.htm       -st-louis.htm     -minneapolis.htm
+  /monetarypolicy/beigebook202607-kansas-city.htm   -dallas.htm       -san-francisco.htm
+
+NOTE ON THE PDF: BeigeBook_20260715.pdf uses embedded CID font encoding. In-browser text
+extraction returns mojibake for it, unlike the press-conference PDFs. The HTML pages above are
+the reliable source for this document.

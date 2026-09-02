@@ -1,0 +1,42 @@
+BOSTON FED (First District) — Susan M. Collins — 2026 appearance index
+Window: 18 Jun 2026 – 4 Sep 2026
+Captured: 2026-09-02
+Source: https://www.bostonfed.org/news-and-events/speeches.aspx
+
+ALL 2026 ITEMS ON THE SPEECHES INDEX (5), with dates:
+  2026-08-25  Perspectives on the Economy from Susan M. Collins           IN WINDOW
+  2026-05-13  The U.S. Economy: Resilience Amid Risks and Uncertainty     out of window
+              (Remarks to the Boston Economic Club, Boston, MA)
+  2026-03-06  Observations on the Economic Outlook, and Small Business    out of window
+              (Outlook 2026, Springfield Regional Chamber of Commerce)
+  2026-02-24  Welcoming Remarks, 2026 Technology-Enabled Disruption
+              Conference: Shaping the Future of Finance and Payments      out of window
+  2026-01-16  Introductory Remarks, "Outlook 26: The New England
+              Economic Forum" (Foxborough, MA)                            out of window
+
+IN-WINDOW CAPTURE (1 of 1)
+  collins_20260825_perspectives_on_the_economy.txt  — full verbatim text (7,943 bytes)
+
+CROSS-CHECK PERFORMED
+  The Boston Fed news listing (/news-and-events/news.aspx) was scanned for
+  in-window Collins appearances not carried on the speeches index (the
+  failure mode documented in ../sanfrancisco/_sanfrancisco_2026_index.txt
+  and ../../board/_DENOMINATOR_CORRECTION.txt). The news feed carries only
+  research/communications items — no additional Collins speaking events
+  surfaced. Boston's speeches index appears to be a complete denominator
+  for this district, unlike San Francisco's and Chicago's.
+
+DENOMINATOR FOR SALIENCE SCORING
+  In-window appearances ......... 1
+  With published text ........... 1
+
+POLICY SIGNAL (for dissent-propensity scoring)
+  Collins states she "was comfortable with July's FOMC decision to maintain
+  the current target range" — i.e. no July dissent — but sets an explicit
+  hawkish trigger: "Should evidence of sustained inflation progress not
+  materialize, I believe it will be appropriate to tighten policy soon."
+  Note the direction: this is a conditional commitment to TIGHTENING, which
+  is unusual among 2026 participants and is a live dissent vector for
+  September if the inflation data disappoint.
+  Note also: Collins is not a 2026 voting member (Boston rotates), so any
+  disagreement would surface in the minutes rather than in a recorded vote.

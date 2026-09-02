@@ -1,0 +1,107 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/2026-07-mpr-part2.htm
+PUBLICATION: Monetary Policy Report to the Congress, July 10, 2026 - PART 2: MONETARY POLICY
+NOTE: Figure images omitted; figure captions/notes retained. Contains Box 3 (balance sheet and
+      money markets) and Box 4 (monetary policy rules in the current environment).
+
+Monetary Policy
+
+The Federal Open Market Committee held the federal funds rate steady
+
+The Federal Open Market Committee (FOMC) has maintained the target range for the federal funds rate at 3-1/2 to 3-3/4 percent since the beginning of the year, in support of the Federal Reserve's dual mandate (figure 48). Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East. Productivity growth and capital investment are strong. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy. The Committee will deliver price stability.
+
+[Figure 48. Selected interest rates. Note: The 2-year and 10-year Treasury rates are the constant-maturity yields based on the most actively traded securities. Source: Department of the Treasury; Federal Reserve Board.]
+
+The Federal Reserve continued to conduct reserve management purchases to keep reserves within the ample range
+
+At the December 2025 meeting, the FOMC judged that reserve balances had declined to ample reserve levels and initiated the purchases of shorter-term Treasury securities to maintain an ample supply of reserves on an ongoing basis. At the June meeting, the Committee reaffirmed its policy of maintaining ample reserves in the banking system.
+
+Since early January 2026, the FOMC has continued reserve management purchases of Treasury bills, and as a result, the total size of the balance sheet has ticked up (figure 49). Reserve balances - the largest liability item on the Federal Reserve's balance sheet - have increased since early January to a level of about $3.1 trillion and remain within the ample range. (See the box "Developments in the Federal Reserve's Balance Sheet and Money Markets.")
+
+BOX 3. Developments in the Federal Reserve's Balance Sheet and Money Markets
+
+The Federal Open Market Committee (FOMC) continued reserve management purchases (RMPs) to maintain an ample supply of reserves. Since early January 2026, the Federal Reserve's System Open Market Account (SOMA) portfolio has purchased nearly $250 billion in Treasury bills of which approximately $160 billion are RMPs and $90 billion are reinvestments from principal payments of agency mortgage-backed securities, consistent with the Committee's intention to hold primarily Treasury securities in the SOMA. As a result, Federal Reserve assets have increased about $150 billion, bringing the total size of the balance sheet to $6.7 trillion (table A and figure A). Reserves, the largest liability item on the Federal Reserve's balance sheet, have grown $54 billion to a level of about $3.1 trillion (figure B). Usage of the overnight reverse repurchase agreement (ON RRP) facility remained near zero on most days, and standing repurchase agreement operations were tapped when economically sensible.
+
+Table A. Balance sheet comparison (billions of dollars)
+                                            Jul 1 2026   Jan 7 2026   Chg since Jan 2026   Chg since runoff ended Dec 1 2025
+ASSETS
+  Treasury securities                          4,492        4,236            257                 303
+  Agency debt and MBS                          1,951        2,041            -91                -105
+  Unamortized premiums                           214          224            -10                 -12
+  Repurchase agreements                            0            0              0                   0
+  Discount window                                  8            7              1                   0
+  Other loans and lending facilities               1            2             -1                  -2
+  Central bank liquidity swaps                     0            0              0                   0
+  Other assets                                    59           63             -4                   5
+  TOTAL ASSETS                                 6,725        6,574            151                 189
+LIABILITIES
+  Federal Reserve notes                        2,423        2,391             33                  46
+  Reserves held by depository institutions     3,077        3,023             54                 199
+  Reverse repos - foreign official/intl          337          324             14                   7
+  Reverse repos - others                           1            5             -4                  -2
+  U.S. Treasury General Account                  807          784             24                -101
+  Other deposits                                 259          235             23                  31
+  Other liabilities and capital                 -180         -187              7                   8
+  TOTAL LIABILITIES AND CAPITAL                6,725        6,574            151                 189
+Note: January 7, 2026, is the date of the first H.4.1 of 2026 not affected by year-end distortions.
+Components may not sum to totals because of rounding. Change since runoff ended reflects changes
+since December 3, 2025. Source: Federal Reserve Board, Statistical Release H.4.1.
+
+Overnight money markets were stable, with conditions softening somewhat since the beginning of the year and RMPs effectively accommodating seasonal fluctuations in nonreserve liabilities, such as April and June tax inflows. The Federal Reserve's administered rates - the interest rate paid on reserve balances and the ON RRP offering rate - remained highly effective at maintaining the effective federal funds rate within the target range.
+
+Since early January, the consolidated deferred asset of the Federal Reserve System has decreased $7 billion to a level of around $236 billion. Net income and remittances to the U.S. Treasury are calculated at the Federal Reserve Bank level. As a result, the Systemwide deferred asset is an aggregation of each Reserve Bank whose net income is yet to extinguish its respective accumulated deferred asset. By contrast, Reserve Banks that no longer have a deferred asset have collectively remitted around $6 billion to the U.S. Treasury this year. Negative net income and the associated deferred asset do not affect the Federal Reserve's conduct of monetary policy.
+
+A task force will review balance sheet policy
+
+One of the new independent task forces will explore the benefits and risks associated with the current ample-reserves regime and will examine considerations related to the composition of the Federal Reserve's balance sheet as part of an assessment of alternative frameworks for the conduct and operation of monetary policy.
+
+The Federal Open Market Committee will continue to consider a broad range of information sources
+
+The FOMC considers a broad range of information sources, including contemporaneous market signals, official government statistics, nontraditional data sources, and updates provided by business contacts and other informed parties around the country, as summarized in the Beige Book. The Federal Reserve also regularly hears from a broad range of participants in the U.S. economy about how monetary policy affects people's daily lives. For example, the Federal Reserve has continued to gather insights into these matters through the Federal Reserve System's community development outreach.
+
+Policymakers routinely consult information derived from the analysis of various monetary policy rules. However, simple rules may not be able to capture all of the considerations that go into the formation of appropriate monetary policy. Practical considerations make it undesirable, at present, for the FOMC to adhere strictly to the prescriptions of any single rule. That said, some principles of effective monetary policy can be better understood by examining these prescriptive rules. (See the box "Monetary Policy Rules in the Current Environment.")
+
+A task force will explore Federal Reserve communications
+
+One of the new independent task forces will explore Federal Reserve communications, including the Summary of Economic Projections, with the possibility of suggesting changes to current arrangements.
+
+BOX 4. Monetary Policy Rules in the Current Environment
+
+Simple interest rate rules relate a policy interest rate, such as the federal funds rate, to a small number of other economic variables - typically including measures of the current deviation of inflation from its target value and of resource slack in the economy. This discussion provides an update to the prescriptions of several simple policy rules that policymakers regularly consult as part of their monetary policy deliberations and that have been considered in past Monetary Policy Reports. THE SIMPLE POLICY RULES COVERED HERE CALLED FOR LEVELS OF THE POLICY RATE IN THE FIRST QUARTER OF THIS YEAR THAT WERE A LITTLE ABOVE THE CURRENT TARGET RANGE for the federal funds rate of 3-1/2 to 3-3/4 percent, reflecting the fact that the measure of inflation used to calculate the prescriptions of these rules has moved up. However, the prescriptions shown here ignore that the economy would have evolved differently if the policy rate had followed one of the paths prescribed by the rules, and, hence, these prescriptions should be interpreted with care.
+
+In many economic models, desirable economic outcomes can be achieved over time if monetary policy responds to changes in economic conditions in a manner that is predictable and adheres to some key design principles - including the notion that the policy rate should be adjusted sufficiently to ensure a return of inflation to the central bank's longer-run price-stability objective and to anchor longer-term inflation expectations at levels consistent with that objective. Simple policy rules do, however, also have important limitations. For example, they mechanically respond to only a small set of economic variables and thus necessarily involve abstracting from many of the factors that the Federal Open Market Committee (FOMC) considers when it assesses the appropriate setting of the policy rate. Relatedly, although simple policy rules typically respond to particular measures of inflation and resource slack, other measures could be used to calculate the rule prescriptions. Most simple policy rules also require measures of unobservable variables, like the neutral real interest rate and unemployment rate in the longer run, which can only be estimated with considerable uncertainty. In light of these and other limitations, achieving the potential benefits associated with using policy rules as part of a policy strategy requires efforts to promote the public's understanding of monetary policy strategy and the incorporation of timely data to measure the factors entering policy rules and the broader strategy. The recently announced task forces will be considering matters related to this point.
+
+Selected Policy Rules: Descriptions
+Table A shows the well-known Taylor (1993) rule, the "adjusted Taylor (1993)" rule, the "balanced approach" rule, and the "first difference" rule. All rules considered here feature the difference between the annual change in the core personal consumption expenditures (PCE) price index and the FOMC's longer-run objective of 2 percent. With the exception of the first-difference rule, all rules use the unemployment rate gap - measured as the difference between an estimate of the rate of unemployment in the longer run and the current unemployment rate - and an estimate of the neutral real interest rate in the longer run. The first-difference rule uses the change in the unemployment rate over the past four quarters, rather than the unemployment
+rate gap, and the value of the policy rate in the preceding quarter, rather than the neutral interest rate in the long run.
+
+Table A. Monetary policy rules
+  Taylor (1993) rule:        R_t^T93    = r_t^LR + pi_t + 0.5(pi_t - pi^LR) + (u_t^LR - u_t)
+  Adjusted Taylor (1993):    R_t^T93adj = max{ R_t^T93 - Z_t , ELB }
+  Balanced-approach rule:    R_t^BA     = r_t^LR + pi_t + 0.5(pi_t - pi^LR) + 2(u_t^LR - u_t)
+  First-difference rule:     R_t^FD     = R_(t-1) + 0.5(pi_t - pi^LR) - (u_t - u_(t-4))
+Note: R_(t-1) denotes the average midpoint of the target range for the federal funds rate in
+quarter t-1, u_t is the average unemployment rate in quarter t, and pi_t denotes the 4-quarter
+core PCE price inflation for quarter t. u_t^LR is the rate of unemployment expected in the
+longer run, and r_t^LR is the level of the neutral real federal funds rate in the longer run
+expected to be consistent with sustaining maximum employment and keeping inflation at the
+FOMC's 2 percent longer-run objective (pi^LR). Z_t is the cumulative sum of past deviations of
+the federal funds rate from the prescriptions of the Taylor (1993) rule when that rule
+prescribes setting the federal funds rate below an effective lower bound (ELB) of 12.5 bp.
+
+Unlike the other simple rules featured here, the adjusted Taylor (1993) rule recognizes that the federal funds rate cannot be reduced materially below the effective lower bound (ELB). By contrast, the standard Taylor (1993) rule prescribed policy rates that, during the pandemic-induced recession, were far below zero. To make up for the cumulative shortfall in policy accommodation following a period during which the federal funds rate is constrained by its ELB, the adjusted Taylor (1993) rule prescribed delaying the return of the policy rate to the (positive) levels prescribed by the standard Taylor (1993) rule.
+
+Selected Policy Rules: Prescriptions
+Figure A shows historical prescriptions for the federal funds rate under the four simple rules alongside the actual target federal funds rate. For each quarterly period, the figure reports the policy rates prescribed by the rules, taking as given the prevailing economic conditions and, where applicable, survey-based estimates of u_t^LR and r_t^LR at the time. All of the rules considered called for highly accommodative monetary policy in response to the pandemic-driven recession, followed by tighter policy as inflation picked up and labor market conditions strengthened. Starting around 2023, the prescribed values associated with most of the rules declined, as inflation eased and the unemployment rate increased. Subsequently, because the annual change in the core PCE price index has been somewhat above 2 percent, the prescriptions of the simple policy rules have also remained somewhat elevated relative to their pre-2020 levels.
+
+[Figure A. Historical federal funds rate prescriptions from simple policy rules. Note: The
+rules use historical values of core PCE inflation, the unemployment rate, and, where
+applicable, the midpoint of the target range for the federal funds rate. Quarterly projections
+of longer-run values are interpolations of projections from the Survey of Market Expectations.
+Data extend through June 2026. Source: FRED (PCEPILFE, UNRATE, DFEDTARL, DFEDTARU); FRB New
+York Survey of Market Expectations; Federal Reserve Board staff estimates.]
+
+BOX 4 FOOTNOTES
+1. Taylor (1993), "Discretion versus Policy Rules in Practice," Carnegie-Rochester Conference Series on Public Policy, vol. 39, pp. 195-214. Adjusted Taylor rule: Reifschneider and Williams (2000), JMCB vol. 32, pp. 936-66. Balanced-approach rule: Taylor (1999), in Monetary Policy Rules (Chicago), pp. 319-41. First-difference rule based on Orphanides (2003), JME vol. 50, pp. 983-1022. Review: Taylor and Williams (2011), Handbook of Monetary Economics vol. 3B, pp. 829-59.
+2. In its Statement on Longer-Run Goals and Monetary Policy Strategy, the Committee reaffirmed its judgment that inflation at the rate of 2 percent, as measured by the annual change in the PCE price index, is most consistent over the longer run with the Federal Reserve's statutory mandates. All the rules respond to the change in core PCE prices, rather than headline PCE prices, because current and near-term core inflation rates tend to outperform headline inflation rates as predictors of the medium-term behavior of headline inflation.
+3. Implementations of simple rules often use the output gap as a measure of resource slack. In the rules described in table A, the output gap has been replaced with the unemployment rate gap (using Okun's law) because that gap better captures the FOMC's statutory goal to promote maximum employment. The neutral real interest rate in the longer run is the level of the real federal funds rate expected to be consistent, in the longer run, with maximum employment and stable inflation. Like u_t^LR, r_t^LR is determined largely by nonmonetary factors.
+4. The first-difference rule does not require estimates of r_t^LR or u_t^LR, a feature touted by proponents as providing robustness. However, research suggests that this sort of rule often results in greater volatility in employment and inflation than what would be obtained under the Taylor (1993) and balanced-approach rules.

@@ -1,0 +1,73 @@
+SOURCE: https://www.atlantafed.org/news-and-events/messages-from-president/2026/08/11/chocolate-factories-small-towns-and-monetary-policy
+SPEAKER: Cheryl Venable, Interim President and Chief Executive Officer, and First Vice
+         President and Chief Operating Officer, Federal Reserve Bank of Atlanta
+TITLE:   Chocolate Factories, Small Towns, and Monetary Policy: Blending Data with the Grassroots
+DATE:    August 11, 2026
+FORMAT:  Quarterly "Messages from the President" essay
+TOPICS (site-assigned): Macroeconomy, Monetary Policy, Regional Economy
+CAPTURED: 2026-09-02  (verbatim page text)
+
+NOTE ON DISCOVERY: this item does NOT appear on the Atlanta Fed speeches index
+(/news-and-events/speeches), whose most recent entry is 2026-02-24. It was found
+only via the news feed. See _atlanta_2026_index.txt.
+
+---
+
+KEY POINTS (as published by the Bank)
+
+  In formulating a monetary policy position, interim Atlanta Fed president Cheryl
+  Venable blends aggregate, quantitative data with anecdotal, qualitative data
+  gathered from business and community contacts, she writes in a new quarterly essay.
+
+  Venable describes recent trips she's made to meet with contacts in Madison,
+  Georgia, New Orleans, and Ponchatoula, Louisiana.
+
+  She explains that the grassroots information adds essential nuance to the
+  aggregate data in part by helping her to look ahead at what is likely to come
+  because the official statistics are inherently backward-looking.
+
+  Venable writes that, while it's clear that inflation remains too high, the central
+  questions concerning price stability are difficult. Notably, are price pressures
+  likely to recede in the coming months? And will inflation resume its moderation
+  toward 2 percent absent a change in monetary policy?
+
+  Venable affirms that she is fully committed to achieving the Fed's dual mandate of
+  price stability and maximum employment for the American people.
+
+---
+
+If you follow the Fed, you no doubt have read and heard Federal Open Market Committee (FOMC) participants say that in forming monetary policy positions they are data dependent. We are.
+
+The word data typically brings to mind hard numbers. But in coming to a policy position, the Atlanta Fed staff and I blend the aggregate numbers—quantitative data—with anecdotal, or qualitative, data we gather from business and community contacts across the Southeast.
+
+To be sure, aggregate numbers on demand, inflation, and the labor market are critical in diagnosing the health of the economy. Just as important, the statistics help determine how monetary policy is influencing the pursuit of our mandates of maximum employment and price stability and whether that policy should be adjusted.
+
+While the quantitative data are crucial in painting a picture of the macroeconomy, those numbers alone are not enough. As our former president, Raphael Bostic, often said, no family or business lives the broad averages. To get a true feel for how people and business leaders in the Sixth District are experiencing the economy, I have to get out, look them in the eye, and talk to them. In other words, our staff and I also harvest qualitative data.
+
+A couple of recent trips gave me the opportunity to do just that. I visited Madison, Georgia, in the late spring. Madison is a town of about 5,000 people situated 60 miles east of Atlanta, renowned for gracious antebellum mansions and a quaint downtown. Madison and surrounding Morgan County face many of the same economic development and labor market challenges as other small towns, including workforce readiness and availability, and the inevitable tensions between industrial development and rural quality of life.
+
+During the trip, I listened in on a community roundtable, took a downtown walking tour and talked with shop owners, and visited Stanton Springs Industrial Park, home to several corporations and the Georgia BioScience Training Center. Atlanta Fed staff members and I learned from community leaders about new investments, workforce development programs, and their efforts to incubate innovation.
+
+[PHOTO CAPTION: Interim Atlanta Fed president Cheryl Venable (right) during her visit to Madison, Georgia.]
+
+Later in the summer, I joined our New Orleans Regional Economic Information Network (REIN) executive, Adrienne Slack, for a visit to the Crescent City and a business contact in nearby Ponchatoula, a 171-year-old firm called Elmer Chocolate. The company's leader, the third generation of the Nelson family to operate it, offered a first-hand take on demand for their products, the costs of their ingredients and other inputs including labor, the forces shaping those costs, and whether they are hiring or will likely hire in the near future.
+
+In fact, in addition to adding flavor (pun intended) to the aggregate data, the grassroots intelligence helps us look ahead. Essential as the aggregate data are, they are inherently backward-looking; they tell us what has already happened. As an FOMC participant, I must think ahead because monetary policy affects demand, prices, and labor markets with long and variable lags. It takes time for the federal funds rate to exert influence; how much time varies depending on numerous conditions.
+
+Over many years, the Atlanta Fed has devised a deliberate, systematic approach to gathering grassroots intelligence from hundreds of contacts, synthesizing and analyzing that input, and meshing it with data and insights from our research economists to arrive at solid, evidence-based inputs that inform my monetary policy stance.
+
+At the Atlanta Fed, we think our thorough process is fruitful for many reasons, but two stand out. First, the US economy is more dynamic and fluid than ever amid unpredictable geopolitical events, the emergence of artificial intelligence, and significant changes in federal policies, to name but a few powerful forces. So, it is critical to get a front-line view of these fast-moving phenomena that aggregate data help us understand only in retrospect. Second, the Sixth District serves as an ideal sampling ground because the region's economic makeup nearly replicates the composition of the national economy in terms of the mix of industries, employment concentrations, and rural and metropolitan areas.
+
+Spirited discussions
+
+The process of feeding the information I gather on these visits into my policy view culminates with a series of briefings with the REIN staff, research economists, and other Bank personnel before each FOMC meeting. These discussions are candid and sometimes spirited. The aim is to assemble a holistic picture of the economy at the current moment and a comprehensive understanding of risks going forward. It's not always a straightforward exercise, but it always enriches my understanding of the economy and position of monetary policy.
+
+Right now, the aggregate data and input from contacts such as those in Madison and New Orleans largely tell a similar story.
+
+Inflation is too high, and it has exceeded the FOMC's goal of 2 percent for more than five years. The central questions about inflation are difficult ones, though—are the pressures pushing prices higher likely to recede in coming months? Will inflation then resume its moderation to 2 percent absent a change in monetary policy?
+
+Much depends on unpredictable geopolitical events, particularly the Middle East conflict. A clear resolution to the war would likely get oil shipments moving more freely, boost supplies, and thus ease energy prices. Prolonged tension and conflict would likely have the opposite effect.
+
+On the other side of our mandate, the labor market appears to be broadly stable. Monthly employment growth has picked up after a sluggish 2025 and early 2026, though it is not booming by historical standards. Labor supply is hardly growing, an unusual circumstance that changes the formula for figuring out what constitutes maximum employment. So, there are nuanced risks to assess on both sides of the dual mandate. How each policymaker weighs those risks goes a long way in determining their policy stance.
+
+While the Atlanta Reserve Bank president is not a voting member this year, I am a full participant around the meeting table in Washington, DC. It has been fascinating to be a part of the discussions and contribute my thoughts as the FOMC representative for the people of our six-state district. Along with the rest of the Committee, I am fully committed to achieving price stability and maximum employment for the American people. Even amid pervasive economic uncertainty, that commitment will not change.

@@ -1,0 +1,2684 @@
+TRANSPARENCY AND THE BANK OF ENGLAND'S MONETARY POLICY COMMITTEE
+Review by Kevin Warsh
+December 2014
+Commissioned by Governor Mark Carney on behalf of the Bank of England.
+("the Warsh Review")
+
+SOURCE: https://www.bankofengland.co.uk/-/media/boe/files/news/2014/december/transparency-and-the-boes-mpc-review-by-kevin-warsh.pdf
+        2,594,546 bytes, 64 pages. PDF also filed alongside this text as
+        warsh_2014_boe_mpc_transparency_review.pdf
+RETRIEVED: 2026-09-02. Full text, 174,008 characters, complete report
+        including Executive Summary, all five recommendations, three annexes
+        and bibliography.
+
+*** CORRECTION TO AN EARLIER NOTE IN THIS CORPUS ***
+An earlier version of this file stated that the PDF was a SCANNED IMAGE with
+no text layer and would require OCR. THAT WAS WRONG. The PDF is encrypted
+(/Filter/Standard), and the encryption is what defeated my in-browser
+extraction. I inferred "scan" from seeing only /Subtype/Image objects in the
+cleartext portion of the file — but the font objects were inside encrypted
+object streams I could not read. Once decrypted with qpdf, pdftotext returns
+the entire report cleanly. No OCR was needed. The earlier claim is retracted.
+
+================================================================
+WHY THIS IS THE SINGLE MOST RELEVANT WARSH DOCUMENT FOR THIS PROJECT
+================================================================
+Every other Warsh document in this corpus is about the STANCE of policy.
+This one is about the QUESTION THIS PROJECT IS ABOUT: how a monetary policy
+committee should publish its internal disagreement. He wrote it. It changed
+another central bank's practice. He now chairs the FOMC.
+
+His own framework, verbatim from the Executive Summary — the "Big 4"
+strategic transparency objectives:
+  Objective 1: sound policy decisions
+  Objective 2: effective communication
+  Objective 3: accountability
+  Objective 4: history
+
+And the load-bearing line for a dissent model, from Recommendation 1:
+  "The Bank should make public a concise summary of its policy decision and
+   rationale as soon as is practicable upon the meeting's conclusion. This
+   summary should encapsulate the MPC consensus. And THE VOTES OF INDIVIDUAL
+   COMMITTEE MEMBERS SHOULD BE STATED IN THE POLICY SUMMARY."
+
+He also states the limiting principle plainly:
+  "more transparency is not always and everywhere a good thing"
+  "a transparency regime, if ill-considered or ineffectively pursued, could
+   prove detrimental to the conduct of monetary policy"
+  "[broadcasting meetings live] runs the risk of quashing the genuine
+   deliberation that is an essential feature of sound policymaking."
+
+THE FIVE RECOMMENDATIONS (headings verbatim):
+  1. publish policy decision and rationale as soon as is practicable;
+     reduce number of policy meetings from twelve to eight
+  2. enhance MPC minutes to better capture Day 1 deliberation
+  3. make Day 2 transcripts public with deferral period of five to eight years
+  4. publish key inputs to the MPC policy meeting alongside Day 2 transcripts
+  5. strengthen authorities of Secretariat; enhance Archive policy
+
+READ ALONGSIDE:
+  ../08_warsh/warsh_20260421_senate_confirmation_opening_statement.txt
+  ../08_warsh/warsh20260828_jackson_hole_in_our_time.txt
+  ../08_warsh/_warsh_pre_fed_writings_bibliography.txt
+      — includes "The Fed Should Talk A Lot Less" (Fox, 2024-03-27) and the
+        Fed giving transparency "a very bad name" (CNBC, 2023-12-20)
+  ../10_structural/standing_situation_2026-09-02.txt
+      — the Communications task force he chartered on 2026-07-09, co-led by
+        Mervyn King, chartered to "review how the Federal Reserve conveys
+        policy deliberations and decisions"
+
+MODELLING WARNING: he favours publishing individual votes, and favours
+deferring the deliberative record by five to eight years. Applied to the FOMC
+those two preferences pull in opposite directions for your data — the vote
+line stays or strengthens, while the contemporaneous record of WHY people
+dissented could thin. The April 2026 language dissents exist only because the
+statement carries a bias sentence and the minutes carry participant counts.
+
+================================================================
+FULL TEXT OF THE REVIEW FOLLOWS (verbatim, pdftotext extraction)
+================================================================
+
+Transparency and the Bank of
+England’s Monetary Policy Committee
+
+Review by Kevin Warsh
+
+December 2014
+
+Transparency and the Bank of England’s
+Monetary Policy Committee
+December 2014
+Foreword
+Transparency is the watchword for monetary policy, and greater openness the hallmark of
+the modern central bank.
+Before it was fashionable, the Bank of England (Bank) was an early pioneer in the pursuit
+of transparency. In 1993, the institution became the first among its peers to publish
+an inflation report.
+The Bank renewed its transparency efforts after it was granted operational independence
+from Her Majesty’s Government in 1997. The newly created Monetary Policy Committee
+(MPC) was determined to build a strong public constituency in support of its price stability
+mandate.
+In the aftermath of the global financial crisis, the Bank’s policies and practices were
+subjected to even greater scrutiny, not least in the realm of transparency.
+In its 2014 Strategic Plan, the Bank reaffirmed its commitment to openness and
+accountability, and expressed its aspiration to enhance its transparency further.
+And other stakeholders, including the House of Commons Treasury Committee, financial
+market participants and the public at large, continued to seek more information about the
+Bank’s affairs.
+It is in this context that Governor Mark Carney, on behalf of the Bank of England, asked me
+to undertake a Review of the Bank’s transparency practices.1
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+At a hearing before the Treasury Committee in March 2014, the Bank confirmed its longstanding practice of recording live discussions of its monthly MPC meetings. These
+recordings were created to help ensure the accuracy of the published minutes, and were
+deleted following the minutes’ release.
+There is a striking resemblance between the events in Parliament and those that unfolded
+in the United States Congress more than 20 years ago. In 1993, upon probing from Henry
+B. Gonzalez (Chairman of the House Banking Committee), Alan Greenspan (Federal
+Reserve Chairman) acknowledged that a form of transcripts of the Federal Open Market
+Committee’s (FOMC) discussions existed.
+Amid substantial pressure, the Fed agreed to publish transcripts of its monetary policy
+meetings with a five-year delay. That policy prevailed during my tenure as a member of
+the Fed’s Board of Governors and FOMC from 2006 to 2011. And it continues to this day.
+The publication of transcripts, however, is not the sine qua non of transparency.
+
+1
+
+The official commissioning of the Review and the assigned remit is reproduced in Annex 1.
+
+Fortunately, the Review’s remit requires not only consideration of the advisability of
+creating and disseminating MPC transcripts, but also a more comprehensive evaluation of
+the MPC’s transparency practices. Are other reforms advisable? If so, should any
+proposed MPC reforms be applicable to the other policy committees of the Bank?
+In conducting the Review, I listened to recordings of MPC meetings. I interviewed all
+current members of the MPC and those who served on the Committee since 2007. I also
+heard the views of senior members of Bank Staff, members of the Bank’s Court of
+Directors, and officials, past and present, of Her Majesty’s Treasury (HM Treasury). In
+addition, I consulted with many current and former central bankers from around the world.
+Outside of the official sector, I conferred with leading members of the academic community
+and participants in the financial sector. I also reviewed the practices of central bank peers,
+and assessed academic research on organisational decision-making.
+Information was principally gathered during several visits to the Bank beginning in the late
+spring of 2014. I received full cooperation from Bank leadership and Staff. I benefitted
+tremendously from their candour, diligence, and varied perspectives.2 Likewise, I learned
+much from the analysis, judgment, and perspective from individuals unaffiliated with the
+Bank, who were no less generous with their time.
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+The Bank, while operationally independent of HM Treasury and Parliament, is a creature of
+government remit. The Bank’s institutional authority, including that of the MPC, is a
+function of its hard-earned credibility – credibility to make the best decisions possible, to
+explain the prevailing and dissenting views in a manner that affirms its legitimacy, to be
+accountable for its judgments, and to convey economic lessons learned to future
+generations of policymakers.
+I hope that the Review proves a worthy input to the ultimate judgments that must be made
+by the Bank and its stakeholders.
+
+Kevin M. Warsh3
+
+2
+
+I was provided with exceptional counsel and support from three staff members of the Bank: Lea
+Paterson (the Bank’s Independent Evaluation Director), Amar Radia (Economist, Monetary Analysis),
+and Pat Morgan (Executive Assistant, Secretary’s Department). I thank each of them for their
+extraordinary professionalism, diligence, and insight. The observations and errors contained herein,
+however, are my own.
+3
+Distinguished Visiting Fellow, Stanford University (Hoover Institution), Lecturer (Graduate School of
+Business). Previously, Governor, Board of Governors, Federal Reserve System, 2006-2011.
+
+Contents
+
+Executive summary
+
+5
+
+1. Context: history, recent trends, and key definitions
+
+13
+
+2. Framework: analytical underpinnings
+
+17
+
+3. Institutional design: deliberation and committee dynamics
+
+21
+
+4. Peer review: comparison of central banks
+
+27
+
+Box 1: case study – the US Federal Reserve
+
+32
+
+5. Recommendations: MPC reform package in detail
+Box 2: judging the appropriate deferral period for Day 2 transcripts
+
+35
+38
+
+6. Implications: PRA and FPC
+
+43
+
+Annex 1: remit of the Review
+
+48
+
+Annex 2: existing MPC processes
+
+49
+
+Annex 3: further detail on peer review
+
+54
+
+References
+
+58
+
+Transparency and the Bank of England’s Monetary Policy Committee 5
+
+Executive summary
+The United Kingdom is generally well-served by the independent conduct of monetary policy by the
+Bank of England (Bank). The primary objective of the Monetary Policy Committee (MPC) is to
+maintain price stability – low inflation – and, subject to that, to support the Government’s economic
+objectives, including those for growth and employment. With the broad grant of authority possessed
+by the Bank’s MPC, however, come important obligations owed to the Court of Directors of the Bank
+(Court), members of the House of Commons Treasury Committee (Treasury Committee), and, not
+least, the citizens of the United Kingdom (UK).
+
+Transparency and the objectives of monetary policy
+The existence of MPC transcripts should not be the sole, or even the predominant, measure of the
+Bank’s transparency. A broader assessment of the MPC’s transparency practices is required.
+Indeed, the remit of the Review requires “consider[ation of] the relative merits of alternative ways of
+improving the transparency of monetary policy discussions and decisions.”
+Transparency is an essential best practice for central banks the world over. But more transparency is
+not always and everywhere a good thing. If it were, the Review – and the publication of MPC
+transcripts – would be a simple and straightforward endeavour.
+If designed effectively and implemented successfully, transparency is a powerful tool to help the MPC
+achieve its objectives. But a transparency regime, if ill-considered or ineffectively pursued, could
+prove detrimental to the conduct of monetary policy and the interests of the UK economy.
+Take, for example, an extreme case of broadcasting the monthly meetings of the MPC live on
+television. Such a real-time feed of MPC proceedings may, in some sense, constitute maximum
+transparency. But, in practice, it runs the risk of quashing the genuine deliberation that is an essential
+feature of sound policymaking.
+Transparency is not necessarily a virtue unto itself. But it is virtuous if used in pursuit of important
+policy objectives. The Review identifies four such strategic transparency objectives, which it terms the
+‘Big 4’.
+
+
+Objective 1: sound policy decisions. Chief among the Bank’s responsibilities is to make the
+best possible decisions in conducting policy. The MPC is tasked with a constant ‘search for truth’
+in gauging the proper monetary medicine, amid myriad uncertainties and imperfect gauges of real
+economic variables and financial market developments. The MPC’s deliberative process is an
+essential asset to the Bank’s charge. Ensuring high-quality deliberations does not guarantee
+optimal decisions. But the conduct of monetary policy is a repeatable series of choices; over the
+long run, therefore, there is no viable substitute to a high-quality deliberative process.
+
+
+
+Objective 2: effective communication. Effective communication is essential to the successful
+implementation of monetary policy. Note the emphasis is on ‘effective’ communication. All
+communication – queries, utterances, interruptions, and devil’s advocacy – is not created equal,
+nor should it be understood that way. The goal is to transmit effectively so that the signal from
+communications takes precedence over the noise.
+
+
+
+Objective 3: accountability. The Bank must be accountable for its decisions. If the Bank
+systematically errs in its assessment of inflation risks, for example, the public has a right to know.
+This accountability brings added rigour and discipline to the Bank’s deliberations. A central bank’s
+power comes not simply because of access to the proverbial printing press. Its power emanates
+from its credibility to marshal its tools to achieve defined economic objectives. And this credibility
+can only be earned (or foregone) if its stakeholders can hold it to account.
+
+6
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+
+
+Objective 4: history. The Bank has a responsibility to economic history. As a 320-year old
+institution at the centre of the UK economy, the cause of history is well-served by ensuring that a
+fair and accurate depiction of events today can be understood over the horizon. Economic history
+may teach more than economic theory about the practice of policy and the consequences of
+decisions.
+
+These Big 4 objectives may – at first blush – seem in conflict, but only if they must be achieved
+simultaneously. They can each be achieved if due regard is given to the time period for their
+attainment. Figure 1 provides a simple schematic to convey the relevant time period for attainment of
+each of the Big 4 objectives.
+Figure 1: Time horizon to achieve Big 4 objectives
+
+The objective of effective communication, for example, is relevant and achievable shortly upon a
+policy decision being made. By contrast, the objective of accountability is more of a medium-term
+issue, not least because it takes time to assess whether policymakers’ decisions were sound. And the
+history objective is, by construction, a long-term goal.
+
+Transparency, defined
+To conduct that assessment, the Review employs a framework developed by Sylvester Eijffinger and
+Petra Geraats (Eijffinger and Geraats, 2006), and subsequently updated and expanded by Dincer and
+Eichengreen (2014). Eijffinger and Geraats consider five categories of monetary policy transparency,
+as shown in Figure 2 below.
+Figure 2: What is monetary policy transparency?
+
+Source: based on Geraats (2002).
+
+The Review is primarily concerned with three of these five categories: economic, procedural and
+policy transparency (Section 4).4
+As set out in Section 4, the Bank compares well to its international peers by most measures of
+transparency. The peer comparison helps to inform the Review’s consideration of proposed reforms,
+but is not dictated by the practices of other central banks. The most transparent central bank is not
+necessarily owed a gold star. That distinction is owed to the central bank which makes the best
+
+4
+
+The remaining two categories – political and operational transparency – are largely outside the scope of the
+Review. Political transparency is about objectives, such as the inflation target, assigned to the Bank by
+Government. Operational transparency, which includes the issue of forecast evaluation, was addressed by
+Stockton (2012) and Winters (2012).
+
+Transparency and the Bank of England’s Monetary Policy Committee 7
+
+decisions, effectively communicates those decisions, is held to account for its actions, and provides
+the fairest and most accurate historical record.
+
+Proposed reform package
+After due consideration, the Review recommends that the Bank adopt reforms in five broad areas in
+service to the Big 4 objectives. The Bank’s traditions and modes of communication are worthy of
+considerable deference. Substantive reforms, however, can potentially better equip the Bank to
+achieve its mission while enhancing the deliberative process at the core of its decision-making. These
+reforms are proffered in the sequence in which they would take effect following meetings of the MPC.
+1.
+
+Recommendation: publish policy decision and rationale as soon as is
+practicable; reduce number of policy meetings from twelve to eight
+
+Among its peers, the Bank stands alone in not routinely offering a contemporaneous explanation of its
+policy decision. Typically, the Bank issues only an abbreviated press release stating the outcome of
+the MPC policy meeting upon its completion. A somewhat more detailed post-meeting assessment is
+issued only when there has been a ‘change in policy’, or, very occasionally, otherwise. But the
+decision not to change policy is itself a policy choice, and herein exists a significant opportunity for
+enhanced transparency to serve the Bank’s objectives.
+The Bank should make public a concise summary of its policy decision and rationale as soon as is
+practicable upon the meeting’s conclusion. This summary should encapsulate the MPC consensus.
+And the votes of individual Committee members should be stated in the policy summary.
+This reform would further the Bank’s objective of communicating its policy judgments effectively. It
+would provide a fair representation of the true balance of the policy debate. It would also liberate
+individual members to communicate their own policy judgments in a timely manner in subsequent
+speeches and interviews. Under current arrangements, members often find themselves in the
+uncomfortable position of necessarily obfuscating their views in public until the minutes are released
+two weeks hence.
+As Section 3 sets out, favourable Committee dynamics – along with high-quality inputs and an
+unconstrained space for deliberation – are crucial pre-requisites for an effective decision-making
+process. Much of the current MPC framework is highly conducive to sound decision-making. The size
+of the MPC approximates the ‘optimal’ range as validated by leading organisational decision-making
+literature and my own analysis. And the MPC’s composition, including both internal and external
+members, helps ensure a broad range of experiences and perspectives. Moreover, the Bank’s culture
+and institutional design reinforce the best antidote to group-think: the one-member, one-vote principle.
+The Committee’s effectiveness could be still further improved, however, by revisiting the frequency
+with which the Committee formally meets to consider policy action. The MPC currently meets about
+every four weeks, a frequency which the Review judges to be sub-optimal. Under the current monthly
+cycle, Staff time is consumed with the processes surrounding the MPC meeting. This gives less
+opportunity for reflection by Bank Staff and MPC members alike.5
+Monetary policy works with considerable lags, and policymakers face great uncertainty. Changes in
+the outlook for policy typically require persistent changes in tracking data. Rarely would a single fourweek period be sufficient to change economic assessments. The current monthly schedule
+unnecessarily heightens market expectations, and prods the MPC to refine judgments and policies
+more frequently than economic analyses often make prudent.
+5
+
+Stockton (2012) also observes that the monthly cycle could potentially be consuming time that could be better
+spent on more substantive, longer-term issues.
+
+8
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+The MPC would be well-advised to meet eight times per year, rather than the twelve meetings as
+currently scheduled. An extra two-week interval between MPC meetings better strikes the balance
+between timeliness and probity. It could well improve the ability of the MPC to make sound decisions,
+and to communicate its judgments more effectively to the public. This reform would also make the
+Bank’s practice more consistent with peer central banks, including the US Federal Reserve, and,
+beginning in the coming year, the European Central Bank.
+Of course, in certain circumstances, economic and financial developments will demand that a MPC
+meeting be called. The Governor should therefore maintain the right to call supplemental meetings at
+his discretion.
+
+2.
+
+Recommendation: enhance MPC minutes to better capture Day 1 deliberation
+
+The MPC releases detailed minutes of its policy discussions about a fortnight after each meeting.
+These minutes compare favourably with those of the MPC’s international peers, both in terms of
+timeliness and clarity. The minutes are also subject to a robust quality assurance process prior to
+publication: MPC members agree on the text, line-by-line. Nevertheless, there is scope to enhance
+the minutes in service to the Big 4 objectives.
+The MPC meets over a two-day period, typically the Wednesday afternoon (Day 1) and Thursday
+morning (Day 2) on the first full week of each month. Day 1 is primarily deliberative in nature. Day 2,
+by contrast, is the decision-making day, with each MPC member explaining his or her policy view.
+Currently, the first part of the minutes largely provides a factual description of economic and financial
+developments, while the second part primarily summarises the Day 2 policy views advocated by MPC
+members.
+The Review recommends that the first part of the minutes could be usefully enhanced to capture more
+of the crux of the Day 1 deliberation. For example, if the Day 1 deliberation focused on the signal to
+draw from a series of recent surprises in inflation, the minutes should encapsulate the essence of the
+debate. It could set out alternative hypotheses under consideration, and provide a sense of the weight
+attached by Committee members to competing narratives. If, to cite another example, the Committee
+were debating the appropriate monetary policy strategy given the current economic circumstances,
+then the minutes should capture the trade-offs considered between an ‘an early but gradual’ tightening
+cycle and one in which policy tightening could be ‘later, and potentially quicker’.
+Enhancing MPC minutes along these lines should aid effective communication of the Bank’s evolving
+views on the appropriate monetary policy stance. It would also bolster accountability and benefit the
+historical record.
+
+3.
+
+Recommendation: make Day 2 transcripts public with deferral period of five to
+ten years
+
+The first day of the MPC’s discussions and the second day differ markedly, both in form and
+substance.6 The differences between these two ‘go-arounds’ are as striking as they are informative.
+Day 1 is deliberative, and is focused firmly on inquiry, testing and evaluation. The discussion is freeflowing and open, with alternative hypotheses readily discussed, amended, advanced or dismissed.
+Day 2, by contrast, is largely decisional, and is focused on members’ explanation and advocacy of
+their recommended stance of policy. Committee members are individually called upon to make their
+
+6
+
+Annex 2 describes the MPC process in more detail.
+
+Transparency and the Bank of England’s Monetary Policy Committee 9
+
+decisions, and detail the rationale for their individual policy choices. When compared with the ad-hoc
+informality and cross-talk of Day 1, the Day 2 meeting is orderly, almost formal in comparison.7
+A sound basis exists for publishing the transcripts of the Day 2 policy discussions with a reasonable
+delay.8 With few exceptions, the deliberations are nearly complete, policymakers are heard, and their
+judgments tallied. There is a manageable risk that ultimate publication of Day 2 transcripts would
+materially impair the deliberative process that is essential to sound policy decisions, as long as an
+appropriate deferral period is established.
+Publication of the Day 2 transcripts would also buttress the individual member accountability that
+forms the bedrock of UK monetary policy. The ultimate release of these transcripts – together with
+individual speeches, interviews, and testimony before the Treasury Committee – would ensure that
+MPC members were held to account for their views.
+The academic literature also suggests a possible ‘discipline effect’ from transcript publication that
+would ensure rigorous preparation for the meeting itself. While the Review found no lack of careful
+preparation or seriousness of purpose by incumbent MPC members, this reform could ensure that
+prospectively – even in more benign periods of the policy conjuncture – the level of engagement does
+not dissipate.
+There is no precise means of identifying the optimal delay period for Day 2 transcript publication. The
+Review favours a deferral period of sufficient length to avoid MPC members (and Bank Staff) feeling
+unduly constrained in modifying their views, as needed, based on incoming information. As Section 5
+sets out, there are a range of methods for establishing what a reasonable delay might be – including
+looking at lengths of business and financial cycles, as well as MPC tenure. While the Bank will
+ultimately choose the deferral period, the Review would judge a reasonable passage of time to be
+between five and ten years.9
+The marked difference between the Day 1 and Day 2 MPC discussions calls for a different judgment
+with respect to transcript creation, retention and release. The first day of discussion by the MPC is
+marked by critical thinking, deep exploration of alternatives, a conflict in perspectives, and a genuine
+search for truth, all amid significant professional respect among discussants. Creating a safe space
+for true deliberations is among the most critical indicia of organisations that make good decisions,
+according to the leading academic and empirical literature and my own observation.10 Should the
+transcripts of these Day 1 deliberations be made public, the Bank would risk a ‘chilling effect’ on the
+quality of deliberations, and hence risk material damage to its ability to make sound policy decisions.
+The Review therefore recommends that Day 1 policy discussions should neither be recorded nor
+transcribed.
+
+4.
+
+Recommendation: publish key inputs to the MPC policy meeting alongside
+Day 2 transcripts with identical deferral period
+
+Members of the MPC benefit immeasurably from extensive, high-quality Staff briefings on economic
+and financial market developments in advance of each formal policy meeting. A high standard of
+inputs – in this case, policy briefings – is a pre-requisite for a robust and effective decision-making
+process across complex organisations, including central banks.
+
+7
+
+If the Bank were to restructure its discussions, the notion of treating deliberations and decisions differently with
+respect to transcripts should remain in force.
+8
+As described more fully in Section 5, the MPC should formalise parameters that would allow for some limited
+redactions of the actual transcript consistent with the public interest.
+9
+As described more fully in Section 5, the Bank may also wish to consider whether the original audio recordings
+of the Day 2 policy discussion be preserved, and released after 20 years.
+10
+The importance of deliberation to the decision-making process is discussed in more detail in Section 3.
+
+10
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Greater transparency of the inputs into the deliberation and decision process would improve MPC
+accountability. A discipline effect might even enhance the quality of the briefing material. The Review
+recommends that the Bank publish important materials that are formally sent to the MPC by Bank
+Staff. These materials often establish the foundation for deliberations and policy decisions.
+The deferral period for key official inputs is recommended to be five to ten years – the same as for
+Day 2 transcripts. By releasing the Day 2 transcripts and key official inputs to the policy meeting
+together as a package, the Bank should be able to provide its stakeholders with a fuller picture of the
+nature and context of the policy discussions.
+
+5.
+
+Recommendation: strengthen authorities of Secretariat; enhance Archive policy
+and practices
+
+The Bank bears a responsibility to ensure that the historical record captures the sentiments and
+judgments that once resided in the institution. At present, the Bank’s Archive is a valuable repository
+of information. In relation to monetary policy, the Bank should be commended for agreeing voluntarily
+to subject itself to the ’20-year rule’, consistent with best practice of other public bodies, including all
+central government departments.11 Consequently, the Bank obliges itself to publish all archived
+material after 20 years unless that material meets one or more of a set of well-defined redaction
+criteria (see Annex 2).
+The Bank should establish a strengthened Secretariat of the MPC, comprising senior Bank Staff,
+whose responsibilities would be broadened beyond the preparation of MPC minutes. In particular, the
+Secretariat would oversee both the production and release of Day 2 transcripts, and the collection and
+release of the associated key briefing materials. In addition, this strengthened Secretariat would work
+with the Bank’s Archive to ensure that it is, as far as practicable, at the forefront of best practice
+transparency for historical records.
+Figure 3: Transparency scorecard: do particular transparency reforms serve the Big 4
+objectives?
+
+In sum, the Review judges that the adoption of this reform package would materially advance the
+Committee’s attainment of its Big 4 strategic objectives (Figure 3).
+11
+
+The Bank’s Archive is currently in transition from the 30-year rule to the 20-year rule (Annex 2). Consistent with
+these recommendations, the key inputs and Day 2 would both be released after five to ten years, and the
+remainder of records of historical value would be released after 20 years.
+
+Transparency and the Bank of England’s Monetary Policy Committee 11
+
+Implications for Financial Policy Committee and Board of the Prudential
+Regulation Authority
+The Big 4 objectives are common to all three policymaking committees of the Bank. The central
+question, however, is whether the proposed reforms to the MPC are appropriate and efficacious if
+applied to the Financial Policy Committee (FPC) and the Board of the Prudential Regulation Authority
+(PRA). The Review judges that grafting the MPC transparency reforms onto the PRA would be illadvised. Moreover, there are good reasons to pause before imposing MPC transparency reforms
+onto the FPC, not least that the field of macroprudential policy is at an early stage of development.
+
+PRA
+The stark differences between the MPC and PRA are readily apparent. MPC policies are directed at
+the broad contours of the UK economy, and its deliberations generally involve analysis of aggregate
+data. The PRA’s judgments, by contrast, are largely directed at particular financial institutions, and the
+data employed are proprietary and institution-specific. The MPC operates by the principle of onemember, one-vote; the PRA Board operates by consensus.
+Would, for example, creating and publishing PRA transcripts, or releasing key internal briefing
+documents into the public domain, prove useful in service of the Big 4 objectives? Quite unlikely. The
+task of making sound decisions regarding the safety and soundness of a particular bank could be
+undermined if internal deliberations were made public. Moreover, effective communication in the PRA
+context generally involves the regulator’s communications to the financial firm itself rather than to the
+public at large.
+Of course, the PRA must ultimately be accountable for its decisions, and historians should be able to
+assess its role with the benefit of time and reflection. These objectives, however, are better served
+through other means. For example, public accountability appears reasonably well-served by the
+regular appearances by the chief executive of the PRA at the Treasury Committee, and by publication
+of the detailed PRA Annual Report.
+
+FPC
+The FPC and MPC, at least aspirationally, are more kindred policymaking committees. But the FPC’s
+policy instruments, tools, and objectives are nascent in their development relative to our
+understanding of the conduct of monetary policy. The FPC is tasked with important new
+responsibilities, namely to promote financial stability by establishing macroprudential policies that
+mitigate tail-risks from harming the real economy. But, the FPC, like its counterpart in the United
+States, the Financial Stability Oversight Council, is necessarily learning about its toolkit and objectives
+during these early, formative years of macroprudential supervision.
+Other differences are worthy of consideration. The MPC makes policy with a greater focus on the
+modal distribution of policy; that is, the most likely economic outcomes. The FPC is decidedly more
+focused on ‘tail-risks’ – those things that are unlikely to transpire; but if so, would have a materially
+negative effect on financial stability. So, if FPC members perform their jobs with aplomb, they would
+most likely have their greatest fears uncorroborated by events. Moreover, the concentrated nature of
+the UK banking sector means that the FPC policy discussions are replete with bank-specific,
+confidential supervisory information. In this regard, it is more comparable to the PRA.
+So, would the application of MPC transparency reforms to the FPC advance the Big 4 objectives? It
+is premature to make any such conclusion. At present, making sound policy decisions could be
+impaired if FPC discussions were made public through transcript release. The FPC benefits from an
+unconstrained space for open discussion and deliberation as its members seek to advance the new
+discipline.
+
+12
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Moreover, effective communication appears reasonably well-served through the publication of
+statements, records of its meetings, speeches by FPC members and the semi-annual Financial
+Stability Report. And since the Committee is tasked with acting by consensus, there appears little
+near-term need to enhance individual accountability.
+In the light of these considerations, the Review recommends that these threshold questions of
+transparency be reconsidered three to five years from now. As the FPC’s understanding of its new
+discipline advances, there may be scope for adoption of greater transparency reforms.
+In the interim, however, the Bank should ensure that archives policies and procedures are updated to
+ensure that historians are ultimately able to understand these important transition years of the PRA
+and FPC. Once the strengthened Secretariat of the MPC is established, the Bank should readily
+consider comparable structures for its other two major policymaking committees.
+
+Conclusion
+The cause of transparency is not an affront to the world’s leading central banks. It is an opportunity.
+The opportunity can best be seized by reforming the Bank’s practices without jeopardising its
+strongest assets.
+The five broad areas of transparency reform, if implemented, would, place the Bank at the forefront of
+international best practice. No less important, these recommendations, if implemented, would help the
+Bank to meet its strategic objectives more effectively, and support its mission to promote the public
+good.
+
+Transparency and the Bank of England’s Monetary Policy Committee 13
+
+1. Context: history, recent trends, and key definitions
+A brief history of central bank transparency
+Central bankers today are decidedly recognisable public figures, but they would be thoroughly
+unrecognisable to their peers who presided during most of the 20th century. Not only is the profile of
+central bankers different, so too are their tactics and monetary policy strategies.
+Those in the business of conducting monetary policy are pulling back the proverbial curtain, showing
+their wares and sharing their views with an increasingly demanding public. Transparency is the
+watchword for monetary policy, and greater openness the hallmark of the modern central bank.
+For the better part of the last century, central banks considered their relative obscurity a virtue, their
+secrecy a necessary condition for success. The approach was perhaps best personified by Montagu
+Norman, the Governor of the Bank of England from 1920 to 1944: “never explain, never excuse,” he
+is said to have declared (Boyle, 1967).
+As an academic, Ben Bernanke (2004), one of the leading experts on the Norman era, states:
+“Norman was hardly unique. Central bankers long believed that there was a certain ‘mystique’
+attached to their activities; that making monetary policy was an arcane and esoteric art that should be
+left solely to the initiates; and that letting the public into the discussion would only usurp the
+prerogatives of insiders and degrade the effectiveness of policy.”
+As a practitioner, in his role as Chairman of the Federal Reserve, Bernanke pursued a new policy
+regime. The ‘never explain, never excuse’ maxim of the Norman era was superseded by a widelyheld, new consensus in the central banking community; put plainly, talking is useful. As Blinder et al.
+(2008) affirm: “…communication policy rose in stature from a nuisance to a key instrument in the
+central banker’s toolkit.”
+To some, transparency became not only a virtue unto itself, but also a newly sharpened arrow in the
+central bank’s quiver, an essential means to achieving its monetary policy ends. Woodford (2005)
+puts it starkly: “For not only do expectations about policy matter, but, at least under current conditions,
+very little else matters.” This approach, while not universally agreed, became the dominant policy
+formulation. Increasingly, policymakers chose to emphasise not simply the current choice of policy
+rates – but also the expected future path of policy – in order to change broader monetary conditions.
+The global trend towards heightened transparency did not materialise abruptly, nor did it happen in an
+academic vacuum. It coincided with several other important and inter-related developments during the
+last twenty to thirty years.
+First, monetary policy gained greater independence from the fiscal authorities. New powers were
+granted to unelected central bankers. These new responsibilities were complemented,
+understandably, by new demands for greater accountability to the public, and its democraticallyelected representatives.
+Second, central bank credibility improved, bolstered in no small measure by the seemingly improved
+macroeconomic performance – steady economic growth and low and stable inflation – that marked the
+‘Great Moderation’ in the decade or so prior to the global financial crisis.
+Third, the democratisation of capital facilitated the deepening and broadening of the capital markets.
+Central bankers found themselves increasingly in the spotlight, their words dissected by a burgeoning
+army of finance professionals, businesses and households with excess savings – all searching for
+clues on the future direction of policy.
+
+14
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Hence, leading central bankers adopted new means to communicate their views on the outlook for the
+economy and the stance of monetary policy.
+The Bank, like many of its peers, clarified its goals and policy approach, and provided regular
+information about the likely outlook for the economy, and the associated risks. Indeed, the Bank was
+an early innovator in the realm of monetary policy transparency. The launch in 1993 of its Inflation
+Report and trademark ‘fan charts’ on the range of plausible outcomes spawned many followers in the
+central bank community.
+Though a centuries-old institution with a rich history, the Bank only became an operationally
+independent central bank in 1997.12 When the Government reconstituted the Bank as an operationally
+independent entity, it sought to guard against an overconcentration of authority in any single person.
+Certain institutional features arose from its independence, including the selection of external MPC
+members and, perhaps most important, the one-member, one-vote principle. The Government also
+required greater transparency. Detailed and timely minutes of each MPC meeting were published.
+The Governor and other members of the MPC offered regular testimonies to the Treasury Committee
+and speeches by MPC members explaining their thinking on the proper conduct of monetary policy
+became standard fare.
+Blinder (2002) captures the essence of the bargain: “An independent central bank in a democracy
+must be accountable and, to be accountable, a central bank must be transparent.”
+The global financial crisis marked yet another important milestone in the march toward enhanced
+transparency. Central banks engineered massive responses. In many countries, interest rates were
+slashed to near zero, unconventional – and controversial – tools of monetary policy were deployed,
+and immense public funds were deployed to shore up crisis-plagued banks and liquidity-constrained
+markets.
+In the United Kingdom, for example, policy rates were cut to 0.5%, the Bank bought £375 billion of
+government debt (albeit with an indemnity from HM Treasury) and supplied over £60 billion in liquidity
+assistance to two of the country’s biggest banks.13
+This unprecedented, emergency response required central banks to bolster their efforts to explain
+unfolding events, and put forth a compelling rationale for their counter-measures. With huge losses of
+economic output and employment, there were also heightened obligations for accountability. Political
+figures, and the public at large, rightly demanded to know more about the facts, good and bad, that
+precipitated central bank action. Many central bankers also feared that the wider political pressures
+would lead some to question their much-cherished and much-needed independence. Greater
+transparency and openness in the post-crisis environment served as a useful and important buffer to
+guard against intrusions into the independent conduct of monetary policy.
+The need to explain was not only about defending institutional credibility. It was also strongly
+motivated by a desire to improve policy efficacy. That is, if the aggressive, unconventional monetary
+tools deployed were to succeed, then financial markets and the public alike needed to be persuaded
+that the antidote befitted the economic ills.
+Heightened communication was particularly important in the United Kingdom. Following increases in
+VAT and commodity prices, and the sharp decline in sterling, inflation rose to a peak of more than 5%
+– more than double the inflation target. If the Bank were to succeed, it would need to persuade a
+sceptical public that price stability would not be squandered in the name of financial stability.
+12
+
+The Bank was owned by its shareholders until it was nationalised in 1946.
+Emergency Liquidity Assistance (ELA) supplied to RBS and HBOS reached an intra-day peak of £61.6 billion in
+October 2008. To safeguard the public interest, the assistance was provided immediately, and then disclosed in
+November 2009. The ELA provided by the Bank in 2008-09 was the subject of an external review by Ian
+Plenderleith (Plenderleith 2012).
+13
+
+Transparency and the Bank of England’s Monetary Policy Committee 15
+
+In the aftermath of the financial crisis, the UK Government redesigned the former ‘tripartite framework’
+for banking supervision. It awarded the Bank new responsibilities to establish macroprudential
+policies and to regulate individual financial firms, each of which would be conducted alongside the
+Bank’s traditional monetary policy responsibilities. That new, expanded grant of authority to the Bank
+re-opened the question of the Bank’s accountability and transparency to its stakeholders. Hence,
+scrutiny of the Bank’s transparency practices, including its policies with respect to transcripts, should
+not be unexpected.
+
+Transparency, defined
+What is meant by transparency?
+In a broad sense, transparency is “the conduct of business in a fashion that makes decisions, rules
+and other information visible from outside” (Hood 2010). It is, however, not an altogether
+straightforward concept.
+The Review utilises insights from a range of economic literature to consider different aspects of
+transparency in the context of monetary policy. In particular, the Review draws heavily upon a
+framework originally devised by Petra Geraats (Geraats, 2002), further developed by Petra Geraats
+and Sylvester Eijffinger (Eijffinger and Geraats, 2006), and subsequently updated and expanded by
+Barry Eichengreen and Nergiz Dincer (Dincer and Eichengreen, 2014).
+Eijffinger et al consider five distinct categories of monetary policy transparency: political, economic,
+procedural, policy and operational. They establish a set of criteria and a scoring methodology to create
+an overall transparency index (Section 4 replicates and updates this index for a selection of peer
+central banks). Their five categories are briefly explained below, and summarised in Figure 4.
+1.
+
+Political transparency concerns the objectives of monetary policy. Examples of political
+transparency include the establishment of formal and quantitative objectives for which
+policymakers are responsible. The 2% CPI inflation target set by the Chancellor of the
+Exchequer for the Bank’s MPC is a notable example.
+
+2.
+
+Economic transparency concerns the economic information that forms the key inputs to the
+formulation of policy. It includes the publication of economic forecasts and the disclosure of
+the economic models used to make those forecasts. The MPC’s Inflation Report, which
+includes details of its forecast projections, is a good example.
+
+3.
+
+Procedural transparency concerns openness about how decisions are made. Examples
+include publishing the minutes and voting records of monetary policy meetings. This is the
+type of transparency most directly implicated in considering publication of transcripts.
+
+4.
+
+Policy transparency concerns timely and comprehensive openness about the decisions
+themselves. Examples include the announcement and rationale of a policy decision. By
+example, the US Federal Reserve issues a policy statement and explanation alongside its
+policy decisions shortly after the close of each meeting.
+
+5.
+
+Operational transparency concerns the implementation and transmission of the central
+bank’s policy decision. It includes ex post evaluations of the policy decision. Examples of
+operational transparency include published evaluations of forecast performance.
+
+16
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Figure 4: Monetary policy transparency and illustrative MPC practices
+
+Source: based on Geraats (2002).
+
+The three middle categories in Figure 4 – economic, procedural and policy transparency – correspond
+to the remit of the Review, and are within the authority of the Bank to take action, if it so chooses.
+A principle task of the Review is to assess the advantages and disadvantages of publishing transcripts
+of the MPC’s policy meetings. Transcripts fall into the category of procedural transparency because
+they relate to the way in which decisions are made. The remit of this Review, however, also requires
+assessment of “the relative merits of alternative ways of improving the transparency of policy
+discussions and decisions”.14 So the Review considers, for example, whether Staff inputs into the
+MPC process should be made more transparent (economic transparency), and the advisability of the
+MPC regularly making public its policy decision and rationale (policy transparency).
+The two other categories of transparency identified by Eijffinger and Geraats (2006) – political
+transparency and operational transparency – are largely outside the scope of the Review. Political
+transparency – being clear about the objectives of policy – primarily rests with the Government. In the
+UK, the MPC is required by statute to maintain price stability, and subject to that, to support the
+economic policies of the Government. And the Chancellor of the Exchequer confirms, each year, in
+writing to the Governor of the Bank what is meant by ‘price stability’. Since 2004, it has been defined
+as a target of 2% for annual CPI inflation.15
+Operational transparency is largely related to the implementation and evaluation of policy. UK
+monetary policy implementation is achieved through the Bank’s Sterling Monetary Framework (SMF),
+which was the subject of an external review following the financial crisis.16 The topic of forecast
+evaluation was covered by the 2012 Stockton Review,17 and the Bank subsequently implemented
+many of the Stockton Review’s recommendations. More generally, the Bank created the post of
+Independent Evaluation Director to assist its Court of Directors in its obligation to evaluate the Bank’s
+policy performance.18
+
+14
+
+See Annex 1.
+See http://www.bankofengland.co.uk/monetarypolicy/Pages/framework/framework.aspx
+16
+Winters (2012).
+17
+Stockton (2012).
+18
+Carney (2014).
+15
+
+Transparency and the Bank of England’s Monetary Policy Committee 17
+
+2. Framework: analytical underpinnings
+What is the central bank trying to achieve? The Big 4 objectives
+The trend towards greater transparency in monetary policy is a means to an end, not an end in itself.
+The aim of a central bank is to optimise its decision-making processes to meet the policy objectives
+established by the democratically-elected authorities. Enhanced transparency – in the right
+circumstances, in the right way – can serve as a powerful tool. But the interplay between this
+overarching policy goal and its design features is not simple. It requires an in-depth understanding of
+both the nature of a central bank’s goals, and the potential impact of transparency initiatives on
+policymaking itself.
+The Review identifies four core strategic objectives to help the central bank fulfil its mission (the Big 4
+objectives). These are as follows:
+
+
+Objective 1: sound policy decisions. The overarching aim of a central bank is to formulate
+sound policy decisions in light of its democratically-set objectives and the information available. If
+a central bank is to maximise its chances of making optimal policy, it needs a rigorous decisionmaking policy framework, high-quality inputs to inform policymaking, and healthy institutional
+dynamics of its decision-making body, including – at its core – genuine deliberation (Figure 5
+below, and Section 3). Transparency initiatives can either enrich or disturb each of these
+essential indicia of sound decision-making.
+
+
+
+Objective 2: effective communication. Once a policy judgement is reached, it should be
+communicated effectively. The effective communication of the immediate policy decision is
+important; so too is communication about the prospective contours of the economy and policy
+stance. A well-communicated policy is one which helps economic agents – households,
+businesses, financial markets – to understand the likely reaction function of policymakers to
+incoming information. Communicating ‘more’, however, should not be confused with
+communicating ‘better’: communications can distract or inform. It is effective communication
+which the Review seeks to optimise.
+
+
+
+Objective 3: accountability. An independent central bank’s authority comes, in part, by way of
+its charge from its government. And its credibility is a function of its ongoing standing with
+stakeholders. Central bank authority and credibility can only be evaluated if it is accountable for
+its actions, not least to the people whose lives are affected. Transparency should be designed to
+facilitate the ability of the wider public to hold the central bank to account. This is not merely a
+political imperative, but an economic one. Accountability can also reinforce the rigour and
+discipline of policymakers’ thinking, and thereby make for better policy judgments.
+
+
+
+Objective 4: history. As a 320-year old institution, the Bank of England has a duty to be
+transparent to economic historians, a responsibility to create a record of its policy discussions and
+judgments. Central bankers today are still wrestling with the lessons from the successes and
+failures of our predecessors. A more robust historic record should be conveyed to future
+policymakers so that they can deliver better on their policy objectives.
+
+These Big 4 objectives need not work at cross-purposes. Indeed, they should be self-reinforcing. As
+Figure 5 shows, sound policy decisions that are effectively communicated, and for which the central
+bank is fully accountable, should lead to the creation of an accurate historic record that will help make
+for sound policymaking in the future.
+
+18
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Figure 5: The Big 4 objectives of policy making
+
+Is more transparency better?
+A well-established body of academic literature – and real-world experience from practitioners – runs
+counter to the proposition that more transparency is invariably better.19 Greater transparency is not a
+policymaking virtue if crudely structured, out-of-context, misunderstood, poorly timed, or constraining
+of genuine deliberation.
+As Cheryl Schonhardt-Bailey (2013) states in her comprehensive work on deliberation in US monetary
+policy making: “The question is how much transparency is needed to allow the public to understand
+the rationale behind and mechanisms that underpin policy-making, without undermining the policy
+decision itself.”20
+Consider a stark scenario in which MPC meetings are available immediately on television and/or
+streamed in real-time on the internet. The purpose of the straw man is not to make for easy fodder for
+critique; it is to illustrate that greater transparency is almost assuredly to change behaviour of those
+subjects being monitored.21 These behavioural responses must be calibrated prior to recommending
+substantive transparency reforms.
+In some superficial sense, this scenario of maximum transparency would constitute the most
+information released at the earliest moment. It might strengthen incentives for MPC members to
+prepare thoroughly for policy meetings. It would provide immediate communication of views
+expressed. It might provide ostensible evidence of MPC members’ accountability to the public. And it
+would immediately be part of the Bank’s historical record.
+
+19
+
+The observation that central bank communication can, in some circumstances, mislead or distract private
+sector participants is described in, among others, Woodford (2005), Sibert (2006), Dale, Orphanides & Osterholm
+(2011).
+20
+Full disclosure: Schonhardt-Bailey’s research and book on the subject was accomplished with the assistance
+and advice of Andrew Bailey, her husband, who currently serves as Deputy Governor for Prudential Regulation
+and Chief Executive Officer of the PRA at the Bank of England.
+21
+This idea is not unique to economics. See, e.g, the theory in physics known popularly as the Heisenberg
+Uncertainty Principle.
+
+Transparency and the Bank of England’s Monetary Policy Committee 19
+
+The real-time feed of MPC discussions, however, would most likely impair the genuine deliberation
+that is essential to good decision-making. Committee members would likely find themselves reading
+from pre-prepared, heavily caveated scripts. And they might hesitate to engage in the full-throated,
+rigorous debate on the central economic questions to which discussants are necessarily uncertain.
+Viewers of the real-time feed might witness a caveated, bland policy discussion that offers few
+insights. Alternatively, the act of televised policy meetings might make participants more inclined to
+‘play to the cameras’ with aggressive critiques of their colleagues, making for good watching but
+cacophonous communication. Over time, this could change the culture of the Bank and even the
+selection of MPC members.
+Neither conformity nor cacophony is synonymous with effective communication. In the lexicon of the
+academic literature, the ‘signal to noise’ ratio could well be impaired in both of these scenarios.
+Accountability might also falter. Informal meetings would be more likely to transpire prior to televised
+MPC meetings. Factions could develop, and real deliberations could be hidden from public view – all
+under the auspices of greater transparency. And the historic record might not capture the real
+nuances and uncertainties that hid beneath the surface.
+So, this maximum transparency scenario would not be consistent with the Review’s Big 4 objectives.
+More important, the scenario indicates that transparency reforms must consider the second- and thirdorder implications on personnel and the institution to optimise total, long-run efficacy.
+
+A view from the academy: maximising discipline, minimising conformity
+The academic literature provides useful background to consider the benefits and risks associated with
+certain transparency initiatives. A particularly valuable insight examines the relationship between the
+degree of transparency and the quality of policymakers’ deliberations.22
+Public scrutiny of the deliberation process leads policymakers to focus more on so-called ‘career
+concerns’. That is, policymakers seek to bolster their standing in the eyes of influential external
+stakeholders, thereby improving their future career prospects.23 According to the literature, this
+impacts policymakers’ behaviour in two ways.
+A more public deliberation process will tend to strengthen the ‘discipline effect’. Those taking part in
+the deliberation process will face stronger incentives to prepare thoroughly for the debate so that they
+may be viewed as making effective and well-informed interventions.
+A more public deliberation process may also strengthen something less constructive, the ‘conformity
+effect’. Confronted by uncertainty about the likely evolution of the economy and the appropriate policy
+response, participants face incentives to conform to the majority view, rather than to stake out a
+divergent opinion and risk being exposed as wrong. 24 As Meade and Stasavage (2008) put it:
+“Advisors can face incentives to withhold private information if accurate revelation would lead
+principals to infer that they have a low level of expertise.”
+The net impact of greater public scrutiny on the effectiveness of the deliberation process depends
+upon which of these two effects – discipline or conformity – dominates. In their study of these effects
+in the deliberations of the US Federal Reserve, Hansen, McMahon and Prat (2014) state:
+
+22
+
+Deliberation quality is foundational to decision quality. See, for example, Hansen, McMahon and Prat (2014),
+which draws in part on earlier arguments advanced in Prat (2005), Meade and Stasavage (2008) and the career
+concerns literature particularly associated with Holmstrom (1982, 1999).
+23
+Another variant, more consistent with my experience, has policymakers motivated to impress a broader range
+of stakeholders so that they may ultimately persuade their colleagues of a preferred policy approach.
+24
+See also, for example, Scharfstein and Stein (1990).
+
+20
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+“Policymakers should explore ways to structure the deliberation process in order to maximise the
+discipline effect, and minimise the conformity effect.”
+Maximising discipline and minimising conformity is an important goal of the recommendations of the
+Review.
+
+Time horizons and transparency trade-offs
+The stylised example of a televised MPC meeting in real-time illustrates the apparent trade-off
+between increasing transparency and inhibiting deliberation. According to Meade and Stasavage
+(2008): “A general assessment of when private deliberation is preferable . . .would depend upon
+weighing the costs of transparency in terms of reduced quality of deliberation against the observed
+benefits in terms of increased accountability and, in the case of monetary policy, increased
+effectiveness.”
+At core, the Review recognises that the optimal timeframe for transparency varies across the Big 4
+policymaking objectives (see Figure 1 and Figure 6). This insight leads the Review to favourably
+consider different timeframes for particular transparency initiatives, thereby maximising the welcome
+disciplining effects of transparency, and minimising the adverse effects associated with greater
+conformity.
+If policymakers adopted a transparency initiative to enhance the effective communication of a policy
+judgment, it would be most operative in the near term.
+If policymakers, however, adopted a transparency initiative which aimed to enhance the accountability
+of policymakers to the public, it would likely be most operative in the medium term. After all,
+considerable time needs to have elapsed before an accurate assessment can be made of whether
+policy decisions were sound.
+Figure 6: Time horizon to achieve Big 4 objectives
+
+Transparency initiatives aimed at delivering an accurate historical record of the Bank’s policy
+formulations are, by construction, directed at the long term.
+Economic historians are principally concerned about the accurate preservation of primary source
+material for future use, as was confirmed by the discussions with leading UK economic historians
+conducted as part of the Review. So transparency initiatives aimed at history should focus on the
+preservation of key records, and facilitating access to these by historians of the future, rather than
+simply expediting document release.
+What about transparency initiatives aimed at improving the process by which policymakers make
+sound judgments? This is perhaps the most consequential question of all, which the Review takes up
+in more detail in Section 3.
+
+Transparency and the Bank of England’s Monetary Policy Committee 21
+
+3. Institutional design: deliberation and committee dynamics
+Rigorous and robust decision-making processes are essential for the formulation of sound policy
+decisions. This Section draws on academic literature to identify the pre-requisites for good decisionmaking, notably high-quality inputs, favourable dynamics of the decision-making body, and most
+important of all, genuine deliberation (Figure 7). As such, the deliberative process of the MPC should
+be enhanced – or, at least not undermined – by proposed transparency reforms.
+Figure 7: Key ingredients to rigorous decision-making
+
+Decision-making and organisational success
+Why do some organisations succeed and others fail? The question is hotly debated by scholars and
+practitioners in the field of management and organisational design.
+Mellahi and Wilkinson (2004), describe two broad models that bear on the question of organisational
+failure. One identifies ‘external factors’ as the predominant force – failure of individual organisations is
+seen predominantly a symptom of an industry-wide decline of which management’s control is limited.25
+An alternative theory emphasises the importance of ‘internal factors’, that is, the quality of
+management decisions.
+The literature identifies numerous inter-related theories that link internal management inadequacies to
+organisational failure. These include:
+
+
+Janis’ canonical ‘Groupthink’ theory (1972; 1982), which highlights the tendency of small,
+homogenous management teams to make suboptimal decisions.
+
+
+
+Hambrick and Mason’s (1984) ‘Upper Echelon’ theory, which links organisational achievements to
+the composition and background of an organisation’s senior management team.
+
+
+
+Staw, Sandelands and Dutton’s ‘Threat Rigidity Effect’ theory (1981), which explains the
+tendency of management groups to stick rigidly to tried and tested techniques at times of threat
+and challenge, thereby increasing the risk of organisational failure among incumbents at times of
+secular change.
+
+The common finding is the need to design decision-making processes, and structure decision-making
+groups, so that is genuine deliberation prevails amid incoming information and the need to choose
+among alternative courses of action. This is particularly important in times of rapid change.
+That genuine deliberation should play a central role in decision-making is rooted in classical liberalism.
+John Stuart Mill (1859), for example, championed the importance of free speech and discourse to
+25
+
+As Mellahi and Wilkinson (2004) note, classic industrial organisation literature traces the roots of industry-wide
+decline to Schumpeterian ‘creative destruction’ (Schumpeter 1942).
+
+22
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+intellectual progress. He advanced the belief that truth would emerge through the free competition of
+ideas in public discussion and debate. As Mill wrote in his classic On Liberty: “The general or
+prevailing opinion in any subject is rarely or never the whole truth; it is only by the collision of adverse
+opinions that the remainder of the truth has any chance of being supplied.”
+A core aim of deliberation is to achieve consensus among different parties; but, as noted by Barabas
+(2004) and others, deliberative processes should accomplish more than merely achieving consensus.
+Barabas defines ‘desirable’ (or genuine) deliberation as that which succeeds not only in achieving
+consensus, but also in delivering intellectual progress: “Submissive consensus is clearly
+undesirable…To be desirable, deliberation should improve knowledge so that participants come not
+only to a consensus, but also to an enlightened view of the problem at hand.”
+Genuine deliberation is, therefore, the process by which participants not only share information, but
+also learn from and influence one other. It is the crux of good decision-making processes within both
+the public and private spheres, the ‘special sauce’ to optimise policy.
+As Schonhardt-Bailey (2013) describes in her work on US monetary policy: “Effective deliberation
+among…unelected experts who are being held to account is thus one of engagement and reciprocity
+where participants talk to one another and take up others’ points.”
+
+Identifying genuine deliberation: inquiry vs advocacy
+What does effective deliberation look like in practice? A thorough assessment of the nature and
+importance of rigorous decision-making processes is provided by Garvin and Roberto (2001). For the
+purpose of the Review, Garvin and Roberto make a particularly useful delineation – between the
+process of ‘inquiry’ and that of ‘advocacy’.26
+Inquiry is essential for successful decision-making, and organisational success. As Garvin and
+Roberto put it: “Inquiry is a very open process, designed to generate multiple alternatives, foster the
+exchange of ideas, and produce a well-tested solution. . . . A process characterised by inquiry rather
+than advocacy tends to produce decisions of higher quality.”
+Garvin and Roberto highlight the ways in which inquiry and advocacy differ:
+
+
+Open and balanced sharing of information. People engaged in inquiry typically share
+information widely, typically in raw form, and allow participants to draw their own conclusions.
+Participants in an advocacy process, in contrast, often present information selectively, buttressing
+their arguments while withholding relevant conflicting data.
+
+
+
+Critical thinking and assumption testing. Inquiry processes are ones of testing and
+evaluation. Effective decision-making groups step back from their arguments in order to confirm
+their assumptions by examining them critically. Participants do not shy away from asking hard
+questions. These indicia of critical thinking are not typically present in processes of advocacy, in
+which the discussions tend to be characterised by persuasion and lobbying.
+
+
+
+Deliberation of multiple alternatives; encouragement of dissension. Inquiry cultivates and
+values minority views, and participants are comfortable raising alternatives. Inquiry processes
+tend to be characterised by thoughtful analysis of multiple alternatives, and usually avoid settling
+on the easy, obvious answer too quickly. Advocacy, by contrast, tends to supress new ideas.
+Participants are passionate about their preferred solutions; that passion tends to harm their
+objectivity, limiting their ability to pay attention to opposing arguments.
+
+26
+
+The Review treats ‘inquiry’ and ‘deliberation’ as largely synonymous.
+
+Transparency and the Bank of England’s Monetary Policy Committee 23
+
+
+
+Conflict is constructive, not personal. ‘Cognitive’ conflict relates to the substance of the issues
+at hand. ‘Affective’ conflict tends to be personal. Cognitive conflict is constructive, and often
+characterises inquiry processes. It allows people to express differences openly and challenge
+underlying assumptions; participants in inquiry tend to be accepting of constructive criticism.
+Affective conflict, by contrast, harms the decision-making process. It more often involves
+personal friction, rivalries and clashing personalities, and diminishes people’s willingness to
+cooperate.
+
+
+
+Active listening. Genuine listening and attentiveness to alternative points of view are typical of
+inquiry-making processes. Asking questions, probing for deeper explanations, and showing
+patience when participants explain their positions, are all identified as evidence of active listening,
+and are found in well-designed decision-making processes.
+
+The Garvin and Roberto study echoes many of the themes advanced by Fishkin (1991) in his
+pioneering work on deliberation and ‘deliberative opinion polling’.27 In particular, Fishkin identifies five
+characteristics of productive deliberations:
+
+
+Informed: arguments should be supported by appropriate and accurate claims;
+
+
+
+Balanced: arguments should be met by contrary arguments;
+
+
+
+Conscientious: participants should talk and listen with civility and respect;
+
+
+
+Substantive: arguments should be considered solely on their merits, rather than being given
+weight (or not) based on how they are made, or by whom they are made;
+
+
+
+Comprehensive: all points of view held by significant portions of the population should be given
+attention.
+
+Fishkin used these principles to design a range of experiments conducted in both the United States
+and the United Kingdom. He demonstrates empirically that well-designed deliberative processes can
+lead to better outcomes.
+Barabas (2004) also stresses the need for deliberation processes to be well-designed if they are to
+advance intellectual progress, singling out criteria such as the quality and breadth of information
+provided to decision-makers, and the degree of open-mindedness of participants, as important
+contributors to success. He concludes: “Deliberation increases knowledge and alters opinions, but it
+does so selectively based on the quality and diversity of the messages as well as the willingness of
+participants to keep an open mind.”
+
+Deliberation and the MPC
+How do MPC meetings fare according to these indicia of inquiry? Is the MPC an exemplar of genuine
+deliberation?
+As set out more fully in Annex 2, the MPC policy meeting is conducted over two days each month. It
+typically begins on a Wednesday afternoon (Day 1), and continues into the Thursday morning (Day 2).
+When listening to recordings of MPC meetings, I was struck by the similarities between the Day 1
+deliberations, and the indicia of ‘inquiry and evaluation’ set out by Garvin and Roberto (2004). No less
+
+27
+
+A deliberative opinion poll takes a random representative sample of people and engages them in deliberation
+on policy issues through small-group discussions and informed impartial moderators to try to create a more
+informed public opinion. The concept was pioneered by Professor Fishkin of Stanford University.
+
+24
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+revealing was the way in which the Day 2 policy decision-making session tended to match the GarvinRoberto advocacy criteria.28
+During the Day 1 discussions, MPC members discuss different areas of the economy – financial
+markets, the international economy, demand and output, and so on – in turn. The discussion is
+informed by a short pre-prepared agenda. The debate is free-flowing and open, the tone usually
+courteous and informal.
+On Day 1, members exhibit behaviour typical of inquiry and evaluation processes. They work
+collectively to test, dismiss, or advance competing hypotheses to solve puzzles in the economic data.
+The discussion is marked by balanced arguments among participants, who seem genuinely open to
+alternative theories of the case. Participants also appear willing to accept constructive criticism of
+their proffered analysis. Advocacy is infrequently observed in Day 1 discussions.
+On Day 2 of MPC meetings, members explain their individual views on the appropriate stance of
+policy. Most members have already considered the economic data, and heard judgments of their
+colleagues. While Day 1 is deliberative, Day 2 is decisional. And when compared with the ad hoc
+informality of Day 1, Day 2 is orderly, almost formal in comparison.
+On Day 2, most members exhibit patterns of behaviour more akin to advocacy processes. Most strive
+to persuade others of the merits of their case. Members defend their positions, and marshal particular,
+sometimes selective, data to buttress a policy stance. So, they tend to devote their speaking time on
+Day 2 to advocating their positions, seeking to influence the views of their colleagues in anticipation of
+future policy decisions.
+Overall, the Day 1 MPC deliberations exhibit many of the criteria of a genuine deliberation, a crucial
+ingredient for successful policymaking. In considering a range of transparency reforms, the Review
+considers it essential that such high-quality deliberation is upheld. So, certain transparency reforms,
+including publishing transcripts, would necessarily be required to overcome a high bar.
+Day 2 discussions, by contrast, are largely set-pieces about explanation and/or advocacy. The impact
+of transcript publication, as a result, is likely to be far less threatening to the underlying dynamics of
+discussions on the policy decision day.
+
+Group decision-making in monetary policy: when do committees succeed?
+The trend toward committee-based decision-making in the conduct of monetary policy means that
+decisions are more frequently made by groups than by individuals.
+There is a large and growing literature on optimal design of monetary policy committees (see, for
+example, Sibert (2006) and Maier (2010)). And there is an emerging consensus that well-designed
+committees tend to make better-quality decisions than individuals. Perhaps the best known research
+on this question in the monetary policy arena is that of Blinder and Morgan (2005), which shows that
+groups tend to outperform individuals in a simple monetary policymaking game. The Blinder and
+Morgan work was replicated in the United Kingdom by Lombardelli, Proudman and Talbot (2005).
+Maier (2010) summarises several hypotheses from the academic literature to explain the rationale for
+the superiority of committee decisions. These include the potential gains from the pooling of
+information from different sources, and the advantages of processing information from a group
+comprising different skills and experiences. Other benefits of committee-based decision-making
+include the provision of ‘insurance’ against the extreme preferences of any one individual.
+
+28
+
+See Annex 2 for a more detailed discussion of these two ‘policy go rounds’ of the MPC policy process.
+
+Transparency and the Bank of England’s Monetary Policy Committee 25
+
+Committee decision-making, however, is not without potential drawbacks. These include the
+inefficiency of sharing and processing information among large groups, and the risks of the
+emergence of groupthink. In addition, committee-based decision-making is also often described as
+prone to inertia, although the empirical evidence is less clear-cut.29
+Given that committee-based decision-making processes incur both benefits and costs, much of the
+relevant economic literature is focused on optimal committee design. The preference for smaller
+committees with committee members of diverse experiences is a recurring theme. As Sibert (2006)
+states: “[M]onetary policy committees should have a clear objective, publish individual votes and not
+have many more than five members. They should be structured so that members do not act as part of
+a group, perhaps by having short terms in office and members from outside the central bank.” Similar
+assertions are made in Maier (2010), whose conclusions on optimal committee design are
+summarised in Figure 8 below.
+Figure 8: Elements of optimal committee design, as outlined by Maier (2010)
+
+Source: based on Maier (2010).
+
+Committee design features and the MPC
+The MPC meets many of the criteria for an optimal monetary policy committee, including its relatively
+small size (Figure 9). Membership of the MPC is drawn from a diverse group – five of the nine
+members are ‘internal’, typically with extensive central banking experience; the remaining four are
+‘external’, appointed by the Chancellor of the Exchequer. The four externals serve a maximum of two
+three-year terms, and are typically drawn from varied backgrounds, including academia, business and
+financial markets.
+More generally, the one-member, one-vote structure of the MPC, and the associated strong ethos of
+individual accountability on the committee, ensure that it is possible to identify and evaluate individual
+contributions, as recommended by, among others, Sibert (2006).
+Other ways in which the MPC’s processes facilitate effective deliberation include the relatively small
+number of people in attendance at the policy meeting. There are typically around fifteen people
+present at the MPC’s monthly policy meetings – the nine Committee members, a representative of HM
+Treasury, and five senior Staff members of the Bank’s Monetary Analysis area, who are charged with
+preparing the MPC Minutes and the Inflation Report.
+Many aspects of the MPC’s structure are praised by external commentators. Sibert (2006) notes:
+“The solution to groupthink is to get group members to stop thinking and behaving as group members
+and to encourage outside examination of the group’s decision-making process. The Bank of
+England’s Monetary Policy Committee is an example of how this can be done.”
+
+29
+
+Blinder (2002) finds that committees are no more inert than individuals when making decisions.
+
+26
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Figure 9: Comparison of committee design at peer central banks
+
+Source: Warsh Review
+(a)
+The ECB has announced its intention to move to 8 monetary policy meetings per year rather than 12, as is current practice.
+(b)
+As of January 2015.
+(c)
+Monetary policy decisions at the RBNZ are made by the Governor.
+(d)
+The number of principals is defined as the number of members of the committee who participate at meetings.
+
+As Maier (2010) puts it: “In many ways, the Bank of England’s committee structure follows best
+practice: it has a clear goal, it is made up of diverse members (academics, business representatives
+and central bankers) and it is not too big. Also individual contributions can be identified and
+evaluated, and its members are encouraged to think for themselves.”
+Proposed reforms should be favourably considered if they strengthen further the MPC’s committee
+dynamics.
+
+Transparency and the Bank of England’s Monetary Policy Committee 27
+
+4. Peer review: comparison of central banks
+Central banks around the world have been making advances in transparency in recent years.
+Benchmarking the Bank’s practices against its peers is instructive but not determinative. The Review
+also draws on published academic research and summarises the findings of its own data and analysis.
+
+Survey data from the external academic community
+As set out in Section 1, this Review draws on the analytical framework for transparency established in
+Eijffinger and Geraats (2006). In that paper, the authors construct a ‘transparency index’ for monetary
+policy by scoring central banks in each of five categories of transparency: political, economic,
+procedural, policy and operational. For each category, Eijffinger and Geraats establish three criteria,
+and award central banks a score of 0, ½ or 1 depending on the extent of transparency. Under this
+scoring system, the maximum score awarded to any central bank is 15 (a maximum score of three in
+each of the five categories). Full details of the scoring criteria used can be found in Annex 3.
+The Eijffinger and Geraats’ (2006) scoring system is used to calculate transparency indices for nine
+major banks based on practices that existed prior to publication of their paper (up to 2002). Dincer
+and Eichengreen (2014) extend the Eijffinger-Geraats measures to over a hundred central banks and
+updated the transparency indices for practices as of 2010. The Review reports updated scores for
+2014 (drawing upon preliminary updates to 2014 provided to us by Dincer and Eichengreen).
+Any scoring system of this nature is bound to be imperfect, and alternative judgments can be made on
+the scores assigned. Nevertheless, it is instructive to highlight the insights of existing research. And
+the broad scoring patterns may be a reasonable approximation of central bank standing.
+Given large differences in the conduct of policy across countries, the quantitative assessment should
+be considered a starting point for consideration, rather than an end-point to determine reform
+recommendations. The ultimate goal of the Review is not necessarily to achieve the highest
+transparency score; the goal is to design a transparency regime that enables the MPC to best
+achieve its own policy objectives.
+Figure 10 provides an annual transparency score for each central bank, based on detailed time series
+data kindly provided by Dincer and Eichengreen from 1998 to 2010, and updated for 2014 as
+appropriate. The scores are shown for a selection of ten peer central banks. This subset of central
+banks covers all independent central banks in the major advanced economies.
+Figure 10: Comparison of transparency at peer central banks over time
+
+Source: Dincer and Eichengreen (2014) and Warsh Review calculations.
+Note: the solid lines show data based on Dincer and Eichengreen (2014) for 1998 to 2010. The diamonds show 2014 updates
+based on preliminary data kindly provided by Dincer and Eichengreen and Warsh Review calculations.
+
+28
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+A few observations from Figure 10 are worth highlighting:
+
+
+The overwhelming trend is towards greater transparency by most central banks.
+
+
+
+The Bank’s aggregate transparency score for 2014 is surpassed by only two of its peers, the
+central banks of Sweden and New Zealand.
+
+
+
+The Bank’s aggregate score is found to be closest to that of the US Federal Reserve.
+
+
+
+Finally, since 1998, the Bank’s absolute transparency scores, as measured, increased more
+slowly than its peers.
+
+Figure 11 disaggregates the 2014 scores across the five types of transparency for each peer central
+bank in our subsample.
+Figure 11: Comparison of transparency at peer central banks across five categories
+
+Source: Dincer and Eichengreen (2014) and Warsh Review calculations based on data provided by Dincer and Eichengreen.
+
+In one of the five categories, the Bank receives full marks.
+Procedural transparency yields the highest scores in light of the MPC’s timely and comprehensive
+account of policy deliberations, published individual voting records, and explicit monetary policy
+framework. The absence of transcripts does not diminish the Bank’s standing, as it is not included in
+the Eijffinger-Geraats scoring criteria. We address this issue in the Review’s own analysis, set out
+below.
+The Bank scores very well in three of the other categories: political, economic and operational
+transparency.
+The Bank’s high political transparency score reflects the clarity of its formal objectives, including the
+inflation target, and its operational independence.
+With respect to economic transparency, the Bank publishes quarterly medium-term forecasts for
+inflation and output, and discloses in some detail the macroeconomic models employed. And, in
+association with other authorities in the United Kingdom, it publishes most – though not all – of the key
+economic data relevant for the conduct of monetary policy. In terms of operational transparency, the
+Bank regularly evaluates the implementation of policy and its forecasting record. The Bank, however,
+
+Transparency and the Bank of England’s Monetary Policy Committee 29
+
+does not explicitly evaluate the appropriateness of the monetary stance itself ex post, and so does not
+receive full marks in this area.
+The Bank performs less well in the category of policy transparency, scoring the same, or lower than,
+its peers. Points are foregone because the Bank does not reliably provide a timely rationale for its
+policy decisions, and does not systematically provide an indication of likely future policy actions.
+
+The Review’s independent survey
+Comparing central banks according to the Eijffinger and Geraats (2006) criteria is a useful starting
+point in understanding international best practice in the area of monetary policy transparency. But it is
+not sufficient. The criteria were designed to capture transparency practices across a wide range of
+central banks. They produce reasonably similar results for all the central banks in our peer group,
+which are clustered together with relatively high scores.
+It is therefore instructive to probe more deeply into the three aspects of transparency that are central
+to the Review’s remit: economic, procedural and policy transparency.
+
+Economic transparency
+In the case of economic transparency, the Review analysed additional information relevant to the
+Bank’s peers, namely advanced economy central banks. In particular, the Review surveyed:
+
+
+
+
+The amount of information released about the published forecast;
+Whether the central bank publishes the code supporting its main economic model(s);
+Whether other key inputs to the policy process are made public; and, if so, the deferral period
+before the information is made available.
+
+The results are reported in Figure 12 below.
+Figure 12: Comparison of economic transparency at peer central banks
+
+Source: Warsh Review.
+(a)
+Number of variables published based on most recent forecast publication.
+(b)
+Unless requested earlier under Freedom of Information.
+
+30
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Transparency around the MPC’s forecast ranks among best practice. The Bank publishes substantial
+of detail, including a large number of forecast variables. Although a relatively crude measure of
+forecast transparency, the data nonetheless suggest that the Bank compares favourably to its peers.
+More generally, the way that the Bank conveys its forecast detail in its Inflation Report remains at best
+practice, for example, by using its projections to illustrate the MPC’s Key Judgments.
+The Bank’s current practice in this area results, in part, from reforms implemented during the past
+couple of years following the Stockton Review.30 The Bank appears somewhat short of best practice,
+however, in that it does not currently publish the code associated with its principal macroeconomic
+models.
+Practices with respect to the release of Staff analysis vary widely among central banks. For the MPC,
+staff analysis is a key input to the policy process. Papers sent to the MPC by Staff often establish the
+context and foundation for the deliberations and policy decisions. So greater transparency about the
+inputs to the deliberation and decision process might help to improve public accountability and provide
+a more complete historical record.
+
+Procedural transparency
+In the case of procedural transparency, the Review surveyed:
+
+
+
+
+
+The timeliness of the release of minutes;
+Whether views are ascribed to individuals in the minutes;
+Whether transcripts of meetings are made public; and
+If so, the length of the deferral period prior to publication.
+
+The results are reported in Figure 13 below.
+Figure 13: Comparison of procedural transparency at peer central banks
+
+Source: Warsh Review.
+(a) The ECB has announced its intention to publish ‘accounts’ of its eight monetary policy meetings from 2015. Currently,
+minutes are produced for internal purposes and are to be released after 30 years as historical records.
+(b) Released after 12 years.
+(c) Minutes are produced for internal purposes and released after 30 years as historical records.
+
+The Bank also performs relatively well in the area of procedural transparency. It publishes minutes of
+its policy meetings, which are reasonably effective at providing a clear narrative for the Committee’s
+decision and explaining the views of dissenting voters. Before publication, the minutes are subject to a
+thorough quality assurance process, ensuring the diversity of views is represented (Annex 2). And the
+30
+
+See McKeown and Paterson (2014).
+
+Transparency and the Bank of England’s Monetary Policy Committee 31
+
+timeliness of the MPC’s minutes compares very well with its peers: no other central bank in our
+sample releases minutes as promptly.
+To date, the MPC does not publish meeting transcripts. The only exceptions among advancedeconomy central banks are the US Federal Reserve, which publishes transcripts with a five-year lag
+(see Box 1), and the Bank of Japan, which publishes transcripts with a ten-year lag.
+
+Policy transparency
+In the case of policy transparency, the Review surveyed:
+
+
+
+
+Whether the central bank provides a rationale for its policy decision contemporaneously;
+If so, whether that statement publishes the vote tally, and reveals the likely bias of future policy;
+and
+Whether press conferences are held, and, if so, their frequency.
+
+Figure 14: Comparison of policy transparency at peer central banks
+
+Source: Warsh Review.
+* Erratum – please note: the original publication incorrectly stated that the Bank of Japan does not conduct regular press
+conferences.
+(a)
+(b)
+
+(c)
+
+(d)
+
+The Bank of England publishes statements when it changes its policy decision or, very occasionally, otherwise.
+The ECB provides a rationale in the form of the President’s opening statement at the press conference that follows its
+monetary policy decision.
+The Bank of England holds press conferences quarterly to coincide with the publication of its Inflation Report, a week after
+its policy meeting.
+The ECB has announced that it intends to move to eight monetary policy meetings of the Governing Council per year. It
+currently meets twelve times per year.
+
+The MPC’s current practice differs most markedly from its peers in this area. The MPC does not
+routinely explain its policy decision publicly around the time of the decision itself. Indeed, among its
+peer institutions, the Bank is alone in not systematically providing a contemporaneous rationale for
+policy decisions, either through a statement or regular press conference. While issuing a substantive
+statement on the same day as the decision is the norm among its peers, the MPC publishes a
+statement only when it changes Bank Rate or the stock of purchased assets, or only occasionally
+otherwise. In practice, a statement has been issued on fewer than 5% of occasions in which there has
+been ‘no change’ in policy.
+
+32
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Box 1: case study – the US Federal Reserve
+As one of the two peer central banks that publish transcripts of its monetary policy meetings, the
+Federal Reserve’s experience provides a rich case study. The Fed’s policy transcripts have been
+widely studied in academic research. I will offer perspectives on the academic literature, and my own
+observations as a member of the Federal Open Market Committee (FOMC) of the Federal Reserve. I
+will also highlight the meaningful differences between the FOMC’s and MPC’s practices, procedures
+and operating environment.
+
+Background
+The Fed’s long-standing practice was to assemble transcripts of the meetings of the FOMC in order to
+assist with the production of the FOMC minutes. In 1993, upon probing from Henry B. Gonzalez (then
+Chairman of the House Banking Committee), Alan Greenspan (then Fed Chairman) publicly
+acknowledged the existence of a form of transcripts of FOMC discussions. This came as a surprise
+not just to most Fed observers, but to many FOMC participants as well. While some believed that a
+tape recording was capturing the discussion around the table, most FOMC participants believed that
+their words would never be made public.
+Following significant congressional scrutiny and public pressure, the Fed agreed to publish lightlyedited transcripts of FOMC meetings with a five-year delay. And, by ultimately releasing transcripts
+dating to 1976 – when participants had virtually no expectation that verbatim transcripts would ever
+see the light of day – the Fed created a useful natural experiment.
+In order to judge the benefits and risks of transcript publication by the MPC, the Fed’s ready
+experiment is worth careful evaluation. Was the nature of the FOMC discussions prior to 1993
+fundamentally different from the post-1993 era? And if so, were the differences due to transcript
+publication?
+My judgment is consistent with much of the evidence from the academic literature: transcript
+publication contributed to the changing nature of the FOMC meeting, including less robust deliberation
+and increased use of prepared speeches by participants. But other factors related to the operating
+dynamics of the FOMC are also likely to have been associated with less robust deliberations – for
+example, the greater perceived deference by members to the views of the Chairman.
+The FOMC and the MPC share many similarities. But their practices also differ in important respects.
+Indeed, as described in Section 3, the MPC is endowed with certain historical and institutional
+characteristics which lend themselves particularly favourably to robust deliberation. A healthy dose of
+caution should therefore be applied before presuming a direct read-across from the experience of the
+Fed with transcript publication to the prospective experience of the Bank of England, or indeed of any
+other central bank.
+Schonhardt-Bailey (2013) describes the policy process thus: “[M]onetary policy made in a committee
+setting like the FOMC involves the aggregation of individual preferences of policy makers into a
+collective decision.” As we seek to distil lessons from the publication of FOMC transcripts, it is
+important to consider how the ‘aggregation of individual preferences’ differs between the FOMC and
+the MPC.
+
+Transcript publication and FOMC dissent
+One simple way of assessing the potential impact of transcript publication on the deliberative process
+is to look at trends in dissent; that is, the number of Fed members who voted against the majority
+policy stance.1
+Comparing the number of dissenting votes by FOMC members in the pre- and post-1993 era is one
+means of judging the effects of published transcripts According to Chappell, McGregor and
+Vermilyea (2005), less than 8% of the total votes cast were dissents in the decades prior to the Fed’s
+new transcript-release policy. This ratio of dissents declined somewhat further in the post-1993 era.
+Of course, there could well be other reasons for the decline in dissents beginning in the mid- to late-
+
+Transparency and the Bank of England’s Monetary Policy Committee 33
+
+1990s, including structural changes in the macroeconomic environment and changes in the leadership
+of the Fed.
+I strongly concur with the preponderance of academic work that judges that ‘counting the votes’ is far
+too crude a means of evaluating the impact of published transcripts (Schonhardt-Bailey (2013);
+Blinder (2002); Chappell, McGregor and Vermilyea (2005)). Among other reasons, FOMC
+participants in the deliberations include Reserve Bank presidents, only some of whom actually cast
+votes at each meeting. More important, the conduct of monetary policy is not a simple, binary choice
+made in isolation between tighter or looser monetary policy. It involves a process of continuous
+decision-making by central bankers based on changing assessments of historical and
+contemporaneous data, forward-looking forecasts, and changing understandings of the transmission
+channels of monetary policy.
+For these reasons, study of the actual deliberations by policymakers is essential. So scholars have
+sought other means of evaluating the potential impact of transcript release.
+
+Transcript evaluation
+A more rigorous and constructive means of judging the effects of the Fed’s new transcript policy can
+be found by evaluating the text of the transcripts themselves. With studies seeking to make sense of
+millions of spoken words, this is a daunting and imperfect exercise.
+Still, recent academic research meaningfully advanced our understanding of the Fed’s deliberations.
+New research techniques were employed to distil more careful assessments of the FOMC participants’
+preferences, including systematic textual analysis, language mapping algorithms, and other more
+subjective coding of transcript data. No surprise, Fed policymakers far more often reveal their differing
+judgments on economic variables in their discussion around the table than in their actual votes. Nor
+should we be surprised that the academic research is divided on the effect of transcripts on the
+FOMC’s dynamics.
+Meade and Stasavage (2008) find evidence that the Fed’s new (post-1993) transcript policy led to
+deterioration in the quality of FOMC deliberations. In their formulation, policymakers are motivated to
+achieve two goals in the policymaking process: making optimal policy decisions, and garnering a
+good reputation in public (often associated with conformity with the prevailing consensus). The
+existence of public transcripts, even with a lag, caused FOMC participants to voice less dissent in the
+meetings themselves, and be less willing to change policy positions over time. For example, the
+number of dissenting opinions expressed by voting members fell from 48 (between 1989 and 1992) to
+27 (between 1994 and 1997).
+Another important phenomenon may have also contributed to greater conformity in the FOMC’s
+deliberations: the growing reputation of Chairman Greenspan during the period. This is not
+inconsistent with the authors’ formulation, of course – participants may well care how they are
+perceived. But, it is less obvious whether the more stifled debate is owed largely to the changed
+transcript-release policy.
+Schonhardt-Bailey (2013) provides a comprehensive assessment of policy deliberations in the conduct
+of U.S. monetary policy. She subjects the transcripts to rigorous quantitative and qualitative textual
+analysis, and conducts in-depth interviews with many FOMC participants. In addition, she takes
+account of the environment in which the deliberations occur. This includes the ‘quality of
+deliberations’; that is, whether the committee discussions consist of ‘argued reasoning’ and a
+‘reasonably frank exchange of views’, or ‘pre-prepared, canned’ remarks.
+Schonhardt-Bailey concludes that the publication of transcripts likely had some impact on FOMC
+deliberations: “[O]ur results provide support for a conclusion that over time a greater emphasis
+emerged on set-piece interventions by members. This could be a result of the publication of the
+transcripts after 1993, as the knowledge of the expected publication of the transcripts drove the real
+deliberation out of the FOMC meetings and into unrecorded ‘pre-meetings’, with the FOMC becoming
+the place for reading of prepared texts. If so, then we have evidence to support the negative impact of
+what we might call ‘extreme transparency’ of policymaking. We do, however, observe that the timing
+
+34
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+of the shift in the nature of deliberation in the FOMC does not readily fit with the surprise decision in
+1993 to publish the transcripts…Our overall conclusion here is that while the decision on the
+publication of the transcripts quite possibly contributed to a change in the style of deliberation, other
+causes also seem to have been at work.”
+What other factors might be involved? Both Schonhardt-Bailey’s research and my own experience
+suggest that there are other key variables that influence the nature and quality of deliberations. The
+tone-at-the-top set by the Chairman surely impacts the discussion inside the committee room. It is
+worth considering whether the leader of the committee crowds-in or crowds-out the discussion. The
+collegiality of the members themselves also matters. This is not just a matter of amity. The
+deliberative process is enhanced when participants believe they are able to influence the judgements
+of their colleagues. The willingness to entertain unorthodox views, and to hear perspectives from
+participants with dissimilar backgrounds, also can prove fertile ground for deliberation.
+Hansen, McMahon, and Prat (2014) find evidence that published transcripts drive both greater
+discipline (i.e., stronger preparation to make contributions to meetings) but also greater conformity
+(i.e., herding of views to minimise reputational harm). They conclude that “the net outcome of these
+two effects appears to be positive… [we] therefore find that the evidence from the 1993 natural
+experiment points toward an overall positive role for transparency.”
+The authors’ results are more supportive of the benefits of transcripts than previous studies. Their
+conclusion rests in part on identifying the effect of transcripts by comparing the contributions of
+inexperienced FOMC members (‘rookies’) – who are likely to feel the discipline and conformity effects
+more sharply because less is known about their abilities – before and after 1993. They assume that
+the power of the discipline and conformity effects on behaviour is related to the number of years of
+experience on the FOMC. This assumption is not wholly consistent with my assessment. Rookiestatus and the associated risk-aversion and/or eagerness to impress do not tend to last long at the
+FOMC. After an introductory period, most quickly achieve whatever comfort and influence they will in
+the institution’s environment. Those that are comfortable breaking with consensus do just that, while
+others tend to conform to the prevailing views.
+Hansen, McMahon and Prat (2014) are cognisant of the risk that public transcripts may drive some of
+the FOMC’s deliberations outside of the formal FOMC meeting. So the authors make an
+understandable assumption: “We take as a given that the whole FOMC does not meet outside of the
+meeting to discuss the decision.” In my experience, there is no attempt by FOMC members to avoid
+the transcripts per se, but policy deliberations happen on a rather continuous basis. Given the large
+number of FOMC participants (19) and the even larger number of staff in attendance (approximately
+60) at meetings, some discussions inevitably happen more routinely in small groups. While the
+Government in the Sunshine Act is diligently followed, hallway discussions by two or three members of
+the Committee are not uncommon.2 Moreover, the Board of Governors (as distinct from the FOMC)
+typically meets bi-weekly to discuss, among other things, the state of the economy and the
+establishment of so-called discount rates. While distinct from the FOMC’s policy decision, these
+discussions by the Board of Governors are not totally unrelated to FOMC policy discussions.
+The authors’ normative conclusions, however, are quite on point: “[P]olicymakers – and future
+research – should explore ways to structure the deliberative process in order to maximize the
+discipline effect and minimise the conformity effect.” And it is this important idea that motivates some
+of the Review’s ultimate recommendations.
+1
+
+By both tradition and practice, the bar for lodging a dissenting vote is high at the FOMC. Neither Chairman Greenspan nor
+Chairman Bernanke ever cast a vote in the minority. In contrast, the Governor of the Bank of England has been outvoted on
+nine occasions since 1997. Governors of the Federal Reserve (a title given to all presidential appointees to the Board of
+Governors), unlike Reserve Bank Presidents (who are selected by the regional reserve banks’ boards), only rarely dissented in
+casting of votes. In the past decade, for example, there has been only one instance of dissent by a sitting governor. This
+represents an important difference with the MPC, where the one-member, one-vote principle is diligently respected by both
+internal and external members of the MPC. Indeed, approximately half of MPC meetings to date have included at least one
+dissenting vote.
+2
+See http://www.federalreserve.gov/aboutthefed/boardmeetings/sunshine.htm for more.
+
+Transparency and the Bank of England’s Monetary Policy Committee 35
+
+5. Recommendations: MPC reform package in detail
+The analysis contained in the body of the Review indicates that there is scope to adopt a series of
+transparency reforms in service to the MPC’s Big 4 objectives: sound policy decisions; effective
+communication; accountability; and history. The recommended five reforms are detailed below.
+
+1. Recommendation: publish policy decision and rationale as soon as is practicable;
+reduce number of policy meetings from twelve to eight
+Among its peers, the Bank currently stands alone in not routinely offering a contemporaneous
+explanation of its policy decision. Typically, the Bank issues only an abbreviated press release stating
+the outcome of the MPC policy meeting upon its completion. A somewhat more detailed, postmeeting assessment is issued only when there has been a change in policy, or very occasionally
+otherwise. But the decision not to change policy is a policy choice in itself. Herein exists a significant
+opportunity for enhanced transparency to serve the Bank’s objectives.
+The Bank should make public a brief summary of its policy rationale along with the policy decision as
+soon as is practicable. The statement should be brief – perhaps half a dozen paragraphs. Topics that
+should be addressed include: global economic and financial developments; domestic economic
+developments (including growth and inflation); prospects for growth and inflation; the balance of risks;
+and the Committee’s monetary strategy and reaction function.
+The proposed policy summary should capture the consensus of MPC members and the prevailing
+rationale for the Committee’s decision. The views of dissenting members should be briefly and
+proportionately summarised, but not ascribed to individuals.
+In addition, the votes of Committee members should be stated in the policy summary, rather than
+being revealed with a two-week lag, as is current practice. The MPC is alone among voting
+committees at major central banks in not revealing the vote along with the decision.
+Publishing the details of the vote contemporaneously would bolster individual members’ independence
+and accountability. One of the great traditions of the Bank is the one-member one-vote principle.
+Those votes should be made public as quickly as practicable. Committee members would then be
+able to communicate the rationale behind their own policy judgments in a timely manner in subsequent
+speeches and interviews.
+Under current practice, members often find themselves in the uncomfortable position of necessarily
+obfuscating their views in public in the two-week gap between the policy meeting and the publication
+of the minutes. This also leads to a blizzard of communications from MPC members in the short
+period between the release of the minutes and the ‘purdah’ period for the next policy meeting that
+begins after the Friday ‘pre-MPC’ briefing for the Committee by Bank Staff. This period is frequently
+as compressed as ten days or so. The interests of effective communication are not well served by a
+flurry of speeches and op-ed articles from different MPC members with different perspectives in such
+a compressed period.
+Effective communication, and indeed the Committee’s effectiveness more broadly, could be further
+enhanced by revisiting the frequency with which the Committee formally meets to consider policy
+action. The MPC currently meets about every four weeks, a frequency which the Review judges to be
+sub-optimal.
+Outside of crisis periods, the economic landscape tends to change rather slowly. It is rare indeed that
+the economy changes so rapidly that adjustments to monetary policy are needed at four-week
+intervals. Monetary policy works with considerable lags. This is most often considered to be lags
+between policy execution and effects. But the conduct of monetary policy also should recognise that
+most economic data are deeply uncertain. Changes in forecasts and associated judgments most often
+
+36
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+require persistent changes in tracking data. Rarely would a single month be a sufficient period to
+change assessments.
+Moreover, effective policymaking requires time for reflection. Under the MPC current monthly cycle,
+intensive preparation is required by Committee members and Bank Staff alike. For the Bank Staff, for
+example, time is consumed with the preparation of materials for the meeting, framing of key issues for
+the actual deliberation, and then documenting the discussion that transpired to arrive at the meeting’s
+decision.
+MPC members spend many hours reading and digesting the comprehensive briefing given to them by
+Bank staff, familiarising themselves with the latest developments in the economic conjuncture, and
+formulating their views on the appropriate policy stance. After the policy meeting, assiduous
+preparation and review of the minutes is needed. And no sooner has this process finished that the
+preparations for the next policy meeting begin.31
+Transparency is most valued when data and developments are poised to be effectively gauged and
+communicated. The current monthly schedule unnecessarily heightens market expectations, and
+prods the MPC to refine judgments and policies more frequently than economic analysis often makes
+prudent. An extra two-week interval between MPC meetings better strikes the balance between
+timeliness and probity.
+The MPC would be well-advised to meet eight times per year, rather than twelve, as currently
+scheduled. This reform would make the Bank’s practice more consistent with other leading advancedeconomy central banks, including the US Federal Reserve and, from 2015, the European Central
+Bank. Of course, in certain extraordinary circumstances, economic and financial developments will
+demand that a MPC meeting be called. The Governor should maintain the right to call supplemental
+meetings at his discretion.
+
+2. Recommendation: enhance MPC minutes to better capture Day 1 deliberation
+The MPC releases detailed minutes of its policy discussions about a fortnight after each meeting.
+These minutes compare favourably with those of the MPC’s international peers, both in terms of
+timeliness and clarity. The minutes are also subject to a robust quality assurance process prior to
+publication. As set out in Annex 2, MPC members agree on the minutes line by line, and there are
+robust processes are in place that allow Committee members to challenge – and to change – drafts
+produced by Bank Staff if they believe that their individual views are not fully captured.
+Nevertheless, there is scope to enhance the minutes in service to the Big 4 objectives. Currently, the
+first part of the minutes covering the Day 1 discussion largely provides a factual description of
+economic and financial developments. The minutes provide a coherent and compact summary of the
+various topics on financial markets, the international economy and nominal and real-side
+developments in the domestic economy discussed by the Committee. Data and analysis provided by
+Bank Staff are accurately summarised, as are the conclusions of the Committee’s deliberations. But
+there is relatively little space devoted to the key questions being deliberated. Herein lies an
+opportunity for reform.
+The Review recommends that the minutes are enhanced so that they capture more of the crux of the
+Day 1 deliberation. If the Day 1 debate focused on what signal to draw from a series of recent
+surprises in inflation, for example, the minutes should encapsulate the essence of the debate: for
+example, setting out the alternative hypotheses under consideration, and giving a greater sense of the
+weight attached by Committee members to competing narratives. And if the Committee is weighing
+the appropriate monetary strategy response to the current outlook – for example, the strategic
+31
+
+Stockton (2012) also observed that the monthly cycle could potentially be consuming time that could more
+valuably be used for deeper, longer-term issues.
+
+Transparency and the Bank of England’s Monetary Policy Committee 37
+
+challenges of making policy decisions close to the zero lower bound – then the minutes should reflect
+the tenor of that deliberation.
+Such a reform would aid effective communication of the Bank’s evolving views on the appropriate
+monetary policy stance. It would also bolster accountability and benefit the historical record. Given
+the importance of preserving Day 1 as a safe, transcript-free, space for deliberation (see below), it is
+vital that the minutes allow more light into those deliberations.
+
+3.
+
+Recommendation: make Day 2 transcripts public with publication deferral period
+of five to ten years
+
+A central question for the Review is the degree to which publication of transcripts might interfere with
+the deliberations that occur as a part of the overall decision-making process. Creating a safe space
+for true deliberations is among the most critical indicia of organisations that make good decisions,
+according to the leading academic and empirical literature and my own observation (Section 3). The
+Review, therefore, seeks to balance the need to ensure a safe space for genuine deliberation with the
+potential benefits that may flow from transcript publication, including those associated with improved
+accountability of the Bank and its policymakers to the wider public.
+A striking feature of the MPC’s policy meetings is the distinction between the Day 1 free-form
+deliberations and the more formal discussion of policy options that occurs in the Day 2 decisionmaking sessions (Section 3 and Annex 2). Day 1 is a genuine deliberation, characterised by inquiry
+and evaluation. On Day 2, by contrast, members’ remarks are largely explanatory, with Committee
+members setting out the case for their preferred policy option. They have already wrestled with the
+economic data, and heard the arguments of their colleagues. So, they tend to devote their speaking
+time on Day 2 to explain the rightness of their position. The discussion is neither the genuine
+deliberation that occurs on the prior day, nor is it always equivalent to the more balanced public
+speeches often delivered in the weeks following the meeting. On Day 2, most Committee members
+are seeking to influence their colleagues, if not to change the immediate policy decision, but to lay the
+predicate for subsequent decisions.
+The different nature of the Day 1 and Day 2 discussions require different approaches to transcript
+publication. Should the transcripts of the Day 1 deliberations be made public, the quality of the
+deliberative process would risk being materially impaired, to the detriment of sound policymaking.
+Hence, the Review recommends that the Day 1 policy discussions should no longer be recorded nor
+should they be transcribed. If additional personnel are required to ensure that the minutes accurately
+capture the discussions, that would be far preferable to recordings.
+In the absence of Day 1 transcripts, the Bank should implement other enumerated reforms to enhance
+the transparency of its Day 1 deliberations – in particular, the proposed enhancement of the minutes,
+and the proposed publication of key Staff briefing papers that inform the Day 1 deliberations (see
+below).
+The Review’s concerns about potential chilling effects of transcript publication are considerably less
+pronounced with respect to Day 2 of the MPC’s meeting. With few exceptions, the deliberations are
+nearly complete by Day 2, policymakers are heard, and their judgments tallied. Strong grounds
+therefore exist for publishing the transcripts of the Day 2 policy discussions with a reasonable delay.
+There remains a risk that that ultimate publication of Day 2 transcripts could negatively impact the
+discussions inside the room, but the Review concludes that the risk is limited and manageable, as
+long as an appropriate deferral period is established.
+There is no precise means of identifying the optimal deferral period for Day 2 transcript publication. As
+Box 2 sets out, there are a range of methods for establishing a reasonable deferral period, including
+assessing lengths of business cycles and Committee members’ typical tenure. The Review favours a
+
+38
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+deferral period of sufficient length to avoid MPC members (and Bank Staff) feeling unduly constrained
+in modifying their views based on incoming information. While the Bank will ultimately choose the
+deferral period, I would judge a reasonable delay period to be between five and ten years.
+There should be a presumption that the Day 2 transcripts are full and unedited records of the
+meetings. But the MPC should formalise some parameters to allow for some limited redactions
+consistent with the public interest. If information revealed is personal in nature, for example, or
+continues to be proprietary, confidential, and under active consideration by the MPC at the time of
+publication, then limited redaction may be appropriate.
+The Bank should also consider whether the original audio recordings of the Day 2 policy discussion be
+preserved, and released after 20 years, consistent with best practices for the retention and release of
+public records in the United Kingdom. By instituting a policy that involves the eventual release of the
+original recordings – the primary source – the integrity of the transcripts would be assured. And it is
+quite possible that technological advances mean that such audio material might one day serve as a
+richer source material for historians and scholars. A couple of decades ago, few would have imagined
+the uses of computational linguistics and textual analysis tools to analyse the FOMC transcripts (see
+Box 1).
+In addition to providing a valuable historical record, publication of the Day 2 transcripts would also
+buttress the individual member accountability at the bedrock of UK monetary policy. The ultimate
+release of these transcripts – together with individual speeches, interviews, and testimony before the
+Treasury Committee – would ensure that MPC members are held to account for their views. The
+academic literature also suggests that a possible discipline effect from the publication of transcripts
+would ensure rigorous preparation for the meeting itself. While I found no lack of careful preparation
+or seriousness of purpose by incumbent MPC members, this reform could ensure that prospectively –
+even in more benign periods of a policy conjuncture – the level of engagement does not dissipate.
+
+Box 2: judging the appropriate deferral period for Day 2 transcripts
+Making sound policy decisions is essential to the long-term health of the UK economy and the long-term
+credibility of the Bank. The institutional arrangements, including transcript policy, should be designed to
+encourage that members make their best decisions possible at each meeting of the MPC.
+Sound policy decisions often require calibration and reassessment during economic cycles, business and
+financial alike. This behaviour – changing views when facts and analyses change – is something that should
+be encouraged, not made more inertial, in crafting transcript deferral policy. If transcripts were made public
+amid a tightening cycle, for example, members might well hew to an anchoring bias of views previously
+expressed.
+So an evaluation of UK economic cycles and indicators provides some useful guideposts (Figure 15). The
+average business cycle in the UK since 1955 lasted around six years. The average period of upswing lasted
+just under three and a half years and the typical downswing lasted almost two and a half years. In the most
+recent cycle, the pre-crisis economic expansion lasted around six years.
+Yet, as the global financial crisis made clear, it is a mistake to ignore the financial cycle when conducting
+economic policy. The financial cycle can be defined, however imperfectly, by studying the evolution of credit
+and asset prices over time (Borio, 2012).1 It is longer and has greater amplitude than the traditional business
+cycle. Financial cycles in the UK have lasted around thirteen years on average since 1880 (Aikman, Haldane
+and Nelson, 2014).
+Financial cycles, however, do not tend to be the driving force for consideration by most policymakers, at least
+as of yet. Still, the Review judges that while it is probably unnecessary to await the conclusion of a financial
+cycle before releasing transcripts, its length should be accorded some weight when considering the
+appropriate deferral period.
+
+Transparency and the Bank of England’s Monetary Policy Committee 39
+
+The Review also requires consideration of another transparency objective: accountability.
+MPC members should be individually accountable for their decisions, given the responsibilities embedded in
+the Committee’s one-member, one-vote principle. That is the rightful rationale currently for publishing votes
+after meetings, testifying periodically before the Treasury Committee, and individually submitting annual
+reports to the Treasury Committee. The MPC also bears an institutional burden of accountability. A look at
+MPC term limits and historical data pertaining to years of service on the Committee is informative for both
+individual and institutional accountability.
+By statute, external MPC members serve a three-year term, subject to the prospect of one reappointment
+period, thereby possibly extending tenure to six full years. The Governor of the Bank (as Chairman of the
+MPC) is appointed to a single, non-renewable, eight-year term. Deputy Governors can serve a maximum of
+two five-year terms. In practice, since the formation of the MPC in 1997, the average actual tenure of all MPC
+members has been around five years.2 That means, however, that 40% of MPC members served five or
+more years, so transcript policy might want take into consideration the tenure period of this substantial
+minority of MPC members.
+In the conduct of monetary policy, accountability often can be best measured once the economic cycle is
+complete. It so happens that the average length of MPC service (around five years) roughly corresponds to
+the average length of the business cycle (around six years). If transcripts were to be published somewhere in
+the five to ten year range, many Committee members would be readily held accountable for their spoken
+words, either because their public service continued or their reputations still mattered to them upon their
+formal departure from the Bank. And a five to ten year deferral period would also ensure that sufficient time
+had passed for a reasoned judgment to be made on the appropriateness, or otherwise, of members’ policy
+decisions.
+The full range of individual judgments on Day 2 may approximate the collective judgment of the MPC. That
+collective judgment is forged into the consensus, among other places, in the Bank’s quarterly Inflation Report.
+As such, the MPC’s institutional accountability is of great importance as well.
+The Bank’s stakeholders can best evaluate the conduct of the MPC as a whole after a reasonable amount of
+time and perspective, corresponding roughly to the business cycle and, perhaps, some portion of the financial
+cycle.
+In light of these metrics and peer practices, the Review finds that a transcript deferral period of somewhere
+between five and ten years is most appropriate. Adopting a deferral period in this range would put the Bank
+in high standing among its peer institutions.
+Figure 15: Useful metrics to judge a reasonable transcript deferral period
+
+Source: Bank of England website, Aikman, Haldane and Nelson (2014) and Warsh Review
+1
+More broadly, the financial cycle “denote[s] self-reinforcing interactions between perceptions of value and risk, attitudes towards risk
+and financing constraints, which translate into booms followed by busts.” (Borio, 2012)
+2
+The legislation in force in the earlier years of the MPC allowed for longer maximum terms than the current statute permits.
+
+40
+
+4.
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Recommendation: publish key inputs to the MPC policy meeting alongside Day
+2 transcripts with identical deferral period
+
+Members of the MPC benefit immeasurably from extensive, high-quality Staff briefings on economic
+and financial market developments in advance of each formal policy meeting. A high standard of
+inputs – in this case, policy briefings – is a pre-requisite for a robust and effective decision-making
+process across all complex organisations, not least central banks. The Review judges that the MPC’s
+Big 4 objectives would be well-served if, alongside the Day 2 transcripts, the Bank published the Staff
+briefings that informed that meeting’s policy decisions.
+Greater transparency about the inputs into the deliberation and decision process would safeguard,
+and – perhaps even enhance – the quality of the briefing material sent to the MPC. The so-called
+discipline effect identified by the academic literature should ensure that the high standard of briefing
+material does not decline. The publication of key Staff inputs should also enhance the Bank’s
+reputation for high-quality and independent analysis, further strengthening its credibility, and hence its
+effectiveness.
+Publication of Staff inputs would also improve MPC accountability. Staff analyses often establish the
+context and foundation for the deliberations and policy decisions. By releasing the key inputs to the
+MPC meeting and meeting transcripts together, the Bank could provide its stakeholders with a fuller
+picture of the policymaking process, thereby ensuring a better understanding of the context of the
+MPC discussions. Publication of the Staff briefing materials that informed both the Day 1 deliberations
+and the Day 2 decisions would also serve to ensure accountability in the absence of Day 1 transcripts,
+as recommended above.
+Adoption of an appropriate delay period should mitigate the risk that greater public scrutiny leads to a
+chilling effect regarding the advice given by Bank Staff to the MPC. The delay should be long enough
+so that Staff offer their unfettered views to the MPC, and do not ‘pull their punches’. But the delay
+should not be so long that it fails to serve the objective of ensuring accountability to the Bank’s
+stakeholders.
+Hence, the Review recommends an identical period of deferral for key official inputs – five to ten
+years. By releasing the Day 2 transcripts and key official inputs to the policy meeting together as a
+package, the Bank should be able to provide its stakeholders with a fuller picture of policy discussions.
+
+5.
+
+Recommendation: strengthen authorities of Secretariat; enhance Archive policy
+and practices
+
+The Bank is responsible for ensuring that the historical record captures the sentiments and judgments
+that once resided in the institution. In service to its objective of establishing an accurate record for
+future historians, there is additional scope for the Bank to reform the practices of the Bank Archive.
+The Bank’s Archive is an extraordinarily valuable repository of information. At present, in relation to
+monetary policy, the Bank has voluntarily agreed to subject itself to the 20-year rule, consistent with
+best practices of other public bodies, including all central government departments (see also Annex
+2).32 That is, the Bank is expected to release all archived material after 20 years unless that material
+meets one or more of a set of well-defined criteria for closure. These criteria are mainly concerned
+with ensuring that the Bank complies with legal requirements such as those governing the disclosure
+of personal data or customer business.
+In the coming years, material relating to some landmark economic events in the United Kingdom’s
+recent history is due for release. For example, records relating to the creation of the UK inflation32
+
+Along with central government departments, the Bank’s Archive is currently in transition from the 30-year rule to
+the 20-year rule, which involves the opening of two years’ worth of files each year. See Annex 2.
+
+Transparency and the Bank of England’s Monetary Policy Committee 41
+
+targeting framework in 1992 are due to be released in 2018; the first records relating to the newlyformed MPC in 1997 are due to be released in 2020. This would therefore seem an opportune
+moment for the Bank to strengthen its practices in this area, particularly given the challenges for
+records management posed by the digital age.
+The Review, therefore, recommends that the Bank establishes a strengthened Secretariat of the MPC.
+The Secretariat would be charged with overseeing the production of transcripts, management and
+release of the key inputs to monetary policy and the eventual release of other historical records by the
+Bank’s Archive.
+In particular, the new Secretariat should:
+ oversee the production and release of Day 2 transcripts, including circulating drafts to participants
+to ensure the integrity of the written word; take primary responsibility for pro-actively identifying
+and collecting key briefing materials that would be released alongside Day 2 transcripts with a five
+to ten year delay;
+ recommend appropriate standards to govern redactions in extraordinary cases, consistent with the
+public interest. Redactions may be appropriate, for example, if the information remains proprietary,
+confidential, and/or under active consideration by the MPC. There should, however, be a strong
+presumption in favour of full disclosure;
+ ensure that archival records relating to monetary policy are stored appropriately within the Bank’s
+records management system, transferred to the Archive at the appropriate juncture, and made
+readily accessible to the public after 20 years.
+
+Summary
+The Review concludes that reforms in these five broad areas would best equip the MPC in its pursuit
+of the Big 4 objectives. Figure 16 shows these five recommendations in the context of the framework
+developed in the Review.
+Figure 16: Review recommendations and transparency
+
+42
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Source: based on Geraats (2002).
+
+Transparency and the Bank of England’s Monetary Policy Committee 43
+
+6. Implications: PRA and FPC
+The Big 4 transparency objectives are common to all three policymaking committees of the Bank. The
+question, however, is whether – and if so, to what extent – the proposed reforms to the MPC should
+be applied to the Board of the Prudential Regulation Authority (PRA) and the Financial Policy
+Committee (FPC).
+
+PRA
+The PRA, which is responsible for the prudential regulation of UK banks and insurers, was established
+as a wholly-owned subsidiary of the Bank by the Financial Services Act of 2012. It shares the Bank’s
+overall mission to promote the good of the people of the United Kingdom, and seeks to maximise the
+complementarities between its work and that of the Bank’s other policy committees. Though the PRA
+shares a common sense of purpose with the MPC, it is very different in form, responsibilities and
+structure. Hence, transparency reforms that are applicable to the MPC are not, in the main,
+appropriate for the PRA.
+First, the PRA is responsible for the safety and soundness of banks, major investment firms, building
+societies, credit unions, and insurers. It is focused on micro-prudential supervision, a bottom-up
+exercise. The PRA’s judgments are focused on individual financial institutions, particularly those that
+pose the greatest risk to financial stability. As a consequence, the data upon which the PRA bases its
+regulatory and supervisory judgments is overwhelmingly proprietary and institution-specific.
+By contrast, the MPC is tasked with the macroeconomic objective of ensuring price stability as a
+condition precedent to the pursuit of other policies. MPC policies are top-down, and its goal is to
+evaluate the broad contours of the UK economy. As such, MPC deliberations and decisions generally
+involve analysis of aggregate, macroeconomic data.
+Second, the PRA’s deliberation and decision-making process is altogether different from that of the
+MPC. The PRA’s most significant supervisory decisions are taken by its Board – currently comprising
+four Bank staff and five independent non-executive members.33 Unlike the one-member, one-vote
+tradition of the MPC, the PRA Board strives to achieve consensus, taking due consideration of the
+views expressed.
+The PRA Board meets twice-monthly, more frequently than the MPC. That reflects the large number
+of supervisory judgments that the PRA Board makes, and the speed with which action is required.34
+By contrast, the MPC is largely making a unitary decision each month about the appropriate stance of
+monetary policy. This typically occurs amid a fairly slow-moving macroeconomic environment.35
+How do these distinctions affect the application of MPC reforms to the PRA? An assessment of the
+Review’s Big 4 objectives provides some important insights.
+The first objective in assessing any transparency initiative is to evaluate its effect on making sound
+decisions. What if the internal debate at the PRA Board regarding the most appropriate levels of
+capital and liquidity of a particular firm were made public? The task of making sound decisions and
+ensuring the safety and soundness of a particular bank or insurer could well be undermined. Public
+
+33
+
+These independent members include the chief executive of the Financial Conduct Authority (FCA). The FCA is
+a separate institution from the Bank of England, and is responsible for promoting competition, ensuring that
+relevant markets function well and regulating the conduct of all financial services institutions,
+34
+The PRA as a whole is responsible for the prudential regulation of around 1,700 firms. Day-to-day decisions
+are taken by PRA senior management at the twice-weekly meeting of the Staff’s Supervision, Risk and Policy
+Committee (SRPC). The most important judgments – for example, many of those affecting the largest (‘Category
+1’) institutions – are escalated to the PRA Board.
+35
+Indeed, as set out elsewhere in the Review, the MPC is probably meeting more frequently than optimal.
+
+44
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+communication, for example, through transcripts could prove destabilising to the firm, especially if
+remedial action were being debated or requested.
+Effective communication involves the PRA’s assessment of the financial firm’s financial wherewithal.
+And should the firm disagree, it should respond with facts and analysis. Given the bottom-up nature of
+its work, the focus of PRA communications is, by necessity, with the individual firms themselves. That
+is in marked contrast to the MPC, where the communication of its views to a wide and diverse
+audience – financial markets, households and companies – is a key channel through which monetary
+policy is transmitted.
+Does this mean that the PRA should not be held accountable? Of course not. The PRA should rightly
+be held to account for its decisions. But the proposed transparency reforms to the MPC – publishing
+policy statements contemporaneously, enhancing minutes, publishing transcripts of decisions and
+Staff inputs – are not obviously consistent with the sound policymaking of a bottom-up microprudential
+supervisor. Moreover, the institutional accountability of the PRA is different from the accountability
+that the Bank’s stakeholders demand of each MPC member.
+In what ways should the Bank ensure the accountability of the PRA? The Bank should ensure its
+broader stakeholders are aware of the standards and expectations for which the PRA is holding its
+regulatees to account. The PRA should also be accountable for its general approach to supervision –
+the nature of its oversight, its interactions with and expectations for firm-level senior management and
+boards of directors. These types of PRA policy transparency are best accomplished through periodic
+reports and testimonies to the Treasury Committee, rather than contemporaneous policy statements
+and meeting transcripts.
+Finally, does the PRA owe an obligation to history? Yes, indeed. If the Bank adopts the Review’s
+recommendation with respect to a strengthened Secretariat function for the MPC, it should consider a
+similar model for the PRA. An expanded Secretariat function could ensure that the PRA establishes
+robust rules and procedures for what constitutes archival documents, and ensures that these
+documents are made available under the Bank’s recently adopted 20-year rule. This would help
+historians better understand the decisions made by the PRA, and more generally the evolution of the
+United Kingdom’s post-crisis regulatory framework.
+Grafting the rest of the MPC’s reform proposals on to the PRA, however, seems ill-advised.
+
+FPC
+The Financial Services Act 2012 also established an independent Financial Policy Committee at the
+Bank.36 The Committee is charged with a primary objective of contributing to financial stability by
+identifying, monitoring and taking action to remove or reduce systemic risks. Its purpose is to protect
+and enhance the resilience of the UK financial system.37
+The FPC’s remit and that of the PRA are complementary. The FPC evaluates the safety and
+soundness of the financial system as a whole; the PRA evaluates the safety and soundness of
+individual firms.
+As such, the FPC sits on a continuum somewhere between the PRA and the MPC. It strives to enact
+policies that serve the long-term macroeconomic interest, but its data and analysis is derived, in part,
+from evaluations of some of the largest financial firms that do business in the UK.
+
+36
+
+The FPC existed on an interim basis between February 2011 and March 2013; the Financial Services Act 2012
+came into force on 1 April 2013.
+37
+The FPC has a secondary objective to support the economic policy of the Government.
+
+Transparency and the Bank of England’s Monetary Policy Committee 45
+
+Figure 17: Key characteristics of the Bank’s policy committees
+
+Source: Bank of England website.
+(a)
+As of December 2014. Will increase to 11 in May 2015.
+
+To a certain extent, the FPC and MPC are, at least aspirationally, more kindred macro-driven,
+policymaking committees than the micro-driven, firm-level judgments undertaken by the PRA. Both
+the MPC and FPC are focused on the broad contours of the UK economy. Each is striving to
+implement policies to help ensure long-term economic prosperity and resiliency. But there are
+nevertheless some key differences between the two policymaking committees. As a result, it would be
+imprudent to presume that there is a direct read-across from the proposed MPC transparency reforms
+to the FPC.
+First, the FPC’s policy instruments, tools, and objectives are nascent in their development relative to
+our understanding of the conduct of monetary policy. There is little economic literature or policy
+practice in macroprudential oversight to provide informed guidance.
+The FPC, like its counterpart in the United States, the Financial Stability Oversight Council, is
+necessarily learning about its tool-kit and objectives during these early, formative years of
+macroprudential supervision. The Bank appears to be making substantial progress in its new
+monitoring regimes. But, the task of identifying bubbles and assessing vulnerabilities is daunting.
+Suffice it to say that that the new macroprudential policy tools are still a subject of considerable debate
+among policymakers.
+Second, the MPC policy is largely directed at the modal distribution of policy; that is, the most likely
+economic outcomes. So, the proposed MPC transparency reforms – contemporaneous statements
+and rationale, enhanced minutes, lagged release of Committee transcripts and key Staff inputs – are
+intended to explain and corroborate events that transpire. In contrast, the FPC is decidedly more
+focused on ‘tail-risks’ – those things that are unlikely to transpire, but if so, would have a materially
+negative effect on economic stability. So, if FPC members perform their jobs with aplomb, they will
+most likely have their greatest fears uncorroborated by events. Fully revealing the discussion that led
+
+46
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+to the identification of tail risks might not promote accountability and could cause unnecessary
+confusion in financial markets.
+Third, the FPC’s discussions and dynamics to date appear quite different from the MPC. There are no
+readily distinguishable policy ‘go-arounds’ that distinguish deliberations from decisions. With the
+benefit of time and experience, the FPC may evolve into a model closer to that of the MPC, but it is
+premature to assume or precipitate such a move.
+While the FPC may aspire to be more like the MPC over time, there are two aspects of the FPC that
+overlap substantially with the PRA at present. This overlap also weighs against applying MPC
+practices to the FPC, at least for a time.
+Like the PRA, the FPC makes considerable use of data and analysis that is derived from particular
+financial firms. In part, that is because the UK financial system is reasonably concentrated. So if, for
+example, transcripts of the FPC were made available to the general public, even with a lag, they would
+likely reveal privileged, firm-specific details, including PRA judgments about the resilience of these
+firms.
+Second, like the PRA Board, the FPC seeks to make decisions by consensus. Its members constitute
+five Bank staff, the Chief Executive of the Financial Conduct Authority (FCA) (one of five external
+members), four other external members appointed by the Chancellor, and a non-voting representative
+of the Treasury. Members of the FPC are expected to support the consensus decision in their public
+statements, in contrast to the individual accountability of the MPC. It is especially important that the
+members speak freely at meetings and bring alternative perspectives, even if these alternatives are
+not adopted or are modified in arriving at the consensus.
+Overall, would the application of MPC transparency reforms to the FPC advance the Big 4
+transparency objectives? It is too early in the maturity cycle of the FPC to make such a conclusion
+with any conviction.
+The importance of this new macroprudential remit to the Bank, and the distance between its promise
+and its full attainment, suggests some additional degree of care and discretion should be given before
+imposing new strictures.
+At present, making sound policy decisions could be impaired if FPC discussions were made public
+through transcript release, even with a lag. The FPC very much needs an unconstrained space for
+open discussion (including of confidential information) and deliberation as its members seek to
+advance its new discipline and find consensus.
+Moreover, effective communication – among the other Big 4 objectives – would not necessarily be
+well-served by applying the MPC standards to the FPC as macroprudential policy is being developed.
+Ensuring FPC accountability for tail-risk judgments that are unlikely to transpire also seems a difficult
+task. In addition, the consensus-driven decision-making of the FPC makes it less important that
+individual views are expressed and attributed.
+Institutional accountability is more in demand. And the FPC appears reasonably well-served through
+existing accountability arrangements: the publication of statements, a published record of its formal
+policy meetings, speeches, testimonies to Parliament and the issuance of the Bank’s bi-annual
+Financial Stability Report.
+In sum, the Review finds that it is premature to recommend that the proposed reforms of the MPC be
+applied to the FPC. It is recommended, however, that the Bank and its stakeholders revisit this
+question during the next three to five years. Time is required for the FPC to find its way in developing
+its tools, instruments, and objectives in the conduct of the new field of macroprudential regulation.
+That should give the FPC sufficient opportunity to navigate its way in service to its new objectives. By
+
+Transparency and the Bank of England’s Monetary Policy Committee 47
+
+that time, as the FPC’s understanding of the new discipline advances, there may be scope for
+additional transparency reforms.
+In the interim, however, the FPC should periodically review its communications policies, and look for
+opportunities to increase its transparency in service to the Big 4 objectives. The Bank should also
+ensure that archive policies and procedures are updated to ensure that historians are ultimately able
+to understand these important years of maturation for the FPC. Once the strengthened Secretariat of
+the MPC is established, the Bank should consider a comparable structure for the FPC, as well as the
+PRA, to ensure that archives are created, secured, and made available, subject to the Bank’s 20-year
+rule.
+
+48
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Annex 1: remit of the Review
+
+Transparency and the Bank of England’s Monetary Policy Committee 49
+
+Annex 2: existing MPC processes
+This Annex sets out the MPC’s existing practices, as I observed them directly or understood them
+from multiple interviews with participants. It includes key events in the monthly monetary policy
+cycle,38 the MPC’s existing transparency practices and the longer-term arrangements to make
+materials available to the public as historical records.
+
+Pre-MPC
+The MPC meets every month to form a judgement on policy, as required by statute. These monthly
+meetings typically take place during the first week of each calendar month. They are preceded by a
+period of intense preparation, both by Bank Staff and by Committee members themselves.
+The monthly cycle kicks off in earnest on the Friday morning preceding the MPC meeting. During the
+course of the morning, Staff deliver a series of six to ten set-piece presentations to the MPC. The
+presentations each cover different aspects of the economy – financial markets, the international
+economy, money and credit, costs and prices, and so on – and are intended to brief the Committee on
+important economic developments. MPC members typically ask questions, which may be answered
+on the spot by presenters or other staff in the room, or as part of a follow-up briefing. The meeting
+takes place in a relatively small lecture theatre, and is attended by Bank economists, a representative
+of HM Treasury, a representative of the Office for National Statistics (ONS), and typically a small
+number of other outside observers (for example, non-executive members of the Bank of England’s
+Court of Directors, or visiting colleagues from international central banks). All in all, there may be a
+hundred or so people in the room.
+A large amount of written material is prepared each month by Bank Staff for the MPC. These papers
+analyse the latest economic developments, and are categorised as ‘background’, ‘recommended’ or
+‘essential’ reading for the policy meeting. Many of these topics are discussed at the pre-MPC
+meeting.
+In the run-up to the MPC meeting itself, Committee members spend time considering the analysis
+presented at pre-MPC, asking follow-up questions, and preparing for the policy meeting itself. On the
+Monday of the week of the policy meeting, the Bank’s Chief Economist circulates to the Committee a
+short proposed agenda for the Wednesday afternoon discussion. The agenda is not intended to be
+exhaustive; it serves simply to set out a few key topics for discussion.
+
+The MPC meeting
+The MPC’s policy meeting takes place over two days, typically the Wednesday afternoon (Day 1) and
+Thursday morning (Day 2) of the first full week of each month. Before going on to describe the format
+of the meeting, it is worth noting the differences between the two days of the MPC’s discussions, both
+in form and substance. The contrasting nature of Day 1 and Day 2 was a recurring theme of my
+consultations with current and former MPC members. It was also apparent when I listened to
+recordings of selected MPC meetings.39
+The MPC meeting normally begins at 3pm on the Wednesday afternoon. As discussed in Section 3,
+the set-up is well designed to facilitate an effective deliberation: the room is small, and there are only a
+few others present in addition to the Committee members – typically five senior Bank staff, a non-
+
+38
+
+An in-depth account of the entire MPC process can be found in Lambert (2005), much of which appears still
+valid.
+39
+I listened to recordings of the MPC meetings in a secure setting at the Bank of England after the Minutes for
+that meeting had been released but before the subsequent meeting. As these policy meetings commenced, the
+Governor reminded his MPC colleagues that I would be listening to the recordings.
+
+50
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+voting representative of HM Treasury, and often a non-executive director of the Bank of England’s
+Court as an observer. A true deliberation ensues.
+Each topic on the agenda is introduced by a designated MPC member. The Committee discusses
+financial markets (introduced by the Deputy Governor for Markets and Banking); the international
+economy (introduced by the Deputy Governor for Financial Stability); money, credit demand and
+output; supply, costs and prices; and, finally, monetary strategy (introduced by a combination of the
+Deputy Governor for Monetary Policy and Chief Economist). The introductory remarks on each topic
+aim to highlight the topic by summarising that month’s news and offer an interpretation of
+developments in that area, including airing alternative perspectives and flagging risks.
+The Committee then discuss each topic in turn. The discussion is informed by the short pre-prepared
+agenda, but appears not to be constrained by it. Committee members readily advance topics for
+discussion that have not been covered either in the agenda or in the opening remarks by the MPC
+member ‘lead’. The debate is free-flowing and open; the tone courteous and quite informal. The
+Committee engages in a search for truth, exploring the economic landscape with no shortage of
+intellectual curiosity. Members seem to be testing out ideas and advance alternative hypotheses,
+which are then rigorously deliberated, debated, and, often, dismissed. This is a genuine deliberation,
+and one that plays a key role in guiding the Committee’s decision the following day.
+Section 3 of this Review sets out in more detail the important role of genuine deliberations in the
+decision-making process.
+The MPC meeting continues on Thursday morning. But the tone and purpose of Day 2 is very
+different. While Day 1 is deliberative, Day 2 is largely decisional. And when compared with the ad hoc
+informality and cross-talk of Day 1, Day 2 is orderly, almost formal in comparison. Overnight, MPC
+members reflect on the previous afternoon’s discussion. By morning, they will each settle individual
+policy conclusions, which they then often advocate.
+The extent of the preparation for the Day 2 meeting varies, and depends upon the preferences of the
+individual Committee member and demands of the prevailing economic situation. But, in most cases,
+members arrive at the meeting with written statements prepared. The Governor invites each member
+to present his views and votes. The Deputy Governor for Monetary Policy always speaks first and the
+Governor last; in between, the seven other members are called upon, seemingly in a random order, by
+the Governor. Each member typically speaks for five to ten minutes, explaining the key judgments
+underpinning their policy decision, arguing the wisdom of his or her position. Occasionally, members
+express a preference to hear others’ views before they themselves cast their vote.
+
+The announcement
+The Bank announces the MPC’s decision at midday on the Thursday (Day 2) shortly after the
+conclusion of the policy meeting. The announcement takes the form of a short press release, which
+simply states the outcome of the meeting, typically without explanation. The names of individual
+voters are not disclosed. The announcement aims to communicate the MPC’s verdict to financial
+markets clearly, and in a timely manner.
+In months where the MPC decides to change policy, or on the rare occasions when the Committee
+feels compelled to explain its views if policy is unchanged (on average, around 4% of the ‘no change’
+meetings), it issues a short statement to accompany its decision. These statements are intended to
+provide more guidance than is customary as to the MPC’s assessment of the economy and its policy
+rationale.
+
+Transparency and the Bank of England’s Monetary Policy Committee 51
+
+The minutes
+The minutes of the MPC meeting – typically, the first opportunity for the public to hear the outcome of
+the policy vote, and to be given a detailed rationale of the policy decision – are published at 9:30am on
+the Wednesday two weeks following Day 1 of the policy meeting. The production of the minutes is
+overseen by the existing MPC Secretariat, a small group of senior Bank Staff, three of whom attend
+the policy meeting each month. The Secretariat’s task is to summarise several hours of discussion,
+some of it very free-flowing and open-ended, into about a dozen pages of text.
+The Secretariat circulates a first draft of the minutes to the MPC and some senior Bank staff by the
+Tuesday of the week following the MPC meeting. MPC members are then provided an opportunity to
+offer comments, and a second draft is circulated. On the Monday of the following week, two days
+before the minutes are published, the MPC and Secretariat participate in a live drafting meeting.
+The Committee members review the content of the minutes in great detail. Members can, and not
+uncommonly do, challenge the draft of the minutes provided by the Secretariat if they do not believe
+that their views have been accurately captured. The final version of the minutes is agreed by the
+Committee prior to their release. This process ensures that the final minutes fairly represent the
+discussion of the meeting.
+The final published minutes amount to around a dozen pages of tightly drafted prose that follows a
+fairly set format.
+They first describe the MPC’s view of the data flow based on their discussions on Day 1, covering in
+turn: financial markets; the international economy; money, credit, demand and output; and supply,
+costs and prices. The text describes risks and counter-arguments. It presents the conclusions of the
+committee’s deliberations, rather than the content of the deliberation itself. Views or comments are
+not attributed to individuals by name.
+The minutes then describe the discussion on Day 2 – this largely is covered in the section of the
+minutes called ‘The Immediate Policy Decision’. This section draws together the Committee’s view of
+the economy as a whole and their policy conclusions. It explicitly reports differing views, although
+these are not attributed to individuals but rather to different camps (“For some members…”). Finally,
+the minutes report the votes of each member.
+
+52
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Figure A1: A stylised timeline of the MPC’s monthly cycle
+
+Interaction with the Inflation Report
+In the months in which the MPC produces forecasts of the economy and publishes its Inflation Report
+(February, May, August, November), there are additional processes and practices in place. These are
+described in more detail in Stockton (2012).
+For Inflation Report months, a series of meetings take place in the three weeks preceding the policy
+meeting, during which the MPC develops its consensus economic projections. These projections are
+a key input to the formation of policy. They are formally agreed at the policy meeting itself, and
+published a week later as part of the Inflation Report. So, in a forecast month, the MPC
+communicates its views on policy and the economy through a sequence of three events: first, the
+announcement on the day of the policy meeting itself; second, the publication of the Inflation Report
+and associated press conference six days later; and third, the publication of the minutes and vote a
+further week after that.
+Following David Stockton’s Review, the Bank implemented a series of reforms to enhance the
+transparency of its forecasts (McKeown and Paterson, 2014). These reforms include providing more
+clarity about the key judgments underlying the MPC’s forecast; monitoring those judgments through a
+set of near-term indicators; publishing more detail about the forecast itself, including projections for a
+much wider range of variables; and performing a more detailed evaluation of its forecast. The
+intellectual framework underlying these reforms is similar to that adopted in this Review – namely that
+the focus should be on effective, rather than maximum, transparency.
+
+Transparency and the Bank of England’s Monetary Policy Committee 53
+
+Historical MPC records
+As part of the continuous policy process described here, a large volume of written material is produced
+inside the Bank – briefings for the MPC, internal memos, presentations, and so on. Together, these
+materials form a body of source material that is potentially of considerable historical interest.
+The Bank’s practices surrounding historical records on monetary policy appear consistent with the
+policy of government departments. In particular, ‘records’ are made available to the public through the
+Bank’s Archive after a period of 20 years (the 20-year rule). The 20-year rule is the latest incarnation
+of the UK’s public records policy, which has been revisited a number of times since being first
+established in the 1950s. Following a review commissioned in 1952, the government announced that
+public records would be opened to the general public after a period of 50 years, with some
+exemptions. This was legislated in the Public Records Act 1958, and came into force in 1959. In 1967,
+following Prime Minister Harold Wilson’s call to “let some light and air into our public records”, the
+closure period was reduced to 30 years.
+Despite a series of subsequent reviews, the 30-year rule remained intact until 2007, when Gordon
+Brown, then Prime Minister, stated that “it is time to look again at whether historical records can be
+made available for public inspection much more swiftly than under the current arrangements”, and
+announced a fresh review. The 30 Year Rule Review, chaired by Paul Dacre, recommended a further
+reduction of the closure period to 15 years. In 2010, the government announced a reduction in the
+rule, albeit to 20 years rather than 15. In coming to their recommendation, Paul Dacre, Sir Joseph
+Pilling and Sir David Cannadine sought to balance the “…necessary tension between the
+understandable need for governments to work in some privacy and the equally understandable wish of
+citizens to know what is being done in their names.” These are similar to the issues encountered
+during the course of the Review.
+Despite being classed as a ‘non-departmental public body’, and, with respect to monetary policy,
+therefore officially not covered by the 20-year rule, the Bank sought to follow the spirit of the
+established best practices in place across government. Therefore the Bank’s Archive has recently
+reduced its own closure period from 30 to 20 years. The Bank is phasing in the transition to 20 years
+gradually.
+As a result, records relating to monetary policy that are of historical value are transferred to the
+Archive and released. The period currently in scope extends to 1985. So, over the next few years,
+material relating to some of the landmark economic events in the UK’s recent history is due for
+release. For example, records relating to the creation of the UK inflation targeting framework are due
+for release in 2018, and the records relating to the creation of the MPC in1997 are scheduled to be
+released in 2020.
+In practice, the process by which materials produced around the Bank become publically available
+archived records consists of four stages. First, records are marked as such and filed (either literally or
+electronically) by business areas. This is the business of Records Management. Second, these
+records are then retained for specified periods of time for operational reasons, according to the Bank’s
+Records Retention and Disposal Policy. Third, at the end of that retention period, records of potential
+historical value are transferred to the Bank’s Archive for permanent preservation. Finally, the Bank’s
+Archive work through the records that they receive and make public those that they deem to be of
+historical value.
+The Bank, like other public bodies, works under the presumption that all records will eventually be
+opened up, but that some may have to be withheld or redacted if they contain particularly sensitive
+material (for example, relating to personal data, or Bank security). The Bank currently has around
+84,000 records in the Archive, of which 59,000 are open.
+
+54
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Annex 3: further detail on peer review
+Detailed criteria used in Eijffinger-Geraats central bank transparency index
+The Eijffinger-Geraats (2006) central bank transparency index is constructed by asking three
+questions in each of five categories of transparency. The resulting index of central bank transparency
+is the sum of the scores for answers to fifteen questions (min = 0, max = 15); the questions are set
+out below. Figure A2 presents a full breakdown of scores for our sample of ten major central banks,
+based on data from Dincer and Eichengreen (2014). These results are summarised in Section 4.
+
+1. Political transparency
+Political transparency refers to openness about policy objectives. This comprises a formal statement
+of objectives, including an explicit prioritisation in case of multiple goals, a quantification of the primary
+objective(s), and explicit institutional arrangements.
+Questions:
+A. Is there a formal statement of the objective(s) of monetary policy, with an explicit prioritisation in
+case of multiple objectives?
+No formal objective(s) = 0.
+Multiple objectives without prioritisation = ½.
+One primary objective, or multiple objectives with explicit priority = 1.
+B. Is there a quantification of the primary objective(s)?
+No = 0.
+Yes = 1.
+C. Are there explicit contacts or other similar institutional arrangements between the monetary
+authorities and the government?
+No central bank contracts or other institutional arrangements = 0.
+Central bank without explicit instrument independence or contract = ½.
+Central bank with explicit instrument independence or central bank contract although possibly subject
+to an explicit override procedure = 1.
+
+2. Economic transparency
+Economic transparency focuses on the economic information that is used for monetary policy. This
+includes economic data, the model of the economy that the central bank employs to construct
+forecasts or evaluate the impact of its decisions, and the internal forecasts (model-based or
+judgmental) upon which the central bank relies.
+Questions:
+A. Is the basic economic data relevant for the conduct of monetary policy publicly available? (The
+focus is on the following five variables: money supply, inflation, GDP, unemployment rate and capacity
+utilisation).
+Quarterly time series for at most two out of the five variables = 0.
+
+Transparency and the Bank of England’s Monetary Policy Committee 55
+
+Quarterly time series for three or four out of the five variables = ½.
+Quarterly time series for all five variables = 1.
+B. Does the central bank disclose the macroeconomic model(s) it uses for policy analysis?
+No = 0.
+Yes = 1.
+C. Does the central bank regularly publish its own macroeconomic forecasts?
+No numerical central bank forecasts for inflation and output = 0.
+Numerical central bank forecasts for inflation and/or output published at less than quarterly frequency
+= ½.
+Quarterly numerical central bank forecasts for inflation and output for the medium term (one to two
+years ahead), specifying the assumptions about the policy instrument (conditional or unconditional
+forecasts) = 1.
+
+3. Procedural transparency
+Procedural transparency is about the way that monetary policy decisions are taken.
+Questions:
+A. Does the central bank provide an explicit policy rule or strategy that describes its monetary policy
+framework?
+No = 0.
+Yes = 1.
+B. Does the central bank give a comprehensive account of policy deliberations (or explanations in
+case of a single central banker) within a reasonable amount of time?
+No, or only after a substantial lag (more than eight weeks) = 0.
+Yes, comprehensive minutes (although not necessarily verbatim or attributed) or explanations (in case
+of a single central banker), including a discussion of backward and forward-looking arguments = 1.
+C. Does the central bank disclose how each decision on the level of its main operating instrument or
+target was reached?
+No voting records, or only after substantial lag (more than eight weeks) = 0.
+Non-attributed voting records = ½.
+Individual voting records, or decision by single central banker = 1.
+
+4. Policy transparency
+Policy transparency means prompt disclosure of policy decisions, together with an explanation of the
+decision, and an explicit policy inclination or indication of likely future policy actions.
+Questions:
+
+56
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+A. Are decisions about adjustments to the main operating instrument or target announced promptly?
+No, or only after the day of implementation = 0.
+Yes, on the day of implementation = 1.
+B. Does the central bank provide an explanation when it announces policy decisions?
+No = 0.
+Yes, when policy decisions change, or only superficially = ½.
+Yes, always and including forwarding-looking assessments = 1.
+C. Does the central bank disclose an explicit policy inclination after every policy meeting or an explicit
+indication of likely future policy actions (at least quarterly)?
+No = 0.
+Yes = 1.
+
+5. Operational transparency
+Operational transparency concerns the implementation of the central bank’s policy actions. It involves
+a discussion of control errors in achieving operating targets and (unanticipated) macroeconomic
+disturbances that affect the transmission of monetary policy. Furthermore, the evaluation of the
+macroeconomic outcomes of monetary policy in light of its objectives is included here as well.
+Questions:
+A. Does the central bank regularly evaluate to what extent its main policy operating targets (if any)
+have been achieved?
+No, or not very often (at less than annual frequency) = 0.
+Yes, but without providing explanations for significant deviations = ½.
+Yes, accounting for significant deviations from target (if any); or, (nearly) perfect control over main
+operating instrument/target = 1.
+B. Does the central bank regularly provide information on (unanticipated) macroeconomic
+disturbances that affect the policy transmission process?
+No, or not very often = 0.
+Yes, but only through short-term forecasts or analysis of current macroeconomic developments (at
+least quarterly) = ½.
+Yes, including a discussion of past forecast errors (at least annually) = 1.
+C. Does the central bank regularly provide an evaluation of the policy outcome in light of its
+macroeconomic objectives?
+No, or not very often (at less than annual frequency) = 0.
+Yes, but superficially = ½.
+Yes, with an explicit account of the contribution of monetary policy in meeting the objectives = 1.
+
+Transparency and the Bank of England’s Monetary Policy Committee 57
+
+Detailed comparison of peer practices
+Figure A2 shows the full transparency scores along all fifteen criteria for our peer group.
+Figure A2: Detailed comparison of peer practices
+
+Source: Dincer and Eichengreen (2014) and Warsh Review calculations based on data provided by Dincer and Eichengreen.
+
+58
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+References
+Aikman, D, Haldane, A G and Nelson, B D (2014, forthcoming), ‘Curbing the Credit Cycle’ The
+Economic Journal
+Barabas, J (2004), ‘How Deliberation Affects Policy Opinions’ American Political Science Review,
+98(4) pp. 687-701
+Bernanke, B (2004), ‘Fedspeak’ Speech at American Economic Association, California, San Diego
+Blinder, A (2002), ‘Through the Looking Glass: Central Bank Transparency’, CEPS working paper
+no. 86. Princeton University
+Blinder, A (2004), ‘The Quiet Revolution: Central Bank Goes Modern. New Haven’: Yale Press
+Blinder, A, Ehrmann, M, Fratzscher, M, Haan, J D and Jansen D (2008), ‘Central Bank
+Communication and Monetary Policy: A Survey of Theory and Evidence’, National Bureau of
+Economic Research working paper no. 13932
+Blinder, A and Morgan, J (2005), ‘Are Two Heads Better than One?: Monetary Policy by
+Committee’ Journal of Money, Credit and Banking 37(5), pp. 789-811
+Borio, C (2012), ‘The Financial Cycle and Macroeconomics: What Have We Learnt?’, Bank for
+International Settlements working paper no. 395
+Boyle, A (1967), Montagu Norman: A Biography. London: Cassell.
+Carney, M (2014), ‘One Mission. One Bank. Promoting the Good of the People of the United
+Kingdom’ Speech Mais Lecture at Cass Business School, London, City University
+Chappell, H, McGregor, R and Vermilyea, T (2005), Committee Decisions on Monetary Policy:
+Evidence from Historical Records of the Federal Open Market Committee. Cambridge, MA: MIT Press
+Chambers, S (2004), ‘Behind Closed Doors: Publicity, Secrecy, and the Quality of Deliberation’
+The Journal of Political Philosophy 12(4) pp. 389-410
+Dale, S, Orphanides, A and Osterholm, P (2011), ‘Imperfect Central Bank Communication:
+Information Versus Distraction’ International Journal of Central Banking, 25(1) pp 3-39
+Dincer, N and Eichengreen, B (2014), ‘Central Bank Transparency and Independence: Updates
+and New Measures’ International Journal of Central Banking, 38(3), pp. 189-253
+Eijffinger, S and Geraats, P (2006), ‘How transparent are central banks?’, European Journal of
+Political Economy, 22(1), pp. 1-21
+Fishkin, J (1991), Democracy and Deliberation: New Directions for Democratic Reform. New York:
+Yale University Press.
+Garvin, D and Roberto, M (2001), ‘What You Don’t Know About Making Decisions’ Harvard
+Business Review 79(8), pp. 108-116
+
+Transparency and the Bank of England’s Monetary Policy Committee 59
+
+Geraats, P M (2002), ‘Central Bank Transparency’ Economic Journal, 112; F532-F565
+Geraats, P M (2013), ‘Monetary Policy Transparency’ Handbook of Economic and Institutional
+Transparency
+Hansen, S, McMahon, M and Prat, A (2014), ‘Transparency and Deliberation within the FOMC: A
+Computational Linguistics Approach’, Centre for Macroeconomics
+Hambrick, D and Mason, P (1984), ‘Upper Echelons: The Organization as a Reflection of Its Top
+Managers’ The Academy of Management Review, 9(2), pp. 193-206
+Hills, S, Thomas, R and Dimsdale, N (2010), ‘The UK recession in context — what do three
+centuries of data tell us?’, Bank of England Quarterly Bulletin, Vol. 50, No. 4, pages 277–91
+Holmstrom, B (1982), ‘Moral Hazard in Teams’ The Bell Journal of Economics 13(2) pp. 324-340
+Holmstrom, B (1999), ‘Managerial Incentive Problems: A Dynamic Perspective’ Review of
+Economic Studies 66(1) pp. 169-182
+Hood, C (2010), ‘Accountability and Transparency: Siamese Twins, Matching Parts, Awkward
+Couple?’ West European Politics, 33(5), pp. 989-1009
+Janis, I (1972), Victims of Groupthink. New York: Houghton Mifflin
+Janis, I (1982), Groupthink: Psychological Studies of Policy Decisions and Fiascoes. 2nd edn. New
+York: Houghton Mifflin
+Kerr, N L and Tindale, R S (2004), ‘Group Performance and Decision Making’ Annual Review of
+Psychology, 55 pp. 623-655
+King, M (1997), ‘Changes in UK Monetary Policy: Rules and Discretion in Practice’ Journal of
+Monetary Economics 39 pp. 81-97
+Lambert R (2005), ‘Inside the MPC’ Bank of England Quarterly Bulletin, Spring, pp. 56-65
+Lombardelli, C, Proudman, J and Talbot, J (2005), ‘Committees Versus Individuals: An
+Experimental Analysis of Monetary Policy Decision Making’ International Journal of Central Banking,
+1(1) pp. 181-205
+Maier, P (2010), ‘How Central Banks Take Decisions: An Analysis of Monetary Policy Meetings’, in
+P. Siklos, M. Bohl, and M. Wohar (Eds.), Challenges in Central Banking:
+Cambridge University Press, 320‐356.
+McKeown, J and Paterson, L (2014), ‘Enhancing the transparency of the Bank of England’s
+Inflation Report’. Available at: http://www.voxeu.org/article/enhancing-transparency-bank-england-sinflation-report
+Meade, E and Stasavage, D (2008), ‘Publicity of Debate and the Incentive to Dissent: Evidence
+from the US Federal Reserve’ The Economic Journal 118(528) pp. 695-717
+
+60
+
+Transparency and the Bank of England’s Monetary Policy Committee
+
+Mellahi, K and Wilkinson, A (2004), ‘Organizational Failure: A Critique of Recent Research and a
+Proposed Integrative Framework’ International Journal of Management Reviews 5-6(1) pp. 21-41
+Mill, J (1859), On Liberty. 2nd edn. London: Savill and Edwards
+Mishkin, F (2004), ‘Can Central Bank Transparency Go Too Far?’, National Bureau of Economic
+Research working paper no. 10829
+Plenderleith, I (2012), Review of the Bank of England’s Provision of Emergency Liquidity
+Assistance in 2008-09 London: Bank of England
+Prat, A (2005), ‘The Wrong Kind of Transparency’ American Economic Review 95(3) pp. 862-877
+Scharfstein, D S and Stein, J C (1990), ‘Herd Behavior and Investment’ American Economic
+Review 80(3) pp. 465-479
+Schonhardt-Bailey, C (2013), Deliberating American Monetary Policy A Textual Analysis.
+Massachusetts: MIT Press
+Schumpeter, J A (1942), Capitalism, Socialism and Democracy. New York: Harper & Row
+Sibert, A (2006), ‘Central Banking By Committee’ International Finance 9(2) pp. 145‐168
+Stein, J (2014), ‘Challenges for Monetary Policy Communication’ Speech at the Money Marketeers
+of New York University, New York, New York
+Staw, B, Sandelands, L and Dutton, J (1981), ‘Threat Rigidity Effects in Organizational Behavior:
+A Multilevel Analysis’ Administrative Science Quarterly 26(4) pp. 501-524
+Stockton, D (2012), Review of the Monetary Policy Committee’s Forecasting Capability London:
+Bank of England
+Warsh, K (2014), Rethinking Macro: Reassessing Micro-Foundations, Hoover Institute Press
+working paper no. 14103
+Walker, D (2009), Review of Corporate Governance in UK Banks and Other Financial Industry
+Entities: Final Recommendations London: HM Treasury
+Winters, B (2012), Review of the Bank of England’s Framework for Providing Liquidity to the
+Banking System London: Bank of England
+Woodford, M (2005), ‘Central Bank Communication and Policy Effectiveness’, National Bureau of
+Economic Research working paper no. 11898
+
+

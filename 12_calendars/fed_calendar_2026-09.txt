@@ -1,0 +1,38 @@
+SOURCE: https://www.federalreserve.gov/newsevents/2026-september.htm
+ITEM 20: Fed monthly calendar page, September 2026 - coverage checklist
+CAPTURED 2026-09-01. Events after this date are SCHEDULED, not yet occurred.
+
+September 2026
+
+SPEECHES
+  Sep 3   8:30 a.m.  Speech - Governor Christopher J. Waller
+                     "Economic Outlook" - Reuters NEXT Newsmaker Interview (Virtual)
+                     *** IN WINDOW (window ends 4 Sep). Scheduled; had not occurred at capture. ***
+  Sep 1   9:05 a.m.  Speech - Governor Michael S. Barr
+                     "Economic Outlook and Financial Inclusion" - Second Chance Lending Forum,
+                     hosted by Prosperity Now and the Collateral Consequences Resource Center,
+                     Washington D.C.
+
+FOMC MEETINGS
+  Sep 16  2:00 p.m.  FOMC Meeting (two-day, September 15-16)
+  Sep 16  2:30 p.m.  FOMC Press Conference
+
+BEIGE BOOK
+  Sep 2   2:00 p.m.   *** NOT YET RELEASED at capture time (item 14) ***
+
+STATISTICAL RELEASES
+  Sep 24  2:00 p.m.  Senior Credit Officer Opinion Survey on Dealer Financing Terms (SCOOS)
+  Sep 1   4:15 p.m.  G.5 - Foreign Exchange Rates
+  Sep 30             G.20 - Finance Companies (approximate)
+  Sep 11 12:00 p.m.  Z.1 - Financial Accounts of the United States
+  Sep 8   3:00 p.m.  G.19 - Consumer Credit
+  Sep 18  9:15 a.m.  G.17 - Industrial Production and Capacity Utilization
+  Sep 3,10,17,24  4:30 p.m.  H.4.1 - Factors Affecting Reserve Balances
+  Sep 22  1:00 p.m.  H.6 - Money Stock Measures
+  Sep 8,14,21,28  4:15 p.m.  H.10 - Foreign Exchange Rates
+  Sep 4,11,18,25  4:15 p.m.  H.8 - Assets and Liabilities of Commercial Banks in the U.S.
+  Sep (weekdays)  1:00 p.m.  CP - Commercial Paper
+  Sep (weekdays)  4:15 p.m.  H.15 - Selected Interest Rates
+
+OTHER
+  Sep 7  Holiday - Labor Day

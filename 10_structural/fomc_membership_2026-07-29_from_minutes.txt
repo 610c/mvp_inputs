@@ -1,0 +1,49 @@
+FOMC COMPOSITION as of the July 28-29, 2026 meeting
+SOURCE: Attendance section, https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm
+
+VOTING MEMBERS (12):
+  Kevin Warsh, Chairman                     (Board of Governors)
+  John C. Williams, Vice Chair              (FRB New York)
+  Michael S. Barr                           (Board)
+  Michelle W. Bowman                        (Board, Vice Chair for Supervision)
+  Lisa D. Cook                              (Board)
+  Philip N. Jefferson                       (Board, Vice Chair)
+  Jerome H. Powell                          (Board - former Chair, still a governor and voter)
+  Christopher J. Waller                     (Board)
+  Beth M. Hammack                           (FRB Cleveland)   [DISSENTED July]
+  Neel Kashkari                             (FRB Minneapolis) [DISSENTED July]
+  Lorie K. Logan                            (FRB Dallas)      [DISSENTED July]
+  Anna Paulson                              (FRB Philadelphia)
+
+ALTERNATE MEMBERS (5) -- ITEM 24, confirmed verbatim:
+  Thomas I. Barkin      (FRB Richmond)
+  Mary C. Daly          (FRB San Francisco)
+  Austan D. Goolsbee    (FRB Chicago)
+  Sushmita Shukla       (FRB New York, First VP - NY's alternate)
+  Cheryl L. Venable     (FRB Atlanta)
+
+NON-VOTING PRESIDENTS IN ATTENDANCE (3):
+  Susan M. Collins      (FRB Boston)
+  Alberto G. Musalem    (FRB St. Louis)   [publicly said he supported a July hike]
+  Jeffrey R. Schmid     (FRB Kansas City) [dissented Oct + Dec 2025]
+
+ITEM 25 - SUPERSEDED. THE INFERENCE BELOW IS WRONG. See sep_participant_count_RESOLVED.txt.
+  The missing June SEP submitter is CHAIRMAN WARSH, who stated in the June 17 press conference
+  that he did not submit projections or a dot. Atlanta/Venable DOES submit. Text kept below
+  only to show what was reasoned and why it failed.
+
+ITEM 25 - ATLANTA / SEP PARTICIPATION. EVIDENCE, NOT YET CONFIRMED [WRONG]:
+  Cheryl L. Venable is listed as an ALTERNATE MEMBER, not as "President of the Federal
+  Reserve Bank of Atlanta." Collins, Musalem and Schmid are each explicitly titled
+  "President." Atlanta is therefore not represented by a sitting president.
+  Corroborating count: the June 2026 SEP shows 18 participants (2026/2027/longer-run
+  columns). A full complement is 7 governors + 12 presidents = 19. The March 2026 SEP
+  shows 19. Between March and June, Miran left the Board and Warsh joined, leaving the
+  governor count unchanged at 7. The single missing 2026 projection is therefore most
+  consistent with ATLANTA NOT SUBMITTING SEP PROJECTIONS.
+  TO CONFIRM: check the June SEP's own participant footnote, which states how many
+  participants submitted.
+
+NOTE ON THE 2028 COLUMN: the June 2026 SEP shows only 17 entries for 2028 vs 18 elsewhere.
+That is a separate, routine phenomenon - 29 of 52 historical vintages have uneven column
+totals. Do not conflate it with the Atlanta question.

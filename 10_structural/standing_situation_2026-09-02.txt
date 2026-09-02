@@ -1,0 +1,228 @@
+STANDING-SITUATION FILE (ITEM 29)
+Powell DOJ probe · Cook status · vacancies · litigation · leadership transition
+Captured 2026-09-02. Primary sources are Federal Reserve Board press releases
+unless marked otherwise.
+
+================================================================
+1. THE CHAIR TRANSITION — full documented timeline
+================================================================
+2026-03-04  President Trump nominates Kevin Warsh.
+              [other20260522a.htm]
+2026-04-21  Senate Banking Committee nomination hearing, Dirksen 538, 10:00 AM,
+            OPEN SESSION, HYBRID FORMAT.
+              [banking.senate.gov; opening statement captured at
+               ../08_warsh/warsh_20260421_senate_confirmation_opening_statement.txt]
+2026-04-24  (Friday) Justice Department drops its investigation of Chairman
+            Jerome Powell. SEE SECTION 2 — SECONDARY SOURCE.
+2026-05-12  Senate confirms Warsh as a MEMBER of the Board.
+2026-05-13  Senate confirms Warsh as CHAIRMAN of the Board.
+2026-05-14  Stephen I. Miran submits his resignation as a member of the Board,
+            "effective when or shortly before his successor on the Board is
+            sworn in." He had served since September 16, 2025, filling an
+            unexpired term that ended January 31, 2026.
+              [other20260514b.htm]
+2026-05-15  Board names Jerome H. Powell CHAIR PRO TEMPORE, to serve until
+            Warsh is sworn in.
+              [other20260515a.htm]
+2026-05-22  Warsh takes the oath of office as chairman and as a member.
+            The FOMC UNANIMOUSLY selects Warsh as its chairman.
+            Term as chairman ends 2030-05-21.
+            Term as a Board member ends 2040-01-31.
+              [other20260522a.htm]
+
+THREE THINGS A MODEL MUST GET RIGHT HERE:
+
+  (a) WARSH TOOK MIRAN'S SEAT, NOT POWELL'S. Miran resigned; Powell did not.
+      Powell remains a sitting GOVERNOR through the whole corpus window and
+      appears on the current Board roster. The Board speech index for
+      2026-05-31 reads "Governor Jerome H. Powell." Any panel that drops
+      Powell after May 2026 is wrong.
+
+  (b) THE MAY GAP IS REAL AND SHORT. Powell was chair pro tempore from
+      2026-05-15 to 2026-05-22. There was no FOMC meeting in that window
+      (Apr 28-29, then Jun 16-17), so no policy decision was taken under a
+      pro tempore chair.
+
+  (c) MIRAN IS IN THE JANUARY AND APRIL VOTE RECORDS AND NOWHERE AFTER.
+      He dissented at BOTH meetings he voted in — dovish both times
+      (preferred a 25bp cut, Jan and Apr). He then left. A dissent-rate
+      denominator that counts Miran across all of 2026 will compute a
+      100% dissent rate over two meetings and then attribute his absence
+      to conformity. He served on the Board for eight months total.
+      See ../03_minutes/2026/_2026_vote_record_VERBATIM.txt.
+
+================================================================
+2. THE POWELL DOJ INVESTIGATION — STATUS: CLOSED. SOURCE IS SECONDARY.
+================================================================
+FINDING: The Justice Department dropped its investigation of Jerome Powell
+on Friday, 2026-04-24.
+
+SOURCE, and its limits — read this before relying on it:
+This is NOT from a Federal Reserve or DOJ primary source. It comes from the
+Hoover Institution's index of commentary on Warsh, which lists:
+
+  "Kevin Warsh Can Head To The Fed"
+  April 26, 2026 · featuring Kevin Warsh · via Wall Street Journal
+  [Subscription Required]
+  Abstract as published by Hoover, verbatim:
+    "The Justice Department on Friday dropped its investigation of Federal
+     Reserve Chairman Jerome Powell. This clears a path for the Senate to
+     confirm Hoover Institution fellow Kevin Warsh to replace Mr. Powell."
+  https://www.hoover.org/profiles/kevin-warsh
+
+The WSJ article itself is paywalled. "Friday" relative to an April 26
+(Sunday) publication date gives 2026-04-24. I have NOT independently
+confirmed this against a DOJ release, and I did not find any Federal
+Reserve press release addressing it — the Board's 2026 press-release index
+contains nothing on the investigation, its opening, or its closing.
+
+WHY IT MATTERS ANYWAY: the timeline is tight and consistent. The probe is
+dropped 24 April, three days after Warsh's 21 April hearing; the Senate
+confirms Warsh 12–13 May. Whatever the probe was, its resolution and the
+confirmation are adjacent events. TREAT AS WELL-SOURCED BUT SECONDARY.
+If this fact load-bears in the model, confirm it against DOJ or a
+non-paywalled report.
+
+================================================================
+3. LISA COOK — STATUS: IN OFFICE. LITIGATION ACTIVE.
+================================================================
+Cook is a sitting governor as of 2026-09-02. She appears on the current
+Board roster, chairs the Committee on Financial Stability, sits on three
+other Board committees, and gave three speeches inside the corpus window
+(2026-06-24, 2026-07-15, 2026-08-05).
+
+THE FACTS, from CRS R48233 (see CRS_R48233_board_membership.txt):
+  Appointed by President Biden to the unexpired term previously held by
+  Janet Yellen; reappointed to a full term, Senate confirmed 2025-09-06.
+  2025-08-25  President Trump sent Cook a letter stating she was removed
+              from office "effective immediately."
+  2025-08-28  Cook filed suit challenging the purported removal.
+  2025-09-15  An appeals court rejected the request to remove her
+              immediately (WSJ, per CRS footnote 10).
+              The Federal Reserve stated it would abide by the court ruling.
+  CRS, verbatim: "Cook remains in office for the time being as legal
+  proceedings in the [case continue]."
+
+THE STATUTE AT ISSUE, verbatim from CRS:
+  Fed governors are appointed "for a term of fourteen years from the
+  expiration of the term of his predecessor, unless sooner REMOVED FOR
+  CAUSE BY THE PRESIDENT." (12 U.S.C. 242)
+
+STATUS OF THE LITIGATION AS OF CAPTURE: unresolved. CRS R48233 reports the
+case as still proceeding as of the report's publication. I found no more
+recent primary-source update — the Board's 2026 press-release index says
+nothing about it, and the Board does not comment on the matter publicly.
+
+WHY THIS IS A LIVE RISK TO THE MODEL, not just background:
+Cook is one of seven governors and a full FOMC voter at every 2026 meeting.
+She voted WITH the majority at every meeting in the record. If the
+litigation resolves against her mid-sample, the Committee loses a voter and
+the vote arithmetic changes. More subtly: a governor under active threat of
+removal has an unusual incentive structure around dissenting, in either
+direction, and a dissent-propensity model that treats all seven governors
+as facing identical costs is mis-specified for Cook specifically.
+
+================================================================
+4. VACANCIES — THERE ARE NONE
+================================================================
+Current Board (federalreserve.gov/aboutthefed/bios/board, last update
+2026-05-28), all seven seats filled:
+  Kevin Warsh          Chairman
+  Philip N. Jefferson  Vice Chair
+  Michelle W. Bowman   Vice Chair for Supervision
+  Michael S. Barr      Governor
+  Lisa D. Cook         Governor
+  Jerome H. Powell     Governor
+  Christopher J. Waller Governor
+
+CRS R48233 finding, already recorded: the Board has been at full strength
+with no vacancies since 2025-09-16 and remains so. Note that 2025-09-16 is
+the day Miran took office — and Warsh's 2026-05-22 swearing-in was timed to
+Miran's resignation taking effect "when or shortly before his successor is
+sworn in," which is how the no-vacancy streak survived the transition.
+
+The one 2026 vacancy CRS records is a CHAIR vacancy, not a seat vacancy —
+covered by Powell as chair pro tempore, 15–22 May. CRS Table: "Chair
+vacancies occurred in 1948, 1951, 1978, 1996, 2014, 2018, 2022, and 2026."
+
+RESERVE BANK VACANCY — the one that is open:
+Atlanta has no permanent president. Raphael Bostic retired in late February
+2026; Cheryl Venable, First Vice President and COO, is interim president and
+the district's FOMC participant. A presidential search is underway (public
+forum 2026-03-11). She took the Atlanta ALTERNATE seat on the Committee
+between the January and April 2026 meetings — visible in the attendance
+lists. See ../05_speeches/districts/atlanta/_atlanta_2026_index.txt.
+
+================================================================
+5. THE CHAIRMAN'S TASK FORCES — 2026-07-09
+   *** THE BIGGEST STANDING RISK TO THIS ENTIRE PROJECT ***
+================================================================
+Six weeks into his chairmanship Warsh announced five task forces, co-led by
+external advisers, "with a mandate to follow the evidence, provide candid
+feedback, and produce rigorous findings for the Federal Open Market
+Committee."  [monetary20260709a.htm]
+
+  COMMUNICATIONS — "Review how the Federal Reserve conveys policy
+  DELIBERATIONS AND DECISIONS amid uncertainty."
+      Peter R. Fisher, professor of practice, Foster School of Business,
+        University of Washington
+      Arminio Fraga, founder and chairman, Gávea Investimentos;
+        former president, Central Bank of Brazil
+      MERVYN KING, former governor, BANK OF ENGLAND
+
+  BALANCE SHEET POLICY — Karen Dynan; Raghuram Rajan; Jeremy Stein
+  DATA — Raj Chetty; Doug McMillon; Kevin Murphy
+  PRODUCTIVITY AND JOBS — Marc Andreessen; Charles I. Jones; Asha Sharma
+  INFLATION FRAMEWORKS — Greg Mankiw; Thomas Sargent; William White
+
+Warsh, verbatim: "Each task force will carefully consider whether
+policymakers' means and methods, analytical tools and policy approaches can
+be improved upon."
+
+WHY THIS IS THE HEADLINE RISK:
+Your dependent variable is built from how the Fed publishes disagreement —
+the "Voting against this action" line in the statement, the participant
+counts in the minutes, the dots in the SEP. A task force has now been
+chartered, by name, to review exactly that, and it is co-led by a former
+Bank of England governor. The Chairman who commissioned it is the same
+person who wrote the 2014 review that changed the Bank of England's
+disclosure of MPC deliberations, and who has said publicly that the Fed
+should "talk a lot less."
+  See ../08_warsh/warsh_2014_boe_mpc_transparency_review.txt
+
+CONCRETE FAILURE MODE: if the statement stops carrying a policy-bias
+sentence, the entire April-2026 dissent type disappears — Hammack,
+Kashkari and Logan dissented on the BIAS LANGUAGE, not the rate. Three of
+the four dissents in the largest dissent event of 2026 exist only because
+of a sentence a communications review could delete. That would read in the
+data as three participants becoming compliant. It would not be that.
+
+RECOMMENDATION: treat any change in FOMC communication practice as a
+STRUCTURAL BREAK to be dated and controlled for, not as behaviour. Watch
+"More information on the task forces and topics will be posted periodically
+on the Federal Reserve's website" and the Related Content link
+"Chairman's Task Forces for Advancing Monetary Policy."
+
+================================================================
+6. OTHER DATED CONTEXT IN THE WINDOW
+================================================================
+2026-06-22  "Federal Reserve notes with deep sadness the passing of
+             Alan Greenspan."  [Board press release]
+2026-06-24  Annual bank stress test results released.
+2026-05-14  Board releases results from two surveys of senior financial
+             officers on discount window operating days and reserve-balance
+             management strategies.
+2026-07-01  Initial findings from the 2025 triennial payments study.
+2026-03-19  Agencies request comment on proposals to modernize the
+             regulatory capital framework (the 2026 Basel III proposal
+             Bowman describes in her 2026-07-13 London speech).
+
+================================================================
+7. WHAT REMAINS UNRESOLVED IN THIS FILE
+================================================================
+  - Powell DOJ probe: secondary source only (paywalled WSJ, via Hoover).
+    No DOJ or Fed primary document located.
+  - Cook litigation: no primary-source update later than CRS R48233.
+    Current docket status unknown.
+  - Task force outputs: none published as of capture.
+  - Atlanta presidential search: no announcement as of capture.

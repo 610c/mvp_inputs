@@ -1,0 +1,46 @@
+PHILADELPHIA FED (Third District) — Anna Paulson — 2026 appearance index
+Window: 18 Jun 2026 – 4 Sep 2026
+Captured: 2026-09-02
+Source: https://www.philadelphiafed.org/the-economy/speeches-anna-paulson
+
+PRESIDENT: Anna Paulson, took office 1 July 2025 as the 12th president and CEO.
+Previously EVP and director of research at the Chicago Fed.
+
+ALL 2026 ITEMS ON THE SPEECHES & ESSAYS PAGE (8):
+  2026-08-04  Monetary Policy Perspective: Keeping an Open Mind          IN WINDOW
+              (essay)
+  2026-05-19  Navigating Uncertainty: Inflation, Labor Markets, and the  out of window
+              Stance of Monetary Policy — keynote, Atlanta Fed 2026
+              Financial Markets Conference, Amelia Island, FL
+  2026-04-14  Strengthening America's Economy Through Rural Investment   out of window
+              Fireside Chat
+  2026-03-27  Monetary Policy and Productivity — keynote, SF Fed         out of window
+              Macroeconomics and Monetary Policy Conference
+  2026-03-06  Discussion Points on "Private Canaries: The Value of       out of window
+              Private-Sector Data for U.S. Monetary Policy Making"
+              — 2026 U.S. Monetary Policy Forum
+  2026-01-14  Economic Trends and Opportunities for Philadelphia         out of window
+              — Chamber of Commerce for Greater Philadelphia
+  2026-01-03  Thoughts on the U.S. Economy and the Year Ahead — ASSA     out of window
+  2026-01-03  Does Experiencing High Inflation Change Economic           out of window
+              Behavior? — ASSA
+
+IN-WINDOW CAPTURE (1 of 1)
+  paulson_20260804_monetary_policy_perspective_keeping_an_open_mind.txt
+
+DENOMINATOR FOR SALIENCE SCORING
+  In-window appearances ......... 1
+  With published text ........... 1
+  Note the pattern across 2026: Paulson front-loads her public schedule
+  (5 of 8 items before end-March) and goes quiet mid-year. A single
+  in-window item is a LOW salience count but not evidence of disengagement.
+
+POLICY SIGNAL (for dissent-propensity scoring)
+  Paulson explicitly supported the July hold: "It is within this context
+  that I supported last week's FOMC decision to maintain the target range."
+  Her framing is a two-scenario setup identical in structure to Daly's
+  (SF) but with a HAWKISH second branch: policy "not restrictive enough,"
+  in which case "more restrictive policy may be needed." She estimates
+  underlying inflation at 2.4–2.8 percent.
+  Title itself — "Keeping an Open Mind" — is a deliberate refusal to
+  pre-commit, which is weak evidence AGAINST near-term dissent.

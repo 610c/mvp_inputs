@@ -1,0 +1,62 @@
+ATLANTA FED (Sixth District) — 2026 appearance index
+Window: 18 Jun 2026 – 4 Sep 2026
+Captured: 2026-09-02
+
+LEADERSHIP SITUATION — this district is a special case
+  Raphael Bostic, president & CEO, RETIRED in late February 2026.
+  Cheryl Venable, First Vice President & COO, is serving as INTERIM
+  PRESIDENT AND CEO and is the district's FOMC participant.
+  A presidential search is underway (public forum held 2026-03-11,
+  https://www.atlantafed.org/news-and-events/events/2026/03/11/atlanta-fed-presidential-search-public-forum).
+
+THE SPEECHES INDEX IS EMPTY FOR THIS WINDOW — AND THAT IS REAL
+  https://www.atlantafed.org/news-and-events/speeches
+  Most recent entry: 2026-02-24 (Bostic with Marketplace's Kai Ryssdal).
+  Every 2026 entry on that index is a Bostic farewell-tour item from
+  January–February. Nothing has been added since Bostic left.
+  https://www.atlantafed.org/news-and-events/media-interviews
+  returns "No results were found" — the interim president gives no
+  media interviews.
+
+BUT THE DENOMINATOR IS NOT ZERO
+  The news feed carries one in-window item by the interim president that
+  the speeches index does not list:
+
+  2026-08-11  "Chocolate Factories, Small Towns, and Monetary Policy:
+               Blending Data with the Grassroots"
+               Quarterly "Messages from the President" essay
+               -> venable_20260811_chocolate_factories_small_towns_and_monetary_policy.txt
+
+  This is the FOURTH independent confirmation of the
+  index-undercounts-appearances pattern (cf. ../sanfrancisco/,
+  ../chicago/, ../../board/_DENOMINATOR_CORRECTION.txt).
+  Here the failure mode is different: the item is not a speech at all,
+  it is a written essay in a separate quarterly series
+  (/news-and-events/messages-from-president). Any scraper that only
+  reads /speeches pages scores Atlanta at zero for the window.
+
+DENOMINATOR FOR SALIENCE SCORING
+  Speeches-index count for window ........ 0   <- do not use
+  Actual in-window public communications . 1
+  With published text .................... 1
+  Spoken appearances ..................... 0
+
+  INTERPRETATION CAUTION: Venable's salience score should NOT be compared
+  on the same scale as sitting presidents. An interim president who is a
+  career operations executive (FVP/COO) rather than an economist has a
+  structurally different public profile: one written essay per quarter,
+  no speaking circuit, no media. Low salience here reflects the ROLE,
+  not the person's willingness to differ.
+
+POLICY SIGNAL (for dissent-propensity scoring)
+  Venable states her own FOMC standing plainly:
+    "While the Atlanta Reserve Bank president is not a voting member this
+     year, I am a full participant around the meeting table in Washington,
+     DC."
+  -> NOT a 2026 voter. Any disagreement appears in minutes, not in a vote.
+  -> "Full participant" is the SEP-relevant term of art; see
+     ../../../10_structural/sep_participant_count_RESOLVED.txt.
+  Her substantive view is deliberately non-committal: inflation "too high"
+  and above target "for more than five years," but the forward questions
+  are posed as open questions rather than answered. No directional lean
+  stated. Low dissent-propensity signal.

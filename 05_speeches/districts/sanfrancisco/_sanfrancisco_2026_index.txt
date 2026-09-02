@@ -1,0 +1,41 @@
+SAN FRANCISCO FED — Mary C. Daly — in-window appearance index
+Window: 18 Jun 2026 – 4 Sep 2026
+Captured: 2026-09-02
+
+WHY THIS FILE EXISTS (denominator warning)
+Daly's official "Speeches" page (frbsf.org/news-and-media/speeches/mary-c-daly/)
+lists only TWO 2026 items, BOTH OUT OF WINDOW:
+  - 2026-04-08
+  - 2026-02-17
+Taken at face value the SF Fed denominator for this window would be ZERO.
+That is wrong. The news/events section of frbsf.org carries in-window
+appearances that the speeches index does not list.
+
+This is the THIRD independent confirmation of the index-undercounts-appearances
+pattern (see also 05_speeches/board/_DENOMINATOR_CORRECTION.txt and
+districts/chicago/_chicago_2026_engagements_index.txt).
+
+ACTUAL IN-WINDOW APPEARANCES (2)
+1. 2026-08-05 — Keynote, ESRI International Conference, Tokyo
+   Host: Cabinet Office of the Government of Japan
+   FULL TRANSCRIPT CAPTURED -> daly_20260805_esri_tokyo_keynote.txt (27,875 chars)
+   Filed on frbsf.org under EVENTS, not under SPEECHES.
+   Policy content: bimodal-risk framing (scenario 1 conventional shock
+   dynamics vs scenario 2 self-sustaining inflation drift); states
+   "I was completely supportive of the decision to hold rates in July";
+   "I think scenario 1 is still my modal. But ... they're much closer
+   together than they used to be"; "be very prepared to take the action
+   if the second scenario, in particular, emerges."
+
+2. 2026-08-20 — Bloomberg Surveillance interview
+   VIDEO ONLY, no transcript published -> daly_20260820_bloomberg_surveillance_NO_TRANSCRIPT.txt
+
+OUT OF WINDOW, noted for completeness
+   2026-06-04 — Bloomberg TV appearance (before 18 Jun)
+   2026-04-08 — speech (speeches index)
+   2026-02-17 — speech (speeches index)
+
+DENOMINATOR FOR SALIENCE SCORING
+  Speeches-index count for window ...... 0   <- do not use
+  Actual public appearances in window .. 2
+  With published text .................. 1

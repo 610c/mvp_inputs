@@ -1,0 +1,30 @@
+MONETARY POLICY REPORT, JULY 2026 (item 10) - CAPTURE STATUS
+
+CAPTURED:
+  mpr_202607_summary.txt              Summary section, complete (11,180 chars source)
+  mpr_202607_part2_monetary_policy.txt  Part 2 "Monetary Policy", complete, incl. Box 3
+                                      (balance sheet / money markets, with full Table A of
+                                      balance-sheet line items) and Box 4 (monetary policy
+                                      rules, with all four rule specifications)
+  warsh_20260714_semiannual_mpr_testimony.txt   the accompanying testimony
+
+NOT YET CAPTURED:
+  Part 1 "Recent Economic and Financial Developments"  - 83,498 chars of narrative
+    https://www.federalreserve.gov/monetarypolicy/2026-07-mpr-part1.htm
+    Contains: Domestic Developments (inflation, labor market, economic activity, financial
+    conditions), International Developments, and the boxes "Employment and Earnings across
+    Demographic Groups" and "Developments Related to Financial Stability".
+    Deprioritised because its economic-conditions content substantially overlaps the July
+    minutes, the Beige Book and the Summary section already captured here.
+  Full report PDF: /monetarypolicy/files/20260710_mprfullreport.pdf  (extracts to ~167k chars)
+  Accessible-version figure data: /monetarypolicy/2026-07-mpr-part1-accessible.htm (354k chars,
+    almost entirely figure data tables)
+
+KEY POLICY FINDING IN BOX 4, verbatim:
+  "The simple policy rules covered here called for levels of the policy rate in the first
+   quarter of this year that were a little above the current target range for the federal funds
+   rate of 3-1/2 to 3-3/4 percent, reflecting the fact that the measure of inflation used to
+   calculate the prescriptions of these rules has moved up."
+  The Fed's own rule prescriptions sit ABOVE the actual policy rate. This is the official
+  corroboration of Neil Irwin's question at the 29 July press conference ("about 100 basis
+  points below most Taylor rule estimates"), which Warsh did not dispute.

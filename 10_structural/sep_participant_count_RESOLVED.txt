@@ -1,0 +1,64 @@
+ITEM 25 - RESOLVED, AND IT IS NOT WHAT I FIRST INFERRED.
+
+THE ANSWER: Chairman Warsh does not submit SEP projections. Atlanta's Cheryl Venable does.
+
+DIRECT EVIDENCE, verbatim from the June 17, 2026 press conference transcript:
+  "It's been the practice of this Committee for participants to submit these projections, and
+   I have encouraged my colleagues to continue to do so. I, however, have refrained from
+   offering any projections of my own, consistent with my long-held views on the SEP, at
+   least as currently structured."
+  and, answering Michael McKee on the dot plot:
+  "I did not submit a, a dot. For me, it's not helpful in the conduct of policy."
+
+THE ARITHMETIC NOW CLOSES EXACTLY:
+  March 2026 SEP = 19 participants
+    7 governors (Powell, Barr, Bowman, Cook, Jefferson, Waller, Miran) + 12 districts = 19  OK
+  June 2026 SEP = 18 participants
+    7 governors (Warsh, Barr, Bowman, Cook, Jefferson, Powell, Waller) MINUS Warsh = 6
+    + 12 districts (incl. Atlanta/Venable) = 18  OK
+
+  If Atlanta were NOT submitting, June would be 17, not 18. It is 18. Therefore Atlanta
+  submits and Warsh does not.
+
+CORRECTION: an earlier note in this folder (fomc_membership_2026-07-29_from_minutes.txt)
+inferred the opposite - that Atlanta was the missing submitter - from the minutes attendance
+list alone. That inference was WRONG. Venable being titled "Alternate Member" rather than
+"President" reflects her interim status on the Committee roster, not absence from the SEP.
+
+WHY THIS MATTERS FOR SCORING:
+  1. The June 2026 median dot EXCLUDES THE CHAIR. Any model that treats the SEP median as
+     containing the Chair's view is misreading the most important participant out of it.
+     Warsh's stance must be sourced from his statements, testimony and pressers instead.
+  2. This is a break in the SEP series at June 2026. Vintages through March 2026 include the
+     Chair; June 2026 onward do not. Do not compare medians across that boundary naively.
+  3. Warsh has also signalled the SEP itself may change: the communications task force will
+     "propose some well-considered changes, including to the SEP."
+
+
+================================================================
+ADDENDUM 2026-09-02 — Venable's own words on her FOMC standing
+================================================================
+From her 2026-08-11 quarterly essay (Atlanta Fed, "Messages from the
+President"), verbatim:
+
+  "While the Atlanta Reserve Bank president is not a voting member this
+   year, I am a full participant around the meeting table in Washington,
+   DC. It has been fascinating to be a part of the discussions and
+   contribute my thoughts as the FOMC representative for the people of
+   our six-state district."
+
+Why this matters for item 25 ("Atlanta interim president — confirm
+whether she submits SEP projections"):
+
+"Participant" is the FOMC's own term of art. The SEP is compiled from
+the projections of PARTICIPANTS — all governors plus all twelve Reserve
+Bank presidents — not from VOTERS. Venable identifies herself as a full
+participant and as "the FOMC representative" for the Sixth District.
+That is the category that submits SEP projections.
+
+This is consistent with, and independent of, the arithmetic already
+recorded above (which resolved the missing June-2026 submitter as
+WARSH, not Atlanta). Two independent lines of evidence now agree:
+Venable submits.
+
+Source: 05_speeches/districts/atlanta/venable_20260811_chocolate_factories_small_towns_and_monetary_policy.txt

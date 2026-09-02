@@ -1,0 +1,16 @@
+STUB — NO TRANSCRIPT AVAILABLE
+
+Speaker:  Mary C. Daly, President & CEO, Federal Reserve Bank of San Francisco
+Date:     2026-08-20
+Venue:    Bloomberg Surveillance (television interview)
+Source:   frbsf.org news/media listing
+
+STATUS: Video segment only. The San Francisco Fed does not publish a
+transcript for this appearance, and Bloomberg's own transcript is not
+publicly accessible. No text could be captured.
+
+This item is recorded so that the SALIENCE DENOMINATOR is correct:
+it is a real in-window public appearance by a voting FOMC participant
+even though it contributes no text to the corpus.
+
+Counts toward: appearance count = 1, text-bearing appearance count = 0.

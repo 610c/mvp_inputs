@@ -1,0 +1,254 @@
+SOURCE: https://crsreports.congress.gov/product/details?prodcode=R48233
+TITLE: Federal Reserve Board: Current and Historical Membership
+PUBLISHER: Congressional Research Service (Library of Congress)
+CRS PRODUCT NUMBER: R48233   |   REPORT TYPE: Reports
+PUBLICATION DATE: 2026-05-27
+AUTHOR: Leubsdorf, Ben
+PDF: 772KB, available via the product page ("Download PDF")
+CAPTURED: 2026-09-01, verbatim page text via browser
+ITEM 22: governor appointment dates, terms, tenure
+
+SUMMARY (verbatim)
+The Federal Reserve (Fed), the U.S. central bank, is led by a seven-member Board of Governors
+based in Washington, DC.
+The President appoints governors for 14-year terms with the advice and consent of the Senate.
+Each governor can be appointed to one full term. They often fill the remaining years of
+unexpired terms and may then be reappointed to full terms.
+The board is led by a chair, who serves a four-year term separate from and concurrent with
+their term as a governor. The vice chair and vice chair for supervision also serve four-year
+terms. These appointments are subject to Senate approval.
+The Board of Governors of the Federal Reserve System in its current form began operating in
+1936. Its predecessor, a Federal Reserve Board, which was led by a governor (rather than a
+chair), began operating in 1914. That earlier iteration included the Secretary of the Treasury
+and Comptroller of the Currency as ex officio members in addition to members appointed by the
+President and confirmed by the Senate.
+
+CURRENT MEMBERSHIP (verbatim)
+
+KEVIN WARSH
+  Governor since May 22, 2026. Term ends January 31, 2040.
+  President Donald Trump appointed Warsh to full term as governor to succeed Stephen Miran
+  (2025-2026). Senate confirmed May 12, 2026 (51-45).
+  Warsh previously served as governor from February 24, 2006, to April 2, 2011.
+  Chair since May 22, 2026. Term ends May 21, 2030.
+  President Trump appointed Warsh as chair to succeed Jerome Powell (2018-2026). Senate
+  confirmed May 13, 2026 (54-45).
+
+PHILIP JEFFERSON
+  Governor since May 23, 2022. Term ends January 31, 2036.
+  President Joe Biden appointed Jefferson to full term as governor to succeed Richard Clarida
+  (2018-2022). Senate confirmed May 11, 2022 (91-7).
+  Vice chair since September 13, 2023. Term ends September 7, 2027.
+  President Biden appointed Jefferson as vice chair to succeed Lael Brainard (2022-2023).
+  Senate confirmed September 6, 2023 (88-10).
+
+MICHELLE BOWMAN
+  Governor since November 26, 2018. Term ends January 31, 2034.
+  President Trump appointed Bowman as governor to unexpired term previously held by Stanley
+  Fischer (2014-2017). Senate confirmed November 15, 2018 (64-34).
+  President Trump reappointed Bowman to full term as governor. Senate confirmed September 12,
+  2019 (60-31).
+  Vice chair for supervision since June 9, 2025. Term ends June 9, 2029.
+  President Trump appointed Bowman as vice chair for supervision to succeed Michael Barr
+  (2022-2025). Senate confirmed June 4, 2025 (48-46).
+
+MICHAEL BARR
+  Governor since July 19, 2022. Term ends January 31, 2032.
+  President Biden appointed Barr as governor to unexpired term previously held by Randal
+  Quarles (2017-2021). Senate confirmed July 13, 2022 (66-28).
+  Vice chair for supervision from July 19, 2022, to February 28, 2025. Resigned; term was set
+  to end on July 13, 2026.
+  President Biden appointed Barr as vice chair for supervision to succeed Quarles. Senate
+  confirmed July 13, 2022 (66-28).
+
+LISA COOK
+  Governor since May 23, 2022. Term ends January 31, 2038.
+  President Biden appointed Cook as governor to unexpired term previously held by Janet Yellen
+  (2010-2018). Senate confirmed May 10, 2022 (51-50).
+  President Biden reappointed Cook to full term as governor. Senate confirmed September 6,
+  2023 (51-47).
+  *** President Trump sent a letter to Cook on August 25, 2025, stating that she was removed
+  from office "effective immediately." Cook filed a lawsuit on August 28, 2025, that challenged
+  her purported removal. Cook remains in office for the time being as legal proceedings in the
+  case continue. The Fed has said it "will abide by any court decision." ***
+  [Footnotes 8-11 in the source cite the underlying documents.]
+
+JEROME POWELL
+  Governor since May 25, 2012. Term ends January 31, 2028.
+  President Barack Obama appointed Powell as governor to unexpired term previously held by
+  Frederic Mishkin (2006-2008). Senate confirmed May 17, 2012 (74-21).
+  President Obama reappointed Powell to full term as governor. Senate confirmed June 12, 2014
+  (67-24).
+  Chair from February 5, 2018, to May 15, 2026.
+  President Trump appointed Powell as chair to succeed Janet Yellen (2014-2018). Senate
+  confirmed January 23, 2018 (84-13).
+  President Biden reappointed Powell as chair. Senate confirmed May 12, 2022 (80-19).
+
+CHRISTOPHER WALLER
+  Governor since December 18, 2020. Term ends January 31, 2030.
+  President Trump appointed Waller as governor to unexpired term, succeeding Sarah Bloom Raskin
+  (2010-2014). Senate confirmed December 3, 2020 (48-47).
+
+REPORT CONTENTS (further sections in the source, not all captured here)
+  Introduction; Structure and History; Current Membership; Historical Membership;
+  Appointments by President; Demographic Breakdown; Length of Service; Vacancies
+  Figure 1. Federal Reserve Board Members, 1913-2026
+  Figure 2. Timeline of Fed Board Vacancies, 1980-2026
+  Table 1. Fed Appointments, by President, 1936-2026
+  Table 2. Chairs of the Fed Board of Governors, 1936-2026
+  Table 3. Periods with No Fed Board Vacancies, 1980-2026
+
+DERIVED FACTS FOR SCORING
+  Warsh confirmation votes: 51-45 (governor, 12 May 2026), 54-45 (chair, 13 May 2026).
+    These are the narrowest Fed chair confirmation margins in the modern record shown here -
+    compare Powell 84-13 (2018) and 80-19 (2022), Bowman as VCS 48-46, Waller 48-47.
+  Warsh is a RETURNING governor: he served 24 Feb 2006 - 2 Apr 2011 under Bernanke. His
+    Jackson Hole reference to "my first tour of duty at the Fed" refers to that period.
+  Powell's governor term runs to 31 Jan 2028 - he can remain an FOMC voter for ~17 more months
+    after ceasing to be chair on 15 May 2026.
+  Barr resigned the VCS role on 28 Feb 2025 but remains a governor to 31 Jan 2032.
+  Miran held the seat Warsh now occupies (2025-2026) - consistent with Miran's disappearance
+    from the FOMC roster between the April and June 2026 meetings.
+  COOK IS UNDER ACTIVE LITIGATION over a purported removal (see item 29).
+
+--- STRUCTURE AND HISTORY (verbatim) ---
+
+The Fed's board is formally called the Board of Governors of the Federal Reserve System.
+
+The President appoints governors for 14-year terms with the advice and consent of the Senate.
+Most officials in advice and consent positions may be dismissed by the President at will, but
+some statutes provide that the President may remove an incumbent only for cause. THE FED'S
+ORGANIC ACT PROVIDES THAT EACH GOVERNOR "SHALL HOLD OFFICE FOR A TERM OF FOURTEEN YEARS FROM
+THE EXPIRATION OF THE TERM OF HIS PREDECESSOR, UNLESS SOONER REMOVED FOR CAUSE BY THE
+PRESIDENT."
+
+Each governor can be appointed to one full term. They often fill the remaining years of
+unexpired terms and may then be reappointed to full terms. When a position has a fixed term of
+office, sometimes a position-specific provision allows an incumbent to "hold over" past the end
+of an expired term until a new appointee takes office. In the case of the Fed, the President
+may not appoint governors on an acting basis, but a governor may continue to serve after his or
+her term expires until a new governor has been appointed to that position.
+
+There are some statutory qualifications for the position. Under Title 12, Section 241, of the
+U.S. Code, no more than one governor "shall be selected from any one Federal Reserve district,"
+and at least one governor must have "demonstrated primary experience working in or supervising
+community banks having less than $10,000,000,000 in total assets." Governors should also
+represent the "financial, agricultural, industrial, and commercial interests, and geographic
+divisions of the country." There are no statutory requirements surrounding the political
+affiliation of governors.
+
+The board is led by a chair, who serves a four-year term separate from and concurrent with
+their term as a governor. The two vice chairs also serve four-year terms. These appointments
+are subject to Senate approval.
+
+The Board of Governors in its current form began operating in February 1936. Previously, the
+leader of the Federal Reserve Board was called governor rather than chair, and the board
+consisted of five presidentially appointed members (six starting in 1922) plus two ex officio
+members: the Secretary of the Treasury and Comptroller of the Currency.
+
+--- CURRENT LEADERSHIP, per the report's summary (verbatim) ---
+The current chair is Kevin Warsh, whose term as chair ends in 2030. The current vice chair is
+Philip Jefferson, whose term as vice chair ends in 2027. The current vice chair for supervision
+is Michelle Bowman, whose term as vice chair for supervision ends in 2029. The other incumbent
+governors are Michael Barr, Lisa Cook, Jerome Powell, and Christopher Waller.
+
+NOTE: The "for cause" removal standard quoted above is the statutory provision at issue in the
+Cook litigation (item 29). The report states the case was still proceeding as of its
+publication date, 27 May 2026.
+
+CROSS-REFERENCE: For a broader overview of the Fed and its role, the report points to
+CRS In Focus IF10054, "Introduction to Financial Services: The Federal Reserve," by Marc Labonte.
+
+--- TABLE 1. FED APPOINTMENTS, BY PRESIDENT, 1936-2026 (Senate-confirmed nominations) ---
+President            Appointments                                          Reappointments
+Donald Trump         5: Bowman, Clarida, Miran, Quarles, Waller            2: Bowman, WARSH
+Joe Biden            4: Barr, Cook, Jefferson, Kugler                      1: Cook
+Barack Obama         6: Brainard, Fischer, Powell, Raskin, Stein, Tarullo  2: Powell, Yellen
+George W. Bush       8: Bernanke, Bies, Duke, Kohn, Kroszner, Mishkin,
+                        Olson, WARSH                                       2: Bernanke, Ferguson
+Bill Clinton         6: Blinder, Ferguson, Gramlich, Meyer, Rivlin, Yellen 0
+George H. W. Bush    3: Lindsey, Mullins, Phillips                         2: Greenspan, Kelley
+Ronald Reagan        8: Angell, Greenspan, Heller, Johnson, Kelley,
+                        LaWare, Martin, Seger                              0
+Jimmy Carter         6: Gramley, Miller, Rice, Schultz, Teeters, Volcker   0
+Gerald Ford          5: Coldwell, Gardner, Jackson, Lilly, Partee          0
+Richard Nixon        5: Bucher, Burns, Holland, Sheehan, Wallich           0
+Lyndon Johnson       3: Brimmer, Maisel, Sherrill                          2: Robertson, Sherrill
+John F. Kennedy      2: Daane, Mitchell                                    1: Mitchell
+Dwight Eisenhower    4: Balderston, King, Miller, Shepardson               3: King, Martin, Mills
+Harry Truman         8: Clayton, Martin, McCabe, Mills, Norton, Powell,
+                        Robertson, Vardaman                                1: Szymczak
+Franklin D. Roosevelt 9: Broderick, Davis, Draper, Eccles, Evans, McKee,
+                        Morrison, Ransom, Szymczak                         4: Davis, Eccles(x2), Ransom
+
+--- TABLE 2. CHAIRS OF THE FED BOARD OF GOVERNORS, 1936-2026 ---
+Chair                     Start        End          Length as Chair   Appointing President(s)
+Marriner Eccles           11/15/1934   01/31/1948   4,826 days [a]    F.D. Roosevelt
+Thomas McCabe             04/15/1948   03/31/1951   1,081 days        Truman
+William McChesney Martin  04/02/1951   01/31/1970   6,880 days        Truman, Eisenhower, Kennedy, Johnson
+Arthur Burns              02/01/1970   01/31/1978   2,922 days [b]    Nixon
+G. William Miller         03/08/1978   08/06/1979     517 days        Carter
+Paul Volcker              08/06/1979   08/11/1987   2,928 days        Carter, Reagan
+Alan Greenspan            08/11/1987   01/31/2006   6,749 days [c]    Reagan, GHW Bush, Clinton, GW Bush
+Ben Bernanke              02/01/2006   01/31/2014   2,922 days        GW Bush, Obama
+Janet Yellen              02/03/2014   02/03/2018   1,462 days        Obama
+Jerome Powell             02/05/2018   05/15/2026   3,022 days [d]    Trump, Biden
+KEVIN WARSH               05/22/2026   (ongoing)                      Trump
+[a] Includes 443 days as governor (1934-1936). Excludes 72 days as chairman pro tempore (Feb 3
+    to Apr 15, 1948) after term ended.
+[b] Excludes 35 days as pro tempore chairman (Feb 1 to Mar 7, 1978) after term ended.
+[c] Includes 110 days as pro tempore chairman (Mar 3 to Jun 20, 1996) awaiting confirmation.
+[d] Includes 107 days as chair pro tempore (Feb 5 to May 22, 2022) awaiting confirmation for a
+    new term. EXCLUDES SEVEN DAYS AS CHAIR PRO TEMPORE (MAY 16-22, 2026) AFTER TERM EXPIRED.
+Notes: Chair vacancies occurred in 1948, 1951, 1978, 1996, 2014, 2018, 2022, and 2026. In 1948,
+1978 and 2026 the outgoing chair remained pending confirmation and/or swearing-in of a new
+chair. In 1996 and 2022 the sitting chair remained pending confirmation for a new term. In
+1951, 2014 and 2018 the vacancies lasted one to two days over a weekend.
+
+--- TABLE 3. PERIODS WITH NO FED BOARD VACANCIES, 1980-2026 ---
+Start        End          Length
+08/06/1979   02/29/1980     208 days
+05/28/1980   02/11/1982     625 days
+03/31/1982   06/27/1984     820 days
+07/02/1984   09/01/1985     427 days
+02/07/1986   04/30/1986      83 days
+08/19/1986   12/15/1986     119 days
+08/15/1988   07/31/1989     351 days
+05/21/1990   08/03/1990      75 days
+12/02/1991   02/09/1994     801 days
+08/12/1994   04/30/1995     262 days
+06/25/1996   02/05/1997     226 days
+11/05/1997   06/30/1998     238 days
+12/07/2001   12/31/2001      25 days
+08/05/2002   06/21/2005   1,052 days
+03/01/2006   04/28/2006      59 days
+05/30/2012   08/31/2013     459 days
+07/19/2022   02/18/2023     215 days
+09/13/2023   08/08/2025     696 days
+09/16/2025   (ongoing)
+=> THE BOARD HAS BEEN AT FULL STRENGTH (no vacancies) SINCE 16 SEPTEMBER 2025 AND REMAINS SO.
+   Item 29's "vacancies" question therefore resolves to: there are none on the Board.
+
+--- NONCONTINUOUS SERVICE (report footnote 14) ---
+Three governors have had noncontinuous service since 1936:
+  Kevin Warsh (2006-2011 and 2026-present), Janet Yellen (1994-1997 and 2010-2018),
+  and Ben Bernanke (2002-2005 and 2006-2014).
+
+--- SOURCE FOOTNOTES FOR THE COOK MATTER (verbatim citations, report footnotes 8-11) ---
+ 8. U.S. President (Trump), "Letter to Federal Reserve Governor Lisa Cook Notifying Her of Her
+    Dismissal from Office," August 25, 2025, American Presidency Project,
+    https://www.presidency.ucsb.edu/documents/letter-federal-reserve-governor-lisa-cook-notifying-her-her-dismissal-from-office
+ 9. Alison Knezevich, "Federal Reserve Gov. Lisa Cook Sues Trump to Block Firing," Law360,
+    August 28, 2025, https://www.law360.com/articles/2381925
+10. Lydia Wheeler and Nick Timiraos, "Appeals Court Rejects Trump Request to Remove Fed
+    Governor Lisa Cook," Wall Street Journal, September 15, 2025,
+    https://www.wsj.com/economy/central-banking/appeals-court-rejects-trump-request-to-remove-fed-governor-lisa-cook-immediately-fc96f39b
+11. Tobias Burns, "Fed Says It Will Abide by Court Ruling in Trump, Cook Dispute over Firing,"
+    The Hill, August 26, 2025, https://thehill.com/homenews/5471635-fed-governor-trump-firing-challenge
+
+--- OTHER STATUTORY CITATIONS ---
+  12 U.S.C. 241 (appointment, district limit, community-bank experience requirement)
+  12 U.S.C. 242 ("removed for cause by the President")
+  Federal Reserve Reform Act of 1977, 91 Stat. 1387 (chair/vice chair Senate confirmation)
+  Dodd-Frank, 124 Stat. 1376 (vice chair for supervision as Senate-confirmed position)
+  Banking Act of 1935, 49 Stat. 684 (current Board structure, from Feb 1936)

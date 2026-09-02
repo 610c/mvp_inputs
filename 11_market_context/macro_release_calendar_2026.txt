@@ -1,0 +1,177 @@
+MACRO RELEASE CALENDAR 2026 (ITEM 26)
+CPI · PCE · payrolls · GDP · PPI · JOLTS · oil
+Captured 2026-09-02. All times EASTERN.
+Sources (verbatim from the agencies' own schedules):
+  BLS  https://www.bls.gov/schedule/2026/home.htm
+  BEA  https://www.bea.gov/news/schedule/full
+
+PURPOSE: this file is the DATE SPINE. Every participant statement in this
+corpus is a claim made with a specific information set. To read a speech
+correctly you have to know which prints the speaker had already seen. The
+"WHAT EACH SPEAKER HAD SEEN" section at the bottom does that alignment for
+the corpus window.
+
+================================================================
+A. THE FOUR SERIES THAT MOVE THE FOMC — 2026, consolidated
+================================================================
+CPI (BLS, 8:30 AM)              PCE / Personal Income & Outlays (BEA, 8:30 AM)
+  Jan 13  for Dec 2025            Jan 22  for Oct AND Nov 2025 (10:00 AM)
+  Feb 13  for Jan 2026            Feb 20  for Dec 2025
+  Mar 11  for Feb                 Mar 13  for Jan 2026
+  Apr 10  for Mar                 Apr 30  for Mar
+  May 12  for Apr                 May 28  for Apr
+  Jun 10  for May                 Jun 25  for May
+  Jul 14  for Jun                 Jul 30  for Jun
+  Aug 12  for Jul                 Aug 26  for Jul
+  Sep 11  for Aug                 Sep 30  for Aug
+  Oct 14  for Sep                 Oct 29  for Sep
+  Nov 10  for Oct                 Nov 25  for Oct
+  Dec 10  for Nov                 Dec 23  for Nov
+
+  NOTE THE JANUARY DOUBLE-PRINT: BEA released October AND November 2025
+  Personal Income and Outlays together on 22 January 2026, at 10:00 AM
+  rather than the usual 8:30. That is a shutdown-related catch-up. Any
+  monthly-frequency panel keyed on release dates will have a hole at
+  Dec 2025 and a double at Jan 2026.
+
+EMPLOYMENT SITUATION / payrolls (BLS, 8:30 AM)
+  Jan  9  for Dec 2025      Jul  2  for Jun
+  Feb 11  for Jan 2026      Aug  7  for Jul
+  Mar  6  for Feb           Sep  4  for Aug   <- day the corpus window closes
+  Apr  3  for Mar           Oct  2  for Sep
+  May  8  for Apr           Nov  6  for Oct
+  Jun  5  for May           Dec  4  for Nov
+
+  Feb 11 is unusually late for a January print (normally the first Friday).
+  Same shutdown residue as the BEA double-print.
+
+GDP (BEA, 8:30 AM)
+  Feb 20  Advance   Q4/Year 2025      Jul 30  Advance   Q2 2026
+  Mar 13  Second    Q4/Year 2025      Aug 26  Second    Q2 2026
+  Apr  9  Third     Q4/Year 2025      Sep 30  Third     Q2 2026
+  Apr 30  Advance   Q1 2026           Oct 29  Advance   Q3 2026
+  May 28  Second    Q1 2026           Nov 25  Second    Q3 2026
+  Jun 25  Third     Q1 2026           Dec 23  Third     Q3 2026
+
+PPI (BLS, 8:30 AM)
+  Jan 14 (Nov 2025) · Jan 30 (Dec 2025) · Feb 27 (Jan) · Mar 18 (Feb)
+  Apr 14 (Mar) · May 13 (Apr) · Jun 11 (May) · Jul 15 (Jun) · Aug 13 (Jul)
+  Sep 10 (Aug) · Oct 15 (Sep) · Nov 13 (Oct) · Dec 15 (Nov)
+
+  PPI MATTERS MORE THAN USUAL THIS YEAR. Daly's 5 Aug ESRI keynote builds
+  half her scenario-2 case on the PPI/CPI gap: "inflation for the PPI in
+  June is 5.5, and consumer price index grows by 3.5." That June PPI came
+  out 15 July. See ../05_speeches/districts/sanfrancisco/.
+
+JOLTS (BLS, 10:00 AM)
+  Jan 7 (Nov 25) · Feb 5 (Dec 25) · Mar 13 (Jan) · Mar 31 (Feb) · May 5 (Mar)
+  Jun 2 (Apr) · Jun 30 (May) · Aug 4 (Jun) · Sep 1 (Jul) · Sep 29 (Aug)
+  Nov 3 (Sep) · Dec 1 (Oct)
+
+EMPLOYMENT COST INDEX (BLS, 8:30 AM)
+  Feb 10 (Q4 2025) · Apr 30 (Q1 2026) · Jul 31 (Q2 2026) · Oct 30 (Q3 2026)
+
+PRODUCTIVITY AND COSTS (BLS, 8:30 AM)  — relevant: several participants
+lean on productivity to argue inflation comes down without tightening
+  Jan 8 (P, Q3 25) · Jan 29 (R, Q3 25) · Mar 5 (P, Q4 25) · Mar 24 (R, Q4 25)
+  May 7 (P, Q1 26) · Jun 4 (R, Q1 26) · Aug 6 (P, Q2 26) · Sep 3 (R, Q2 26)
+  Nov 5 (P, Q3 26) · Dec 8 (R, Q3 26)
+
+IMPORT/EXPORT PRICES (BLS, 8:30 AM) — the tariff pass-through series
+  Jan 15 · Feb 10 · Mar 5 · Mar 25 · Apr 15 · May 14 · Jun 16 · Jul 17
+  Aug 18 · Sep 16 · Oct 16 · Nov 17 · Dec 17
+
+TRADE IN GOODS AND SERVICES (BEA, 8:30 AM)
+  Jan 8 · Jan 29 · Feb 19 · Mar 12 · Apr 2 · May 5 · Jun 9 · Jul 7 · Aug 4
+  Sep 3 · Oct 6 · Nov 4 · Dec 8
+
+================================================================
+B. OIL — NOT CAPTURED, AND WHY
+================================================================
+The EIA release-schedule page (https://www.eia.gov/about/release_schedule.php)
+returns FILE NOT FOUND — EIA redesigned its site and the schedule moved. I am
+NOT going to write down EIA's usual cadence from memory and present it as
+captured data; that is exactly the kind of plausible-looking fabrication this
+corpus should not contain.
+
+WHAT YOU ACTUALLY NEED FOR OIL, and it is not a calendar:
+The 2026 oil story is event-driven, not release-driven. Every participant in
+the window ties their inflation view to the Middle East conflict and the
+Strait of Hormuz, and those are NEWS events on no schedule at all:
+  - Collins (Boston, 8/25): "some degree of reopening of the Strait of
+    Hormuz, two developments I am watching closely... oil inventories have
+    dropped to historically low levels"
+  - Paulson (Philadelphia, 8/4): "The June ceasefire in the Middle East
+    provided temporary relief... Oil prices have since jumped and remain
+    volatile"
+  - Venable (Atlanta, 8/11): "A clear resolution to the war would likely
+    get oil shipments moving more freely"
+  - Daly (SF, 8/5): energy prices drive "the lion's share" of the change in
+    consumer inflation expectations
+  - April 2026 minutes: "the crude oil futures curve was higher than the
+    curve prevailing at the time of the March FOMC meeting... remained
+    steeply downward sloping"
+A price series and a conflict-event timeline would serve the model far
+better here than an EIA publication calendar. FLAGGED AS OUTSTANDING.
+
+================================================================
+C. WHAT EACH SPEAKER HAD ALREADY SEEN — corpus window alignment
+================================================================
+Window: 18 Jun – 4 Sep 2026. Reading down, the information set grows:
+
+  Jun 25   PCE for May                    | Jun 25  GDP 3rd est Q1
+  Jun 30   JOLTS for May
+  Jul  2   PAYROLLS for June
+  Jul 14   CPI for June          <- Warsh semiannual MPR testimony same day
+  Jul 15   PPI for June
+  Jul 17   Import/export prices June
+  Jul 28-29 FOMC MEETING (hold)
+  Jul 30   GDP advance Q2 (+1.5%) | PCE for June (headline 3.7%)
+  Jul 31   ECI Q2
+  Aug  4   JOLTS for June · Trade for June
+  Aug  6   Productivity Q2 (prelim)
+  Aug  7   PAYROLLS for July
+  Aug 12   CPI for July
+  Aug 13   PPI for July
+  Aug 18   Import/export prices July
+  Aug 26   PCE for July · GDP 2nd est Q2
+  Aug 27-29 JACKSON HOLE
+  Sep  1   JOLTS for July
+  Sep  3   Productivity Q2 (revised) · Trade for July
+  Sep  4   PAYROLLS for August           <- WINDOW CLOSES
+
+CONSEQUENCES FOR SCORING — these are the traps:
+
+1. PAULSON (8/4) HAD NOT SEEN THE JULY CPI OR THE JULY PAYROLLS.
+   Her essay cites "Headline PCE inflation eased to 3.7 percent in June"
+   (released 30 July) and "Second quarter GDP increased a modest 1.5
+   percent" (advance, 30 July). Everything she says is conditioned on data
+   through end-July. She is NOT ignoring the August prints; they did not
+   exist.
+
+2. COLLINS (8/25) AND BARR (9/1) SAW THE JULY CPI AND PAYROLLS; PAULSON
+   DID NOT. Collins refers to "June and July inflation reports were mildly
+   encouraging" — she has one more month of information than Paulson.
+   Comparing their hawkishness without adjusting for this compares two
+   different information sets, not two different dispositions.
+
+3. NOBODY IN THE WINDOW HAD SEEN THE AUGUST CPI. It releases 11 September,
+   after the window closes and before the September FOMC. Every hawkish
+   conditional in this corpus — Paulson's, Collins's, Barr's — is explicitly
+   waiting on a print that had not happened yet. Barr says so directly:
+   "At our September FOMC meeting, we will again discuss the outlook."
+
+4. THE 4 SEPTEMBER PAYROLLS PRINT LANDS ON THE WINDOW'S LAST DAY.
+   Anything a participant said before 8:30 AM that morning was said without
+   it. If the corpus is timestamped only to the day, 4 September is
+   ambiguous and should be treated as pre-print unless a document says
+   otherwise.
+
+5. THE JANUARY 2026 DATA GAP IS REAL AND WILL BITE A PANEL.
+   The Dec 2025 PCE print does not exist as its own release; Oct and Nov
+   2025 were published together on 22 January 2026 and December on
+   20 February. The January payrolls print came 11 February rather than the
+   first Friday. This is government-shutdown residue and it is visible in
+   the January minutes ("data collection issues related to the government
+   shutdown had likely pushed down the levels of the CPI and the PCE price
+   index in November and December").

@@ -1,0 +1,109 @@
+2026 FOMC VOTE RECORD — verbatim voting lines, all five meetings to date
+Compiled 2026-09-02 from the minutes and statements in this corpus.
+Target range held at 3-1/2 to 3-3/4 percent at every meeting in 2026.
+
+================================================================
+JANUARY 27–28, 2026
+================================================================
+Voting for this action: Jerome H. Powell, John C. Williams, Michael S. Barr,
+Michelle W. Bowman, Lisa D. Cook, Beth M. Hammack, Philip N. Jefferson,
+Neel Kashkari, Lorie K. Logan, and Anna Paulson.
+
+Voting against this action: Stephen I. Miran and Christopher J. Waller.
+
+Stephen I. Miran and Christopher J. Waller preferred to lower the target range
+for the federal funds rate by 1/4 percentage point at this meeting.
+
+  DISSENTS: 2, both DOVISH (prefer 25bp cut). Miran, Waller.
+  Source: fomcminutes20260128.txt
+
+================================================================
+MARCH 17–18, 2026
+================================================================
+  See fomcminutes20260318.pdf and ../../02_statements/2026/voting_lines_2026.json
+
+================================================================
+APRIL 28–29, 2026   *** FOUR DISSENTS — LARGEST OF THE YEAR ***
+================================================================
+Voting for this action: Jerome H. Powell, John C. Williams, Michael S. Barr,
+Michelle W. Bowman, Lisa D. Cook, Philip N. Jefferson, Anna Paulson, and
+Christopher J. Waller.
+
+Voting against this action: Stephen I. Miran, who preferred to lower the target
+range for the federal funds rate by 1/4 percentage point at this meeting and
+Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who supported maintaining
+the target range for the federal funds rate but did not support inclusion of an
+easing bias in the statement at this time.
+
+  DISSENTS: 4 — and they run in OPPOSITE DIRECTIONS.
+    Miran            DOVISH   (prefer 25bp cut)
+    Hammack          HAWKISH  (rate OK, objects to easing bias in statement)
+    Kashkari         HAWKISH  (same)
+    Logan            HAWKISH  (same)
+
+  *** SCORING WARNING — THE APRIL DISSENTS ARE NOT ABOUT THE RATE ***
+  Three of the four April dissents are dissents on the STATEMENT LANGUAGE,
+  not on the policy rate. Hammack, Kashkari and Logan all SUPPORTED the rate
+  decision and voted against because the statement retained an easing bias.
+  Any model that codes a dissent as "wanted a different rate" will
+  mis-classify three of the four. The minutes make the mechanism explicit:
+    "Nine members agreed that in considering the extent and timing of
+     additional adjustments ... Three members would have preferred to provide
+     a more two-sided characterization of the Committee's future interest
+     rate decisions."
+  This is a distinct dissent TYPE — communication dissent — and it is
+  probably the most informative kind for a dissent-propensity model, because
+  it costs a member the same reputationally while signalling a directional
+  view without demanding an immediate rate change.
+  Note also that a majority felt this way but only three voted against:
+    "A majority of participants highlighted, however, that some policy
+     firming would likely become appropriate if inflation were to continue
+     to run persistently above 2 percent. To address this possibility, many
+     participants indicated that they would have preferred removing the
+     language from the postmeeting statement that suggested an easing bias."
+  So the observed dissent count (3) UNDERSTATES the latent disagreement
+  ("many participants"). The gap between "many participants would have
+  preferred" and "three members voted against" is exactly the quantity a
+  dissent-propensity model is trying to estimate.
+  Source: fomcminutes20260429.txt
+
+================================================================
+JUNE 16–17, 2026
+================================================================
+  See fomcminutes20260617.pdf and ../../02_statements/2026/voting_lines_2026.json
+
+================================================================
+JULY 28–29, 2026
+================================================================
+  See fomcminutes20260729.txt and ../../02_statements/2026/voting_lines_2026.json
+
+================================================================
+STRUCTURAL NOTES PICKED UP FROM THE 2026 MINUTES
+================================================================
+2026 VOTING ROSTER (elected at the January organizational meeting):
+  Reserve Bank members     Alternates
+  John C. Williams (NY)    Sushmita Shukla (NY First VP)
+  Anna Paulson (Phila)     Thomas I. Barkin (Richmond)
+  Beth M. Hammack (Clev)   Austan D. Goolsbee (Chicago)
+  Lorie K. Logan (Dallas)  Raphael W. Bostic (Atlanta)
+  Neel Kashkari (Mpls)     Mary C. Daly (San Francisco)
+
+ALTERNATE SUCCESSION — ITEM 24 RESOLVED FROM PRIMARY SOURCE:
+  January 2026 attendance lists the alternates as:
+    Barkin, BOSTIC, Daly, Goolsbee, Shukla
+  April 2026 attendance lists the alternates as:
+    Barkin, Daly, Goolsbee, Shukla, CHERYL L. VENABLE
+  Bostic retired from the Atlanta Fed in late February 2026. Venable, the
+  Atlanta Fed's First Vice President and now interim president, took the
+  Atlanta alternate seat. This is direct documentary confirmation, not
+  inference. See ../../05_speeches/districts/atlanta/_atlanta_2026_index.txt.
+  Note the parallel with New York: both NY and Atlanta are represented in
+  the alternate slot by a FIRST VICE PRESIDENT rather than a president.
+
+CHAIR TRANSITION:
+  Both the January and April 2026 minutes list Jerome H. Powell as Chair.
+  Kevin Warsh appears as Chairman from the June 2026 meeting onward
+  (his Jackson Hole address of 2026-08-28 is signed "Chairman Kevin Warsh").
+  Powell remains on the Board as a Governor — the 2026-05-31 Board speech
+  index entry reads "Governor Jerome H. Powell." Any per-participant series
+  must handle this: Powell is present throughout 2026 but changes role.

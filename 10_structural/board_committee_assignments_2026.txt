@@ -1,0 +1,71 @@
+SOURCE: https://www.federalreserve.gov/aboutthefed/bios/board/default.htm
+CAPTURED: 2026-09-01, verbatim
+ITEM 23: Board committee assignments
+
+STATUTORY BACKGROUND (verbatim)
+The seven members of the Board of Governors of the Federal Reserve System are nominated by the
+President and confirmed by the Senate. A full term is fourteen years. One term begins every two
+years, on February 1 of even-numbered years. A member who serves a full term may not be
+reappointed. A member who completes an unexpired portion of a term may be reappointed. All terms
+end on their statutory date regardless of the date on which the member is sworn into office.
+The Chairman and the Vice Chair of the Board, as well as the Vice Chair for Supervision, are
+nominated by the President from among the members and are confirmed by the Senate. They serve a
+term of four years. A member's term on the Board is not affected by his or her status as
+Chairman or Vice Chair.
+
+BOARD MEMBER ASSIGNMENTS - BOARD COMMITTEES (verbatim)
+
+Committee on Board Affairs
+  Vice Chair Jefferson, Chair and Oversight Governor for the Office of the COO
+  Governor Barr, Member
+  Governor Cook, Member
+
+Committee on Consumer and Community Affairs
+  Governor Barr, Chair and Oversight Governor for DCCA
+  Vice Chair for Supervision Bowman, Member
+  Governor Cook, Member
+
+Committee on Economic and Monetary Affairs
+  Vice Chair Jefferson, Chair and Oversight Governor for R&S, MA, and IF
+  Governor Waller, Member
+
+Committee on Financial Stability
+  Governor Cook, Chair and Oversight Governor for FS
+  Governor Barr, Member
+
+Committee on Federal Reserve Bank Affairs
+  Governor Waller, Chair and Oversight Governor for RBOPS
+  Governor Cook, Member
+
+Committee on Supervision and Regulation
+  Vice Chair for Supervision Bowman, Chair and Oversight Governor for S&R
+  Vice Chair Jefferson, Member
+  Governor Waller, Member
+
+Subcommittee on Smaller Regional and Community Banking
+  Vice Chair for Supervision Bowman, Chair
+  Governor Cook, Member
+
+Committee on Payments, Clearing, and Settlement
+  Governor Waller, Chair
+  Vice Chair for Supervision Bowman, Member
+  Governor Barr, Member
+
+DERIVED COMMITTEE COUNT (7 committees + 1 subcommittee)
+  Cook        5 memberships (chairs Financial Stability)          - most committee seats
+  Waller      4 memberships (chairs Fed Bank Affairs; chairs Payments)
+  Bowman      4 memberships (chairs Supervision & Regulation; chairs Smaller Regional subcttee)
+  Barr        4 memberships (chairs Consumer & Community Affairs)
+  Jefferson   3 memberships (chairs Board Affairs; chairs Economic & Monetary Affairs)
+  WARSH       0 memberships
+  POWELL      0 memberships
+
+NOTE FOR SCORING (item 22/23 "clout"):
+  Warsh holding no committee seat is normal for a sitting Chairman.
+  POWELL HOLDING NO COMMITTEE SEAT IS NOT. He remains a sitting governor and an FOMC voter
+  (confirmed in the June and July minutes rosters), but carries no Board committee
+  responsibility and no oversight-governor portfolio. Every other non-Chair governor holds
+  three or more. On a structural-influence measure he is a voting member with zero
+  institutional portfolio - an unusual configuration worth encoding explicitly rather than
+  letting a committee-count metric treat him as a normal governor.
+  Cross-check against item 22 (CRS R48233) for his appointment date and term expiry.
