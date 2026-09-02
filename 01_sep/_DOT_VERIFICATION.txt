@@ -1,0 +1,76 @@
+INDEPENDENT VERIFICATION OF THE DOT-PLOT DATA
+Run 2026-09-02. Method and result, including what could not be verified.
+
+WHY THIS EXISTS
+The dot CSVs were extracted from the Fed's ACCESSIBLE-VERSION HTML pages
+(fomcprojtabl<date>.htm), which publish Figure 2 as a data table. That is a
+primary source, but it is a single source, and the June 2026 file is the
+baseline the entire primary test is scored against. A transcription error in it
+would not surface until 16 September, at which point it would be unfixable.
+
+So the counts were re-derived a second, fully independent way and compared.
+
+METHOD
+  1. Render Figure 2 from the PDF at 200 dpi (the figure is a GRAPHIC - the dots
+     carry no text, so pdftotext cannot see them).
+  2. Threshold on the Fed's dot blue (b>90, b-r>40, b-g>25).
+  3. Connected-component labelling to find blobs.
+  4. Count: whole blob = 1 dot, half-size blob = 1/2 dot, oversized blob =
+     round(area / unit) dots.
+
+  Step 4 matters. Gridlines are drawn ON TOP of the dots, so any dot sitting on
+  a round gridline is cut into two half-blobs. A naive blob count double-counts
+  every one of them. In the June 2026 figure, all 7 longer-run dots at 3.00% sit
+  on the solid 3.0 gridline and appear as 14 half-blobs. First pass returned
+  25 longer-run dots, which is impossible with 18 participants; that is what
+  exposed the bug.
+
+RESULT: 38 of 54 vintages match the CSV EXACTLY, total and per column.
+
+  BOTH 2026 VINTAGES VERIFIED - these are the ones that matter:
+    2026-06-17   detected [18, 18, 17, 18]   CSV [18, 18, 17, 18]   MATCH
+    2026-03-18   detected [19, 19, 19, 19]   CSV [19, 19, 19, 19]   MATCH
+
+  The June figure independently confirms three things the model depends on:
+    - 18 dots, not 19. The Chair does not submit one.
+    - The 2028 column really does hold 17, not 18. It is not a dropped dot.
+    - The longer-run column really does hold 18.
+
+  Verified vintages (38):
+    2015-12-16  2016-03-16  2016-06-15  2016-09-21  2017-03-15  2017-06-14
+    2017-09-20  2017-12-13  2018-03-21  2018-06-13  2018-09-26  2018-12-19
+    2019-03-20  2019-06-19  2019-09-18  2019-12-11  2020-06-10  2020-09-16
+    2020-12-16  2021-03-17  2021-06-16  2021-09-22  2021-12-15  2022-06-15
+    2022-09-21  2022-12-14  2023-03-22  2023-06-14  2023-12-13  2024-03-20
+    2024-06-12  2024-12-18  2025-03-19  2025-06-18  2025-09-17  2025-12-10
+    2026-03-18  2026-06-17
+
+  The verification reproduces the UNEVEN column totals, which is the strongest
+  evidence it is reading the figure rather than assuming a shape: 2023-12 longer
+  run = 18 against 19 elsewhere; 2022-06 = 17 against 18; 2019-06 and 2016-06 =
+  16 against 17. A method that assumed uniform columns would have matched the
+  totals and missed these.
+
+NOT VERIFIED BY THIS METHOD (16). NOT evidence of error - the method cannot
+resolve them, and no discrepancy was demonstrated in any of them.
+
+  2012-01-25 through 2015-09-17 (15 vintages)
+      Pre-2016 chart rendering. The blue threshold catches large non-dot regions
+      and returns counts in the hundreds or thousands - an obvious, total
+      failure of the detector rather than a near-miss. Nothing about the CSVs is
+      implied either way.
+
+  2016-12-14 (1 vintage)   CSV 84, pixel estimate 82-83
+      Dots overlap heavily in this vintage. The largest fused blob is ~16.8 dot-
+      areas, so the count depends on rounding several fused clusters, and the
+      estimate sits within rounding noise of the CSV. Not resolvable by pixel
+      counting. Treat as unverified, not as wrong.
+
+STANDING CAVEAT
+Verified means the NUMBER OF DOTS PER COLUMN matches. Both derivations read the
+same published figure, so a Fed publication error would be reproduced by both.
+No independent check of the Fed against itself is possible.
+
+REPRODUCING
+Detector source lives with the analysis code, not in this corpus. Inputs are the
+53 archive PDFs plus 2026-03 and 2026-06, all in this directory.

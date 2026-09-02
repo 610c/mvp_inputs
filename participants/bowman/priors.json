@@ -1,0 +1,61 @@
+{
+ "key": "bowman",
+ "full_name": "Michelle W. Bowman",
+ "role": "governor",
+ "title": "Vice Chair for Supervision",
+ "district": null,
+ "sep_2026_09": {
+  "submits_dot": true,
+  "voter": true,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt"
+ },
+ "tenure": {
+  "seat_start": "2018-11-26",
+  "seat_end": "2034-01-31",
+  "role_start": "2025-06-09",
+  "role_end": "2029-06-09",
+  "prior_service": null,
+  "source": "../10_structural/CRS_R48233_board_membership.txt",
+  "note": null
+ },
+ "vote_history": {
+  "n_recorded_votes": 60,
+  "n_dissents": 2,
+  "dissent_rate": 0.0333,
+  "first_fomc_vote": "20181219",
+  "last_fomc_vote": "20260729",
+  "dissent_dates": [
+   "20240918",
+   "20250730"
+  ],
+  "source": "votes.json (FOMC statements 1999-2026 + 2026 minutes)"
+ },
+ "record_2026": {
+  "votes": {
+   "20260128": "FOR",
+   "20260318": "FOR",
+   "20260429": "FOR",
+   "20260617": "FOR",
+   "20260729": "FOR"
+  },
+  "n_dissents_2026": 0,
+  "note": "Direction of dissent is in _2026_meeting_outcomes.json and is NOT recoverable from the FOR/AGAINST flag. Committee: 2026-01-28 10-2 (dovish), 2026-03-18 11-1 (dovish), 2026-04-29 8-4 (Miran dovish on rate; Hammack/Kashkari/Logan hawkish on easing-bias LANGUAGE), 2026-06-17 12-0, 2026-07-29 9-3 (Hammack/Kashkari/Logan preferred a 25bp HIKE). Miran left the Board before June and is not a September participant; his three dovish dissents leave with him, shifting the base rate hawkish.",
+  "dissent_detail": {}
+ },
+ "corpus": {
+  "window": "2026-06-18 to 2026-09-04 (post-June-meeting, pre-blackout)",
+  "documents": {
+   "speeches": [
+    "bowman_20260707_sound_practices_for_ai.txt",
+    "bowman_20260713_modernizing_financial_regulation.txt",
+    "bowman_20260714_responsible_innovation_financial_inclusion.txt"
+   ],
+   "testimony": [],
+   "interviews": [],
+   "background": []
+  },
+  "n_usable_text": 3,
+  "n_stub_no_transcript": 0,
+  "background_is_out_of_window": false
+ }
+}

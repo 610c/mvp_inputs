@@ -1,0 +1,55 @@
+{
+ "key": "powell",
+ "full_name": "Jerome H. Powell",
+ "role": "governor",
+ "title": "Governor (former Chair)",
+ "district": null,
+ "sep_2026_09": {
+  "submits_dot": true,
+  "voter": true,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt"
+ },
+ "tenure": {
+  "seat_start": "2012-05-25",
+  "seat_end": "2028-01-31",
+  "role_start": null,
+  "role_end": null,
+  "prior_service": "Chair 2018-02-05 to 2026-05-15; retained governor seat after handing over the chair",
+  "source": "../10_structural/CRS_R48233_board_membership.txt",
+  "note": null
+ },
+ "vote_history": {
+  "n_recorded_votes": 112,
+  "n_dissents": 0,
+  "dissent_rate": 0.0,
+  "first_fomc_vote": "20120620",
+  "last_fomc_vote": "20260729",
+  "dissent_dates": [],
+  "source": "votes.json (FOMC statements 1999-2026 + 2026 minutes)"
+ },
+ "record_2026": {
+  "votes": {
+   "20260128": "FOR",
+   "20260318": "FOR",
+   "20260429": "FOR",
+   "20260617": "FOR",
+   "20260729": "FOR"
+  },
+  "n_dissents_2026": 0,
+  "note": "Direction of dissent is in _2026_meeting_outcomes.json and is NOT recoverable from the FOR/AGAINST flag. Committee: 2026-01-28 10-2 (dovish), 2026-03-18 11-1 (dovish), 2026-04-29 8-4 (Miran dovish on rate; Hammack/Kashkari/Logan hawkish on easing-bias LANGUAGE), 2026-06-17 12-0, 2026-07-29 9-3 (Hammack/Kashkari/Logan preferred a 25bp HIKE). Miran left the Board before June and is not a September participant; his three dovish dissents leave with him, shifting the base rate hawkish.",
+  "dissent_detail": {}
+ },
+ "corpus": {
+  "window": "2026-06-18 to 2026-09-04 (post-June-meeting, pre-blackout)",
+  "documents": {
+   "speeches": [],
+   "testimony": [],
+   "interviews": [],
+   "background": []
+  },
+  "n_usable_text": 0,
+  "n_stub_no_transcript": 0,
+  "background_is_out_of_window": false
+ },
+ "EXTRACTION_WARNING": "No usable in-window text. Position cannot be extracted from this participant's own record. Do NOT fill the gap with committee-level or peer text \u2014 that is exactly the contamination the per-participant isolation rule exists to prevent. Report an explicit no-signal prior instead."
+}

@@ -1,0 +1,59 @@
+{
+ "key": "cook",
+ "full_name": "Lisa D. Cook",
+ "role": "governor",
+ "title": "Governor",
+ "district": null,
+ "sep_2026_09": {
+  "submits_dot": true,
+  "voter": true,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt"
+ },
+ "tenure": {
+  "seat_start": "2022-05-23",
+  "seat_end": "2038-01-31",
+  "role_start": null,
+  "role_end": null,
+  "prior_service": null,
+  "source": "../10_structural/CRS_R48233_board_membership.txt",
+  "note": null
+ },
+ "vote_history": {
+  "n_recorded_votes": 31,
+  "n_dissents": 0,
+  "dissent_rate": 0.0,
+  "first_fomc_vote": "20220615",
+  "last_fomc_vote": "20260729",
+  "dissent_dates": [],
+  "source": "votes.json (FOMC statements 1999-2026 + 2026 minutes)"
+ },
+ "record_2026": {
+  "votes": {
+   "20260128": "FOR",
+   "20260318": "FOR",
+   "20260429": "FOR",
+   "20260617": "FOR",
+   "20260729": "FOR"
+  },
+  "n_dissents_2026": 0,
+  "note": "Direction of dissent is in _2026_meeting_outcomes.json and is NOT recoverable from the FOR/AGAINST flag. Committee: 2026-01-28 10-2 (dovish), 2026-03-18 11-1 (dovish), 2026-04-29 8-4 (Miran dovish on rate; Hammack/Kashkari/Logan hawkish on easing-bias LANGUAGE), 2026-06-17 12-0, 2026-07-29 9-3 (Hammack/Kashkari/Logan preferred a 25bp HIKE). Miran left the Board before June and is not a September participant; his three dovish dissents leave with him, shifting the base rate hawkish.",
+  "dissent_detail": {}
+ },
+ "corpus": {
+  "window": "2026-06-18 to 2026-09-04 (post-June-meeting, pre-blackout)",
+  "documents": {
+   "speeches": [
+    "cook_20260624_welcome_remarks_small_business.txt",
+    "cook_20260715_economic_outlook.txt",
+    "cook_20260805_outlook_us_and_alaskan_economies.txt"
+   ],
+   "testimony": [],
+   "interviews": [],
+   "background": []
+  },
+  "n_usable_text": 3,
+  "n_stub_no_transcript": 0,
+  "background_is_out_of_window": false
+ },
+ "status_flag": "Removal letter from the President 2025-08-25; suit filed 2025-08-28; remains in office pending litigation (CRS). Tenure is contested, which is itself a salience/clout consideration."
+}

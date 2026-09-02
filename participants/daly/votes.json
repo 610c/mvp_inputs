@@ -1,0 +1,101 @@
+{
+  "participant": "Daly",
+  "n_recorded_votes": 18,
+  "n_dissents": 0,
+  "dissent_rate": 0.0,
+  "first_recorded_vote": "20181108",
+  "last_recorded_vote": "20241218",
+  "note": "Parsed from FOMC statements 1999-2026 and, from 2026-06-17 onward, from the minutes (the statement stopped naming the full roster at the Warsh format change). Dissent = named in 'Voting against'. Does NOT distinguish rate dissents from statement-language dissents; see ../../04_statements_archive/_COVERAGE_README.txt.",
+  "votes": [
+    {
+      "date": "20181108",
+      "vote": "FOR",
+      "source": "fomc_statement_20181108.txt"
+    },
+    {
+      "date": "20181219",
+      "vote": "FOR",
+      "source": "fomc_statement_20181219.txt"
+    },
+    {
+      "date": "20201105",
+      "vote": "FOR",
+      "source": "fomc_statement_20201105.txt"
+    },
+    {
+      "date": "20210127",
+      "vote": "FOR",
+      "source": "monetary20210127a.htm"
+    },
+    {
+      "date": "20210317",
+      "vote": "FOR",
+      "source": "monetary20210317a.htm"
+    },
+    {
+      "date": "20210428",
+      "vote": "FOR",
+      "source": "monetary20210428a.htm"
+    },
+    {
+      "date": "20210616",
+      "vote": "FOR",
+      "source": "monetary20210616a.htm"
+    },
+    {
+      "date": "20210728",
+      "vote": "FOR",
+      "source": "monetary20210728a.htm"
+    },
+    {
+      "date": "20210922",
+      "vote": "FOR",
+      "source": "monetary20210922a.htm"
+    },
+    {
+      "date": "20211103",
+      "vote": "FOR",
+      "source": "monetary20211103a.htm"
+    },
+    {
+      "date": "20211215",
+      "vote": "FOR",
+      "source": "monetary20211215a.htm"
+    },
+    {
+      "date": "20240131",
+      "vote": "FOR",
+      "source": "monetary20240131a.htm"
+    },
+    {
+      "date": "20240320",
+      "vote": "FOR",
+      "source": "monetary20240320a.htm"
+    },
+    {
+      "date": "20240612",
+      "vote": "FOR",
+      "source": "monetary20240612a.htm"
+    },
+    {
+      "date": "20240731",
+      "vote": "FOR",
+      "source": "monetary20240731a.htm"
+    },
+    {
+      "date": "20240918",
+      "vote": "FOR",
+      "source": "monetary20240918a.htm"
+    },
+    {
+      "date": "20241107",
+      "vote": "FOR",
+      "source": "monetary20241107a.htm"
+    },
+    {
+      "date": "20241218",
+      "vote": "FOR",
+      "source": "monetary20241218a.htm"
+    }
+  ]
+}

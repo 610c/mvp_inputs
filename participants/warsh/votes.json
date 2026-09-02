@@ -1,0 +1,221 @@
+{
+ "participant": "Warsh",
+ "n_recorded_votes": 42,
+ "n_dissents": 0,
+ "dissent_rate": 0.0,
+ "first_recorded_vote": "20060328",
+ "last_recorded_vote": "20260729",
+ "note": "Parsed from FOMC statements 1999-2026 and, from 2026-06-17 onward, from the minutes (the statement stopped naming the full roster at the Warsh format change). Dissent = named in 'Voting against'. Does NOT distinguish rate dissents from statement-language dissents; see ../../04_statements_archive/_COVERAGE_README.txt.",
+ "votes": [
+  {
+   "date": "20060328",
+   "vote": "FOR",
+   "source": "fomc_statement_20060328.txt"
+  },
+  {
+   "date": "20060510",
+   "vote": "FOR",
+   "source": "fomc_statement_20060510.txt"
+  },
+  {
+   "date": "20060629",
+   "vote": "FOR",
+   "source": "fomc_statement_20060629.txt"
+  },
+  {
+   "date": "20060808",
+   "vote": "FOR",
+   "source": "fomc_statement_20060808.txt"
+  },
+  {
+   "date": "20060920",
+   "vote": "FOR",
+   "source": "fomc_statement_20060920.txt"
+  },
+  {
+   "date": "20061025",
+   "vote": "FOR",
+   "source": "fomc_statement_20061025.txt"
+  },
+  {
+   "date": "20061212",
+   "vote": "FOR",
+   "source": "fomc_statement_20061212.txt"
+  },
+  {
+   "date": "20070131",
+   "vote": "FOR",
+   "source": "fomc_statement_20070131.txt"
+  },
+  {
+   "date": "20070321",
+   "vote": "FOR",
+   "source": "fomc_statement_20070321.txt"
+  },
+  {
+   "date": "20070509",
+   "vote": "FOR",
+   "source": "fomc_statement_20070509.txt"
+  },
+  {
+   "date": "20070628",
+   "vote": "FOR",
+   "source": "fomc_statement_20070628.txt"
+  },
+  {
+   "date": "20070807",
+   "vote": "FOR",
+   "source": "fomc_statement_20070807.txt"
+  },
+  {
+   "date": "20070918",
+   "vote": "FOR",
+   "source": "fomc_statement_20070918.txt"
+  },
+  {
+   "date": "20071031",
+   "vote": "FOR",
+   "source": "fomc_statement_20071031.txt"
+  },
+  {
+   "date": "20071211",
+   "vote": "FOR",
+   "source": "fomc_statement_20071211.txt"
+  },
+  {
+   "date": "20080130",
+   "vote": "FOR",
+   "source": "fomc_statement_20080130.txt"
+  },
+  {
+   "date": "20080318",
+   "vote": "FOR",
+   "source": "fomc_statement_20080318.txt"
+  },
+  {
+   "date": "20080430",
+   "vote": "FOR",
+   "source": "fomc_statement_20080430.txt"
+  },
+  {
+   "date": "20080625",
+   "vote": "FOR",
+   "source": "fomc_statement_20080625.txt"
+  },
+  {
+   "date": "20080805",
+   "vote": "FOR",
+   "source": "fomc_statement_20080805.txt"
+  },
+  {
+   "date": "20080916",
+   "vote": "FOR",
+   "source": "fomc_statement_20080916.txt"
+  },
+  {
+   "date": "20081008",
+   "vote": "FOR",
+   "source": "fomc_statement_20081008.txt"
+  },
+  {
+   "date": "20081029",
+   "vote": "FOR",
+   "source": "fomc_statement_20081029.txt"
+  },
+  {
+   "date": "20090128",
+   "vote": "FOR",
+   "source": "fomc_statement_20090128.txt"
+  },
+  {
+   "date": "20090318",
+   "vote": "FOR",
+   "source": "fomc_statement_20090318.txt"
+  },
+  {
+   "date": "20090429",
+   "vote": "FOR",
+   "source": "fomc_statement_20090429.txt"
+  },
+  {
+   "date": "20090624",
+   "vote": "FOR",
+   "source": "fomc_statement_20090624.txt"
+  },
+  {
+   "date": "20090812",
+   "vote": "FOR",
+   "source": "fomc_statement_20090812.txt"
+  },
+  {
+   "date": "20090923",
+   "vote": "FOR",
+   "source": "fomc_statement_20090923.txt"
+  },
+  {
+   "date": "20091104",
+   "vote": "FOR",
+   "source": "fomc_statement_20091104.txt"
+  },
+  {
+   "date": "20091216",
+   "vote": "FOR",
+   "source": "fomc_statement_20091216.txt"
+  },
+  {
+   "date": "20100127",
+   "vote": "FOR",
+   "source": "fomc_statement_20100127.txt"
+  },
+  {
+   "date": "20100316",
+   "vote": "FOR",
+   "source": "fomc_statement_20100316.txt"
+  },
+  {
+   "date": "20100428",
+   "vote": "FOR",
+   "source": "fomc_statement_20100428.txt"
+  },
+  {
+   "date": "20100623",
+   "vote": "FOR",
+   "source": "fomc_statement_20100623.txt"
+  },
+  {
+   "date": "20100810",
+   "vote": "FOR",
+   "source": "fomc_statement_20100810.txt"
+  },
+  {
+   "date": "20100921",
+   "vote": "FOR",
+   "source": "fomc_statement_20100921.txt"
+  },
+  {
+   "date": "20101103",
+   "vote": "FOR",
+   "source": "fomc_statement_20101103.txt"
+  },
+  {
+   "date": "20101214",
+   "vote": "FOR",
+   "source": "fomc_statement_20101214.txt"
+  },
+  {
+   "date": "20110126",
+   "vote": "FOR",
+   "source": "fomc_statement_20110126.txt"
+  },
+  {
+   "date": "20260617",
+   "vote": "FOR",
+   "source": "fomcminutes20260617.pdf"
+  },
+  {
+   "date": "20260729",
+   "vote": "FOR",
+   "source": "fomcminutes20260729.txt"
+  }
+ ]
+}

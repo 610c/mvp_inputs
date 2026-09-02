@@ -1,0 +1,38 @@
+{
+ "note": "Committee-level 2026 record, verbatim from FOMC minutes. Direction of dissent matters and is NOT recoverable from the FOR/AGAINST flag in votes.json. Source files in ../03_minutes/2026/.",
+ "built": "2026-09-02",
+ "target_range_all_2026_meetings": "unchanged at every meeting; IORB 3.65%, primary credit 3.75% throughout",
+ "meetings": [
+  {"date": "20260128", "tally": "10-2",
+   "against": ["Miran", "Waller"],
+   "dissent_direction": "DOVISH",
+   "verbatim": "Stephen I. Miran and Christopher J. Waller preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+   "source": "fomcminutes20260128.txt"},
+  {"date": "20260318", "tally": "11-1",
+   "against": ["Miran"],
+   "dissent_direction": "DOVISH",
+   "verbatim": "Stephen I. Miran preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+   "source": "fomcminutes20260318.pdf"},
+  {"date": "20260429", "tally": "8-4",
+   "against": ["Miran", "Hammack", "Kashkari", "Logan"],
+   "dissent_direction": "SPLIT",
+   "verbatim": "Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting and Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who supported maintaining the target range for the federal funds rate but did not support inclusion of an easing bias in the statement at this time.",
+   "detail": "Miran dissented DOVISH on the rate. Hammack, Kashkari and Logan agreed with the rate and dissented HAWKISH on statement LANGUAGE (the easing bias). This is a language dissent, not a rate dissent. Any dissent model that treats all four the same is wrong.",
+   "source": "fomcminutes20260429.txt"},
+  {"date": "20260617", "tally": "12-0",
+   "against": [],
+   "dissent_direction": null,
+   "verbatim": "Voting against this action: None.",
+   "detail": "First meeting chaired by Warsh. Unanimous, immediately after an 8-4.",
+   "source": "fomcminutes20260617.pdf"},
+  {"date": "20260729", "tally": "9-3",
+   "against": ["Hammack", "Kashkari", "Logan"],
+   "dissent_direction": "HAWKISH",
+   "verbatim": "Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+   "detail": "CONFIRMS a claim the execution plan flagged as doubtful. fomcexecutionplan.md sec 4 warned: 'The ChatGPT document reported July as 9-3 with three preferring a hike; that does not match other reporting.' The primary source says exactly that. Three voting presidents preferred a 25bp HIKE. Their April dissent was on easing-bias language; by July they had escalated to wanting a hike. That escalation is the single strongest dissent signal in the 2026 record.",
+   "source": "fomcminutes20260729.txt"}
+ ],
+ "departed": {
+  "Miran": "Stephen I. Miran, governor 2025-2026. Dissented dovish in January, March and April. Left the Board before the June meeting. NOT a September participant and has no directory here. His three dovish dissents are removed from the committee, which mechanically shifts the dissent base rate hawkish."
+ }
+}

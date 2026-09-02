@@ -1,0 +1,66 @@
+{
+ "participant": "Logan",
+ "n_recorded_votes": 11,
+ "n_dissents": 2,
+ "dissent_rate": 0.1818,
+ "first_recorded_vote": "20230322",
+ "last_recorded_vote": "20260729",
+ "note": "Parsed from FOMC statements 1999-2026 and, from 2026-06-17 onward, from the minutes (the statement stopped naming the full roster at the Warsh format change). Dissent = named in 'Voting against'. Does NOT distinguish rate dissents from statement-language dissents; see ../../04_statements_archive/_COVERAGE_README.txt.",
+ "votes": [
+  {
+   "date": "20230322",
+   "vote": "FOR",
+   "source": "monetary20230322a.htm"
+  },
+  {
+   "date": "20230614",
+   "vote": "FOR",
+   "source": "monetary20230614a.htm"
+  },
+  {
+   "date": "20230726",
+   "vote": "FOR",
+   "source": "monetary20230726a.htm"
+  },
+  {
+   "date": "20230920",
+   "vote": "FOR",
+   "source": "monetary20230920a.htm"
+  },
+  {
+   "date": "20231101",
+   "vote": "FOR",
+   "source": "monetary20231101a.htm"
+  },
+  {
+   "date": "20231213",
+   "vote": "FOR",
+   "source": "monetary20231213a.htm"
+  },
+  {
+   "date": "20260128",
+   "vote": "FOR",
+   "source": "fomcminutes20260128.txt"
+  },
+  {
+   "date": "20260318",
+   "vote": "FOR",
+   "source": "fomc_statement_20260318.txt"
+  },
+  {
+   "date": "20260429",
+   "vote": "AGAINST",
+   "source": "fomcminutes20260429.txt"
+  },
+  {
+   "date": "20260617",
+   "vote": "FOR",
+   "source": "fomcminutes20260617.pdf"
+  },
+  {
+   "date": "20260729",
+   "vote": "AGAINST",
+   "source": "fomcminutes20260729.txt"
+  }
+ ]
+}

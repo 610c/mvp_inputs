@@ -1,0 +1,71 @@
+{
+ "participant": "Collins",
+ "n_recorded_votes": 12,
+ "n_dissents": 0,
+ "dissent_rate": 0.0,
+ "first_recorded_vote": "20220727",
+ "last_recorded_vote": "20251210",
+ "note": "Parsed from FOMC statements 1999-2026 and, from 2026-06-17 onward, from the minutes (the statement stopped naming the full roster at the Warsh format change). Dissent = named in 'Voting against'. Does NOT distinguish rate dissents from statement-language dissents; see ../../04_statements_archive/_COVERAGE_README.txt.",
+ "votes": [
+  {
+   "date": "20220727",
+   "vote": "FOR",
+   "source": "monetary20220727a.htm"
+  },
+  {
+   "date": "20220921",
+   "vote": "FOR",
+   "source": "monetary20220921a.htm"
+  },
+  {
+   "date": "20221102",
+   "vote": "FOR",
+   "source": "monetary20221102a.htm"
+  },
+  {
+   "date": "20221214",
+   "vote": "FOR",
+   "source": "monetary20221214a.htm"
+  },
+  {
+   "date": "20250129",
+   "vote": "FOR",
+   "source": "monetary20250129a.htm"
+  },
+  {
+   "date": "20250319",
+   "vote": "FOR",
+   "source": "monetary20250319a1.pdf"
+  },
+  {
+   "date": "20250507",
+   "vote": "FOR",
+   "source": "monetary20250507a.htm"
+  },
+  {
+   "date": "20250618",
+   "vote": "FOR",
+   "source": "monetary20250618a.htm"
+  },
+  {
+   "date": "20250730",
+   "vote": "FOR",
+   "source": "monetary20250730a1.pdf"
+  },
+  {
+   "date": "20250917",
+   "vote": "FOR",
+   "source": "monetary20250917a.htm"
+  },
+  {
+   "date": "20251029",
+   "vote": "FOR",
+   "source": "monetary20251029a.htm"
+  },
+  {
+   "date": "20251210",
+   "vote": "FOR",
+   "source": "monetary20251210a.htm"
+  }
+ ]
+}

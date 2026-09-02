@@ -1,5 +1,5 @@
 FOMC DISSENT & SALIENCE MVP — CORPUS MANIFEST
-Built 2026-09-01 / 2026-09-02.  648 files, 117 MB.
+Built 2026-09-01 / 2026-09-02.  Reshaped 2026-09-02.  715 files, 119 MB.
 Scoring window for per-participant material: 18 June – 4 September 2026.
 
 ================================================================
@@ -130,3 +130,45 @@ CONVENTIONS
   reasoning stays visible (see 10_structural/).
 - Bracketed [NOTES] inside document files are mine, not the Fed's. The
   document text itself is verbatim.
+
+===============================================================================
+RESHAPE 2026-09-02 -- participants/ IS NOW THE ENTRY POINT
+===============================================================================
+
+The extraction layer reads participants/, not the numbered directories. The
+numbered directories are the archive the reshape drew from and remain the
+authority for provenance; nothing was moved or deleted, only copied.
+
+  participants/_README.txt                 READ THIS FIRST. Rules, gaps, cutoff.
+  participants/_2026_meeting_outcomes.json Committee-level 2026 record with
+                                           direction of every dissent, verbatim
+                                           from minutes.
+  participants/<key>/                      19 SEP participants. speeches/,
+                                           testimony/, interviews/, background/,
+                                           votes.json, priors.json.
+
+Three vote records that existed only as PDFs were extracted and merged on
+2026-09-02: 2025-03-19, 2025-07-30 and 2026-06-17. The 2026 vote record is now
+complete: five meetings, twelve voters each, and it reconciles to the published
+tallies.
+
+Two corrections that came out of that pass and matter downstream:
+  - 2026-01-28 was 10-2, not 11-1. Waller dissented alongside Miran.
+  - Waller's career dissent count is 3, not 1. He dissented 2025-03-19 (on the
+    pace of balance-sheet runoff, not the rate), 2025-07-30 (preferring a cut)
+    and 2026-01-28 (preferring a cut). A model reading him as a near-zero
+    dissent risk was reading a parsing gap.
+
+And one confirmation: the execution plan flagged the July 2026 account as
+doubtful -- "9-3 with three preferring a hike ... does not match other
+reporting." The minutes say exactly that, verbatim. Hammack, Kashkari and Logan
+preferred a 25bp hike. Encoded.
+
+WHERE TO START: README.md at the corpus root is the front door -- what the
+corpus is, the roster arithmetic, the complete 2026 vote record with dissent
+directions, the known gaps and the open items. _DATASET_MAP.md describes what
+lives in every directory.
+
+This manifest is organised by requested ITEM NUMBER and answers only "was it
+acquired". For where something lives, read _DATASET_MAP.md. For what it means,
+read README.md.

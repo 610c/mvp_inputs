@@ -1,0 +1,57 @@
+{
+ "key": "williams",
+ "full_name": "John C. Williams",
+ "role": "president",
+ "title": "Vice Chair of the FOMC",
+ "district": "New York",
+ "sep_2026_09": {
+  "submits_dot": true,
+  "voter": true,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt",
+  "permanent_voter": true
+ },
+ "tenure": {
+  "seat_start": null,
+  "seat_end": null,
+  "role_start": null,
+  "role_end": null,
+  "prior_service": null,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt",
+  "note": "Reserve Bank president start dates are NOT in this corpus. Do not encode a start date from memory. first_fomc_vote below is a lower bound on tenure and is primary-sourced."
+ },
+ "vote_history": {
+  "n_recorded_votes": 83,
+  "n_dissents": 0,
+  "dissent_rate": 0.0,
+  "first_fomc_vote": "20120125",
+  "last_fomc_vote": "20260729",
+  "dissent_dates": [],
+  "source": "votes.json (FOMC statements 1999-2026 + 2026 minutes)"
+ },
+ "record_2026": {
+  "votes": {
+   "20260128": "FOR",
+   "20260318": "FOR",
+   "20260429": "FOR",
+   "20260617": "FOR",
+   "20260729": "FOR"
+  },
+  "n_dissents_2026": 0,
+  "note": "Direction of dissent is in _2026_meeting_outcomes.json and is NOT recoverable from the FOR/AGAINST flag. Committee: 2026-01-28 10-2 (dovish), 2026-03-18 11-1 (dovish), 2026-04-29 8-4 (Miran dovish on rate; Hammack/Kashkari/Logan hawkish on easing-bias LANGUAGE), 2026-06-17 12-0, 2026-07-29 9-3 (Hammack/Kashkari/Logan preferred a 25bp HIKE). Miran left the Board before June and is not a September participant; his three dovish dissents leave with him, shifting the base rate hawkish.",
+  "dissent_detail": {}
+ },
+ "corpus": {
+  "window": "2026-06-18 to 2026-09-04 (post-June-meeting, pre-blackout)",
+  "documents": {
+   "speeches": [
+    "williams_20260715_stability_of_thy_times.txt"
+   ],
+   "testimony": [],
+   "interviews": [],
+   "background": []
+  },
+  "n_usable_text": 1,
+  "n_stub_no_transcript": 0,
+  "background_is_out_of_window": false
+ }
+}

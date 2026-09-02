@@ -1,0 +1,71 @@
+{
+ "key": "kashkari",
+ "full_name": "Neel Kashkari",
+ "role": "president",
+ "title": "President",
+ "district": "Minneapolis",
+ "sep_2026_09": {
+  "submits_dot": true,
+  "voter": true,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt"
+ },
+ "tenure": {
+  "seat_start": null,
+  "seat_end": null,
+  "role_start": null,
+  "role_end": null,
+  "prior_service": null,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt",
+  "note": "Reserve Bank president start dates are NOT in this corpus. Do not encode a start date from memory. first_fomc_vote below is a lower bound on tenure and is primary-sourced."
+ },
+ "vote_history": {
+  "n_recorded_votes": 27,
+  "n_dissents": 5,
+  "dissent_rate": 0.1852,
+  "first_fomc_vote": "20170201",
+  "last_fomc_vote": "20260729",
+  "dissent_dates": [
+   "20170315",
+   "20170614",
+   "20171213",
+   "20260429",
+   "20260729"
+  ],
+  "source": "votes.json (FOMC statements 1999-2026 + 2026 minutes)"
+ },
+ "record_2026": {
+  "votes": {
+   "20260128": "FOR",
+   "20260318": "FOR",
+   "20260429": "AGAINST",
+   "20260617": "FOR",
+   "20260729": "AGAINST"
+  },
+  "n_dissents_2026": 2,
+  "note": "Direction of dissent is in _2026_meeting_outcomes.json and is NOT recoverable from the FOR/AGAINST flag. Committee: 2026-01-28 10-2 (dovish), 2026-03-18 11-1 (dovish), 2026-04-29 8-4 (Miran dovish on rate; Hammack/Kashkari/Logan hawkish on easing-bias LANGUAGE), 2026-06-17 12-0, 2026-07-29 9-3 (Hammack/Kashkari/Logan preferred a 25bp HIKE). Miran left the Board before June and is not a September participant; his three dovish dissents leave with him, shifting the base rate hawkish.",
+  "dissent_detail": {
+   "20260429": {
+    "direction": "SPLIT",
+    "verbatim": "Stephen I. Miran, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting and Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who supported maintaining the target range for the federal funds rate but did not support inclusion of an easing bias in the statement at this time."
+   },
+   "20260729": {
+    "direction": "HAWKISH",
+    "verbatim": "Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting."
+   }
+  }
+ },
+ "corpus": {
+  "window": "2026-06-18 to 2026-09-04 (post-June-meeting, pre-blackout)",
+  "documents": {
+   "speeches": [
+    "kashkari_20260731_july_fomc_dissent_statement.txt"
+   ],
+   "testimony": [],
+   "interviews": [],
+   "background": []
+  },
+  "n_usable_text": 1,
+  "n_stub_no_transcript": 0,
+  "background_is_out_of_window": false
+ }
+}

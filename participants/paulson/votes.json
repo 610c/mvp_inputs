@@ -1,0 +1,36 @@
+{
+ "participant": "Paulson",
+ "n_recorded_votes": 5,
+ "n_dissents": 0,
+ "dissent_rate": 0.0,
+ "first_recorded_vote": "20260128",
+ "last_recorded_vote": "20260729",
+ "note": "Parsed from FOMC statements 1999-2026 and, from 2026-06-17 onward, from the minutes (the statement stopped naming the full roster at the Warsh format change). Dissent = named in 'Voting against'. Does NOT distinguish rate dissents from statement-language dissents; see ../../04_statements_archive/_COVERAGE_README.txt.",
+ "votes": [
+  {
+   "date": "20260128",
+   "vote": "FOR",
+   "source": "fomcminutes20260128.txt"
+  },
+  {
+   "date": "20260318",
+   "vote": "FOR",
+   "source": "fomc_statement_20260318.txt"
+  },
+  {
+   "date": "20260429",
+   "vote": "FOR",
+   "source": "fomcminutes20260429.txt"
+  },
+  {
+   "date": "20260617",
+   "vote": "FOR",
+   "source": "fomcminutes20260617.pdf"
+  },
+  {
+   "date": "20260729",
+   "vote": "FOR",
+   "source": "fomcminutes20260729.txt"
+  }
+ ]
+}

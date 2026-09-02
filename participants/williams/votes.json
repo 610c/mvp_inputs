@@ -1,0 +1,426 @@
+{
+ "participant": "Williams",
+ "n_recorded_votes": 83,
+ "n_dissents": 0,
+ "dissent_rate": 0.0,
+ "first_recorded_vote": "20120125",
+ "last_recorded_vote": "20260729",
+ "note": "Parsed from FOMC statements 1999-2026 and, from 2026-06-17 onward, from the minutes (the statement stopped naming the full roster at the Warsh format change). Dissent = named in 'Voting against'. Does NOT distinguish rate dissents from statement-language dissents; see ../../04_statements_archive/_COVERAGE_README.txt.",
+ "votes": [
+  {
+   "date": "20120125",
+   "vote": "FOR",
+   "source": "fomc_statement_20120125.txt"
+  },
+  {
+   "date": "20120313",
+   "vote": "FOR",
+   "source": "fomc_statement_20120313.txt"
+  },
+  {
+   "date": "20120425",
+   "vote": "FOR",
+   "source": "fomc_statement_20120425.txt"
+  },
+  {
+   "date": "20120620",
+   "vote": "FOR",
+   "source": "fomc_statement_20120620.txt"
+  },
+  {
+   "date": "20120801",
+   "vote": "FOR",
+   "source": "fomc_statement_20120801.txt"
+  },
+  {
+   "date": "20120913",
+   "vote": "FOR",
+   "source": "fomc_statement_20120913.txt"
+  },
+  {
+   "date": "20121024",
+   "vote": "FOR",
+   "source": "fomc_statement_20121024.txt"
+  },
+  {
+   "date": "20121212",
+   "vote": "FOR",
+   "source": "fomc_statement_20121212.txt"
+  },
+  {
+   "date": "20150128",
+   "vote": "FOR",
+   "source": "fomc_statement_20150128.txt"
+  },
+  {
+   "date": "20150318",
+   "vote": "FOR",
+   "source": "fomc_statement_20150318.txt"
+  },
+  {
+   "date": "20150429",
+   "vote": "FOR",
+   "source": "fomc_statement_20150429.txt"
+  },
+  {
+   "date": "20150617",
+   "vote": "FOR",
+   "source": "fomc_statement_20150617.txt"
+  },
+  {
+   "date": "20150729",
+   "vote": "FOR",
+   "source": "fomc_statement_20150729.txt"
+  },
+  {
+   "date": "20150917",
+   "vote": "FOR",
+   "source": "fomc_statement_20150917.txt"
+  },
+  {
+   "date": "20151028",
+   "vote": "FOR",
+   "source": "fomc_statement_20151028.txt"
+  },
+  {
+   "date": "20151216",
+   "vote": "FOR",
+   "source": "fomc_statement_20151216.txt"
+  },
+  {
+   "date": "20180131",
+   "vote": "FOR",
+   "source": "fomc_statement_20180131.txt"
+  },
+  {
+   "date": "20180321",
+   "vote": "FOR",
+   "source": "fomc_statement_20180321.txt"
+  },
+  {
+   "date": "20180502",
+   "vote": "FOR",
+   "source": "fomc_statement_20180502.txt"
+  },
+  {
+   "date": "20180613",
+   "vote": "FOR",
+   "source": "fomc_statement_20180613.txt"
+  },
+  {
+   "date": "20180801",
+   "vote": "FOR",
+   "source": "fomc_statement_20180801.txt"
+  },
+  {
+   "date": "20180926",
+   "vote": "FOR",
+   "source": "fomc_statement_20180926.txt"
+  },
+  {
+   "date": "20181108",
+   "vote": "FOR",
+   "source": "fomc_statement_20181108.txt"
+  },
+  {
+   "date": "20181219",
+   "vote": "FOR",
+   "source": "fomc_statement_20181219.txt"
+  },
+  {
+   "date": "20190130",
+   "vote": "FOR",
+   "source": "fomc_statement_20190130.txt"
+  },
+  {
+   "date": "20190320",
+   "vote": "FOR",
+   "source": "fomc_statement_20190320.txt"
+  },
+  {
+   "date": "20190501",
+   "vote": "FOR",
+   "source": "fomc_statement_20190501.txt"
+  },
+  {
+   "date": "20190619",
+   "vote": "FOR",
+   "source": "fomc_statement_20190619.txt"
+  },
+  {
+   "date": "20190731",
+   "vote": "FOR",
+   "source": "fomc_statement_20190731.txt"
+  },
+  {
+   "date": "20190918",
+   "vote": "FOR",
+   "source": "fomc_statement_20190918.txt"
+  },
+  {
+   "date": "20191030",
+   "vote": "FOR",
+   "source": "fomc_statement_20191030.txt"
+  },
+  {
+   "date": "20191211",
+   "vote": "FOR",
+   "source": "fomc_statement_20191211.txt"
+  },
+  {
+   "date": "20200129",
+   "vote": "FOR",
+   "source": "fomc_statement_20200129.txt"
+  },
+  {
+   "date": "20200303",
+   "vote": "FOR",
+   "source": "fomc_statement_20200303.txt"
+  },
+  {
+   "date": "20200315",
+   "vote": "FOR",
+   "source": "fomc_statement_20200315.txt"
+  },
+  {
+   "date": "20200429",
+   "vote": "FOR",
+   "source": "fomc_statement_20200429.txt"
+  },
+  {
+   "date": "20200610",
+   "vote": "FOR",
+   "source": "fomc_statement_20200610.txt"
+  },
+  {
+   "date": "20200729",
+   "vote": "FOR",
+   "source": "fomc_statement_20200729.txt"
+  },
+  {
+   "date": "20200916",
+   "vote": "FOR",
+   "source": "fomc_statement_20200916.txt"
+  },
+  {
+   "date": "20201105",
+   "vote": "FOR",
+   "source": "fomc_statement_20201105.txt"
+  },
+  {
+   "date": "20201216",
+   "vote": "FOR",
+   "source": "fomc_statement_20201216.txt"
+  },
+  {
+   "date": "20210127",
+   "vote": "FOR",
+   "source": "monetary20210127a.htm"
+  },
+  {
+   "date": "20210317",
+   "vote": "FOR",
+   "source": "monetary20210317a.htm"
+  },
+  {
+   "date": "20210428",
+   "vote": "FOR",
+   "source": "monetary20210428a.htm"
+  },
+  {
+   "date": "20210616",
+   "vote": "FOR",
+   "source": "monetary20210616a.htm"
+  },
+  {
+   "date": "20210728",
+   "vote": "FOR",
+   "source": "monetary20210728a.htm"
+  },
+  {
+   "date": "20210922",
+   "vote": "FOR",
+   "source": "monetary20210922a.htm"
+  },
+  {
+   "date": "20211103",
+   "vote": "FOR",
+   "source": "monetary20211103a.htm"
+  },
+  {
+   "date": "20211215",
+   "vote": "FOR",
+   "source": "monetary20211215a.htm"
+  },
+  {
+   "date": "20220126",
+   "vote": "FOR",
+   "source": "monetary20220126a.htm"
+  },
+  {
+   "date": "20220316",
+   "vote": "FOR",
+   "source": "monetary20220316a.htm"
+  },
+  {
+   "date": "20220504",
+   "vote": "FOR",
+   "source": "monetary20220504a.htm"
+  },
+  {
+   "date": "20220615",
+   "vote": "FOR",
+   "source": "monetary20220615a.htm"
+  },
+  {
+   "date": "20220727",
+   "vote": "FOR",
+   "source": "monetary20220727a.htm"
+  },
+  {
+   "date": "20220921",
+   "vote": "FOR",
+   "source": "monetary20220921a.htm"
+  },
+  {
+   "date": "20221102",
+   "vote": "FOR",
+   "source": "monetary20221102a.htm"
+  },
+  {
+   "date": "20221214",
+   "vote": "FOR",
+   "source": "monetary20221214a.htm"
+  },
+  {
+   "date": "20230322",
+   "vote": "FOR",
+   "source": "monetary20230322a.htm"
+  },
+  {
+   "date": "20230614",
+   "vote": "FOR",
+   "source": "monetary20230614a.htm"
+  },
+  {
+   "date": "20230726",
+   "vote": "FOR",
+   "source": "monetary20230726a.htm"
+  },
+  {
+   "date": "20230920",
+   "vote": "FOR",
+   "source": "monetary20230920a.htm"
+  },
+  {
+   "date": "20231101",
+   "vote": "FOR",
+   "source": "monetary20231101a.htm"
+  },
+  {
+   "date": "20231213",
+   "vote": "FOR",
+   "source": "monetary20231213a.htm"
+  },
+  {
+   "date": "20240131",
+   "vote": "FOR",
+   "source": "monetary20240131a.htm"
+  },
+  {
+   "date": "20240320",
+   "vote": "FOR",
+   "source": "monetary20240320a.htm"
+  },
+  {
+   "date": "20240612",
+   "vote": "FOR",
+   "source": "monetary20240612a.htm"
+  },
+  {
+   "date": "20240731",
+   "vote": "FOR",
+   "source": "monetary20240731a.htm"
+  },
+  {
+   "date": "20240918",
+   "vote": "FOR",
+   "source": "monetary20240918a.htm"
+  },
+  {
+   "date": "20241107",
+   "vote": "FOR",
+   "source": "monetary20241107a.htm"
+  },
+  {
+   "date": "20241218",
+   "vote": "FOR",
+   "source": "monetary20241218a.htm"
+  },
+  {
+   "date": "20250129",
+   "vote": "FOR",
+   "source": "monetary20250129a.htm"
+  },
+  {
+   "date": "20250319",
+   "vote": "FOR",
+   "source": "monetary20250319a1.pdf"
+  },
+  {
+   "date": "20250507",
+   "vote": "FOR",
+   "source": "monetary20250507a.htm"
+  },
+  {
+   "date": "20250618",
+   "vote": "FOR",
+   "source": "monetary20250618a.htm"
+  },
+  {
+   "date": "20250730",
+   "vote": "FOR",
+   "source": "monetary20250730a1.pdf"
+  },
+  {
+   "date": "20250917",
+   "vote": "FOR",
+   "source": "monetary20250917a.htm"
+  },
+  {
+   "date": "20251029",
+   "vote": "FOR",
+   "source": "monetary20251029a.htm"
+  },
+  {
+   "date": "20251210",
+   "vote": "FOR",
+   "source": "monetary20251210a.htm"
+  },
+  {
+   "date": "20260128",
+   "vote": "FOR",
+   "source": "fomcminutes20260128.txt"
+  },
+  {
+   "date": "20260318",
+   "vote": "FOR",
+   "source": "fomc_statement_20260318.txt"
+  },
+  {
+   "date": "20260429",
+   "vote": "FOR",
+   "source": "fomcminutes20260429.txt"
+  },
+  {
+   "date": "20260617",
+   "vote": "FOR",
+   "source": "fomcminutes20260617.pdf"
+  },
+  {
+   "date": "20260729",
+   "vote": "FOR",
+   "source": "fomcminutes20260729.txt"
+  }
+ ]
+}

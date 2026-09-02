@@ -1,0 +1,65 @@
+{
+ "key": "warsh",
+ "full_name": "Kevin Warsh",
+ "role": "governor",
+ "title": "Chair",
+ "district": null,
+ "sep_2026_09": {
+  "submits_dot": false,
+  "voter": true,
+  "source": "../10_structural/sep_participant_count_RESOLVED.txt"
+ },
+ "tenure": {
+  "seat_start": "2026-05-22",
+  "seat_end": "2040-01-31",
+  "role_start": "2026-05-22",
+  "role_end": "2030-05-21",
+  "prior_service": "governor 2006-02-24 to 2011-04-02",
+  "source": "../10_structural/CRS_R48233_board_membership.txt",
+  "note": null
+ },
+ "vote_history": {
+  "n_recorded_votes": 42,
+  "n_dissents": 0,
+  "dissent_rate": 0.0,
+  "first_fomc_vote": "20060328",
+  "last_fomc_vote": "20260729",
+  "dissent_dates": [],
+  "source": "votes.json (FOMC statements 1999-2026 + 2026 minutes)"
+ },
+ "record_2026": {
+  "votes": {
+   "20260128": null,
+   "20260318": null,
+   "20260429": null,
+   "20260617": "FOR",
+   "20260729": "FOR"
+  },
+  "n_dissents_2026": 0,
+  "note": "Direction of dissent is in _2026_meeting_outcomes.json and is NOT recoverable from the FOR/AGAINST flag. Committee: 2026-01-28 10-2 (dovish), 2026-03-18 11-1 (dovish), 2026-04-29 8-4 (Miran dovish on rate; Hammack/Kashkari/Logan hawkish on easing-bias LANGUAGE), 2026-06-17 12-0, 2026-07-29 9-3 (Hammack/Kashkari/Logan preferred a 25bp HIKE). Miran left the Board before June and is not a September participant; his three dovish dissents leave with him, shifting the base rate hawkish.",
+  "dissent_detail": {}
+ },
+ "corpus": {
+  "window": "2026-06-18 to 2026-09-04 (post-June-meeting, pre-blackout)",
+  "documents": {
+   "speeches": [
+    "warsh20260828_jackson_hole_in_our_time.txt"
+   ],
+   "testimony": [
+    "warsh_20260714_semiannual_mpr_testimony.txt"
+   ],
+   "interviews": [
+    "presconf_20260617_warsh_transcript.txt",
+    "presconf_20260729_warsh_transcript.txt"
+   ],
+   "background": [
+    "_warsh_pre_fed_writings_bibliography.txt",
+    "warsh_2014_boe_mpc_transparency_review.txt",
+    "warsh_20260421_senate_confirmation_opening_statement.txt"
+   ]
+  },
+  "n_usable_text": 4,
+  "n_stub_no_transcript": 0,
+  "background_is_out_of_window": true
+ }
+}

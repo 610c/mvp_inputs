@@ -1,0 +1,58 @@
+{
+ "key": "daly",
+ "full_name": "Mary C. Daly",
+ "role": "president",
+ "title": "President (alternate member 2026)",
+ "district": "San Francisco",
+ "sep_2026_09": {
+  "submits_dot": true,
+  "voter": false,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt"
+ },
+ "tenure": {
+  "seat_start": null,
+  "seat_end": null,
+  "role_start": null,
+  "role_end": null,
+  "prior_service": null,
+  "source": "../10_structural/fomc_membership_2026-07-29_from_minutes.txt",
+  "note": "Reserve Bank president start dates are NOT in this corpus. Do not encode a start date from memory. first_fomc_vote below is a lower bound on tenure and is primary-sourced."
+ },
+ "vote_history": {
+  "n_recorded_votes": 18,
+  "n_dissents": 0,
+  "dissent_rate": 0.0,
+  "first_fomc_vote": "20181108",
+  "last_fomc_vote": "20241218",
+  "dissent_dates": [],
+  "source": "votes.json (FOMC statements 1999-2026 + 2026 minutes)"
+ },
+ "record_2026": {
+  "votes": {
+   "20260128": null,
+   "20260318": null,
+   "20260429": null,
+   "20260617": null,
+   "20260729": null
+  },
+  "n_dissents_2026": 0,
+  "note": "Direction of dissent is in _2026_meeting_outcomes.json and is NOT recoverable from the FOR/AGAINST flag. Committee: 2026-01-28 10-2 (dovish), 2026-03-18 11-1 (dovish), 2026-04-29 8-4 (Miran dovish on rate; Hammack/Kashkari/Logan hawkish on easing-bias LANGUAGE), 2026-06-17 12-0, 2026-07-29 9-3 (Hammack/Kashkari/Logan preferred a 25bp HIKE). Miran left the Board before June and is not a September participant; his three dovish dissents leave with him, shifting the base rate hawkish.",
+  "dissent_detail": {}
+ },
+ "corpus": {
+  "window": "2026-06-18 to 2026-09-04 (post-June-meeting, pre-blackout)",
+  "documents": {
+   "speeches": [
+    "daly_20260805_esri_tokyo_keynote.txt"
+   ],
+   "testimony": [],
+   "interviews": [
+    "daly_20260820_bloomberg_surveillance_NO_TRANSCRIPT.txt"
+   ],
+   "background": []
+  },
+  "n_usable_text": 1,
+  "n_stub_no_transcript": 1,
+  "background_is_out_of_window": false
+ }
+}
